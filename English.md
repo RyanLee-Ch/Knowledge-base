@@ -26,15 +26,25 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 1.具体指向对象（有明确的目标对象）：**The**
 |普遍对象|简译|特指对象|简译|
 |:-:|:-:|:-:|:-:|
-|morning sunlight|晨光|The morning sunlight|（那道）晨光|
-|moonlight|月光|The moonlight|（那道）月光|
+|morning sunlight|晨光|**The** morning sunlight|（那道）晨光|
+|moonlight|月光|**The** moonlight|（那道）月光|
 
-2.动作补充行动范围：
+2.补充动作的行径：**verb.** + **supp.**
+|verb|简译|supp|简译|组合|简译|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|spilled|散落|**through** the window|透过窗户|spilled through the window|透窗窗户散落（在某处）|
+|ran|跑|**across** the field|穿过田野|ran across the field|跑过田野|
 
+3.全景描述（书写手法），某个物品在某个地方：**loc.** + **Where** + **verb.**
+|Chi|loc|Where|verb|compl.|
+|:--:|:--:|:--:|:--:|:---:|
+|这是我用来存所有照片的手机|The phone|where|I save all my photos|The phone **where** I save all my photos|
+|这是奶奶用来种菜的花园|The garden|where|my grandma grows vegetables|The garden **where** my grandma grows vegetables|
+|一切的改变都在2020年|The year 2020|where|everything changed|The year 2020 **where** everthing changed|
 ---
 
 
-<h2 style="text-align: center;">单词表</h2>
+<h2 style="text-align: center;">名词表</h2>
 
 #### 家居布局
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -83,3 +93,20 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |backpack|背包|/|
 
 ---
+
+<h2 style="text-align: center;">动词表</h2>
+
+|Eng-1|Chi|IPA|e.g.|过去式|过去分词|现在分词|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|wake|唤醒|weɪk|**wake** me up|woke|woken|waking|
+|stretch|伸展|stretʃ|**stretch** your muscles|stretched|streched|stretching|
+|adjust|调整|əˈdʒʌst|**adjust** the seat height|adjusted|adjusted|adjusting|
+|glance|扫一眼|ɡlæns|**glanced** at the nightstand|glanced|glanced|glancing|
+
+
+<h2 style="text-align: center;">副词表</h2>
+
+#### 动作补充
+|Eng-1|Chi|e.g.|IPA|Eng-2|Chi|e.g.|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|gently|轻轻地|**gently waking** Mia|/|
