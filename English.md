@@ -3,7 +3,7 @@
 <h2 style="text-align: center;">小说集</>
 
 #### A Day In the Little House:
-The morning sunlight spilled through the window onto the bed, gently waking Mia. She stretched and adjusted her pillow, then glanced at the nightstand where her laptop sat beside a framed piture frame. After slipping into her slippers, she walked to the bathroom sink to brush her teeth with a toothbrush and toothpaste. The mirror reflected her sleepy face as she reached for the face wash.
+The morning sunlight spilled through the window onto the bed, gently waking Mia. She stretched and adjusted her pillow, then glanced at the nightstand where her laptop sat beside a piture frame. After slipping into her slippers, she walked to the bathroom sink to brush her teeth with a toothbrush and toothpaste. The mirror reflected her sleepy face as she reached for the face wash.
 （晨光透过窗户洒在床上，轻轻地唤醒了Mia，她伸了个懒腰，调整了一下枕头，瞥见床头柜上的笔记本电脑和旁边的相框。穿上拖鞋后，她走到洗漱台前，用牙刷和牙膏刷牙。镜子映出她惺忪的睡脸，她伸手拿起了洗面奶。）
 
 in the kitchen, Mia turned on the induction cooker to boil water in a kettle. She grabbed a bowl and chopsticks from the drawer, then strired oatmeal with a spoon. The range hood hummed softly as she opend the fridge for milk. Suddenly, her wireless speaker played a notification——her roomate Lily was video-calling. Mia hurried to the living room, nearly tripping over the charging cable on the computer desk.
@@ -41,6 +41,33 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |这是我用来存所有照片的手机|The phone|where|I save all my photos|The phone **where** I save all my photos|
 |这是奶奶用来种菜的花园|The garden|where|my grandma grows vegetables|The garden **where** my grandma grows vegetables|
 |一切的改变都在2020年|The year 2020|where|everything changed|The year 2020 **where** everthing changed|
+
+4.使用某物去做某事：**verb.** + **with** + **non.**
+|Chi|verb.|with|non|compl.|
+|:-:|:-:|:-:|:-:|:-:|
+|用她的牙刷刷牙|bruth her teeth|wtih|a toothbrush and toothpaste|bruth her teeth **with** a toothbrush and toothpaste|
+|用钥匙开门|opened the door|with|a key|opened the door **with** a kay|
+|用锤子修理架子|fixed the shelf|with|a hammer|fixed the door **with** a hammer|
+
+5.在做某事的同时也在做另一件事：**doing.A** + **as** + **doing.B**
+|Chi|doing.A|as|doing.B|compl.|
+|:-:|:-:|:-:|:-:|:-:|
+|镜子照出她困倦的脸时，伸手拿起了洗面奶|The mirror relfected her face|as|she reached for the face wash|The mirror relfected her face as she reached for he face wash|
+|她离开房间时挥了挥手|She waved|as|she left the room|She waved as she left the room|
+
+6.描述在某个地方：**in**、**on**、**at**
+|prep.|范围|Chi|e.g.|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|on|物品、可站起的交通工具|上方、表面|The cup is **on** the table|杯子在桌子上|
+|in|城市、容器|在内部|She is **in** the room|她在房间里|
+|at|站点、门牌、事件、具体对象|在哪里|Meet me **at** the entrace|在入口处见我|
+
+7.表达做某事的目的：**doing.** + **to** + **OBJ.**
+|Chi|doing.A|to|OBJ.|compl.|
+|:-:|:-:|:-:|:-:|:-:|
+|打开电磁炉用热水壶烧水|turned on the induction cooker|to|boil water in a kettle|turned on the induction cooker **to** boil water in kettle|
+|开窗让空气进来|opened the window|to|let in fresh air|opened the window **to** let in fresh air|
+
 ---
 
 
@@ -102,11 +129,47 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |stretch|伸展|stretʃ|**stretch** your muscles|stretched|streched|stretching|
 |adjust|调整|əˈdʒʌst|**adjust** the seat height|adjusted|adjusted|adjusting|
 |glance|扫一眼|ɡlæns|**glanced** at the nightstand|glanced|glanced|glancing|
+|slip into|迅速的、轻轻的穿（衣物或鞋）|/|**slipped into** her coat|slipped into|slipped into|slipping into|
+|walk to|走去（什么地方）|/|Yesterday, he **walked to** the park|walked to|walked to|walking to|
+|brush|刷|/|**brush** her teeth|brushed|brushed|brushing|
+|relect|反射、映照出|/|mirror **reflected** her sleepy face|reflected|reflected|reflecting|
+|reach for|伸手去拿|/|**reached for** the face wash|reach for|reached for|reaching for|
+|turn on|打开（电器或设备）|/|**turned on** the induction cooker|turned on|turned on|turning on|
 
+
+---
+
+<h2 style="text-align: center;">形容词表</h2>
+
+|Eng-1|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|sleepy|犯困的、睡眼惺忪的|/|**sleppy** face|**sleepy** child|
+
+
+---
 
 <h2 style="text-align: center;">副词表</h2>
 
 #### 动作补充
-|Eng-1|Chi|e.g.|IPA|Eng-2|Chi|e.g.|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|gently|轻轻地|**gently waking** Mia|/|
+|Eng-1|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|gently|轻轻地|/|**gently waking** Mia|
+
+<h2 style="text-align: center;">介词表</h2>
+
+#### 位置补充介词：
+|Eng-1|Chi|IPA|e.g.1|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|beside|在旁边|/|There is a small table **beside the bed**|有张小桌子在我的床旁边|
+
+#### 时间补充介词：
+|Eng-1|Chi|IPA|e.g.1|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|After|在...之后|/|**After** slipping into her slippers, ...|在穿上她的拖鞋后，...|
+|as|（做什么）时|/|The mirror reflected her sleepy face as she reached for the face wash|镜子照出她库卷的脸时，她找了找洗面奶|
+
+#### 方式补充介词：
+|Eng-1|Chi|IPA|e.g.1|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|with|用...|/|He fixed the door with a hammer|他用锤子修架子|
+
