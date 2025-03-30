@@ -164,3 +164,48 @@ export default function Button({children}){
 1. 标签选择器：`div { color: red; }`：将所有div标签的color设置为red；
 2. 类选择器：`.button { padding: 10px; }`：设定一个名为button的类选择器，能够被`className={styles.button}`标记的**多个标签**调用
 3. ID选择器：`#header { height: 60px; }`：设定一个名为header的ID选择器，能够被`id={header}`标记的
+
+- CSS样式编辑
+
+布局类CSS：
+|属性|作用|属性值|示例|
+|:-:|:-:|:-:|:-:|
+|`display`|元素显示模式|`flex`, `grid`，`block`|`display: flex;`|
+|`position`|定位方式|`relative`，`absolute`|`position: relative;`|
+|`top/left`|定位偏移|`px`，`%`|`top: 100px;`|
+|`flex-direction`|Flex容器排列方向|`row`，`column`|`flex-direction: row;`|
+|`justify-content`|主轴对齐方式|`center`，`space-between`|`justify-content: center;`|
+|`align-items`|交叉轴对齐方式|`stretch`，`flex-start`|`align-items: stretch;`|
+
+盒模型CSS：
+|属性|作用|属性值|示例|
+|:-:|:-:|:-:|:-:|
+|`width`|宽度|`px`，`%`|`width: 200px;`|
+|`padding`|内边距|`px`，`%`|`padding: 20px;`|
+|`margin`|外边距|`auto`，`px`，`%`|`margin: 10px auto`|
+|`border`|边框|`px solid/dashed color`|`border: 2px dashed red;`|
+
+文本样式CSS：
+|属性|作用|属性值|示例|
+|:-:|:-:|:-:|:-:|
+|`color`|文本颜色|`#十六进制色号`，`rgba(RGBA代码)`，`颜色单词`|`color: red;`|
+|`font-size`|字体大小|`px`，`rem`|`font-size: 2rem;`|
+|`font-weight`|字体粗细|`bold`，`具体大小`|`font-weight: bold;`|
+|`text-align`|水平对齐|`left`，`center`|`text-align: center;`|
+|`line-height`|行高|`px`，`具体值`|`line-height: 1.5;`|
+|`text-decoration`|文本装饰|`underline`，`none`|`text-decoration: underline;`|
+
+背景与边框CSS：
+|属性|作用|属性值|示例|
+|:-:|:-:|:-:|:-:|
+|`background-color`|背景颜色|`transparent`，`#十六进制色号`，`颜色单词`|`background-color: #f0f0f0;`|
+|`background-image`|北京图片|`url('图片路径')`|`background-image: url('image.jpg');`|
+|`border-radius`|圆角|`px`，`%`|`border-radius: 50%;`|
+|`box-shadow`|阴影|`2px 2px 10px rgba(0,0,0,0.1)`|`box-shadow: 2px 2px 10px rgba(0,0,0,0.1);`|
+
+动画与过渡CSS：
+|属性|作用|属性值|示例|
+|:-:|:-:|:-:|:-:|
+|`transition`|过渡效果|`all 0.3s ease-in-out`|`transition: transform 0.3s;`|
+|`animation`|关键帧动画|`slide 1s infinite`|/|
+|`transform`|变形效果|`rotate(45deg)`，`scale(1.2)`|/|

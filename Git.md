@@ -76,3 +76,8 @@ git reset --hard v版本号
 ```cmd
 git clean -fd
 ```
+
+### 克隆
+```
+git clone 项目地址，如：https://github.com/RyanLee-Ch/Knowledge-base.git
+```

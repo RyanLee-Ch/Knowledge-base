@@ -6,7 +6,7 @@
 The morning sunlight spilled through the window onto the bed, gently waking Mia. She stretched and adjusted her pillow, then glanced at the nightstand where her laptop sat beside a piture frame. After slipping into her slippers, she walked to the bathroom sink to brush her teeth with a toothbrush and toothpaste. The mirror reflected her sleepy face as she reached for the face wash.
 （晨光透过窗户洒在床上，轻轻地唤醒了Mia，她伸了个懒腰，调整了一下枕头，瞥见床头柜上的笔记本电脑和旁边的相框。穿上拖鞋后，她走到洗漱台前，用牙刷和牙膏刷牙。镜子映出她惺忪的睡脸，她伸手拿起了洗面奶。）
 
-in the kitchen, Mia turned on the induction cooker to boil water in a kettle. She grabbed a bowl and chopsticks from the drawer, then strired oatmeal with a spoon. The range hood hummed softly as she opend the fridge for milk. Suddenly, her wireless speaker played a notification——her roomate Lily was video-calling. Mia hurried to the living room, nearly tripping over the charging cable on the computer desk.
+In the kitchen, Mia turned on the induction cooker to boil water in a kettle. She grabbed a bowl and chopsticks from the drawer, then stirred oatmeal with a spoon. The range hood hummed softly as she opened the fridge for milk. Suddenly, her wireless speaker played a notification——her roomate Lily was video-calling. Mia hurried to the living room, nearly tripping over the charging cable on the computer desk.
 （厨房里，米娅打开电磁炉，用热水壶烧水。她从抽屉里拿出碗和筷子，用勺子搅拌燕麦粥。抽油烟机轻声嗡鸣，她打开冰箱取牛奶。突然，无线音响传来通知声——室友莉莉发来视频通话。米娅冲向客厅，差点被电脑桌上的充电线绊倒。）
 
 “Mia! Can you check the USB port? My mouse isn’t working!” Lily’s voice echoed through the monitor. Mia sighed and crouched under the table, fiddling with the PC case. A USB drive was plugged into the wrong port. “Fixed it!” she said, wiping dust off the keyboard.
@@ -62,12 +62,25 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |in|城市、容器|在内部|She is **in** the room|她在房间里|
 |at|站点、门牌、事件、具体对象|在哪里|Meet me **at** the entrace|在入口处见我|
 
-7.表达做某事的目的：**doing.** + **to** + **OBJ.**
+7.表达做某事是为了某件事：**doing.** + **to** + **OBJ.**
 |Chi|doing.A|to|OBJ.|compl.|
 |:-:|:-:|:-:|:-:|:-:|
 |打开电磁炉用热水壶烧水|turned on the induction cooker|to|boil water in a kettle|turned on the induction cooker **to** boil water in kettle|
 |开窗让空气进来|opened the window|to|let in fresh air|opened the window **to** let in fresh air|
 
+8.从什么地方做某事：**verb.** + **from** + **OBJ.**
+|Chi|verb|from|OBJ.|compl.|
+|:-:|:-:|:-:|:-:|:-:|
+|从抽屉拿出碗|She grabbed a bowl|from|the drawer|She grabbed a bowl **from** the drawer|
+|从桌子上跳下来|The cat jumped|from|the table|The cat jumped **from** the table|
+|从书架上拿书|She took a book|from|the shelf|She took a book **from** the shelf|
+
+9.表达做某事是为了某个物品或某个人：**doing.** + **for** + **OBJ.**
+|Chi|doing.A|for|OBJ.|compl.|
+|:-:|:-:|:-:|:-:|:-:|
+|打开冰箱拿牛奶|oepned the fridge|for|milk|opened the fridge **for** milk|
+|存钱买车|saved money|for|a car|saved money **for** a car|
+|为了健康锻炼|exercise|for|my health|exercise **for** my health|
 ---
 
 
@@ -119,6 +132,11 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |Trash back|垃圾袋|/|Umbrella|雨伞|/|Bottle opener|开瓶器|/|
 |backpack|背包|/|
 
+#### 可食用产品
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|oatmeal|燕麦|ˈoʊtmiːl|
+
 ---
 
 <h2 style="text-align: center;">动词表</h2>
@@ -133,9 +151,12 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |walk to|走去（什么地方）|/|Yesterday, he **walked to** the park|walked to|walked to|walking to|
 |brush|刷|/|**brush** her teeth|brushed|brushed|brushing|
 |relect|反射、映照出|/|mirror **reflected** her sleepy face|reflected|reflected|reflecting|
-|reach for|伸手去拿|/|**reached for** the face wash|reach for|reached for|reaching for|
+|reach for|伸手去拿（强调过程）|/|**reached for** the face wash|reach for|reached for|reaching for|
+|grab|拿、爪|/|**grab** the ball|grab|grabbed|grabbing|
 |turn on|打开（电器或设备）|/|**turned on** the induction cooker|turned on|turned on|turning on|
-
+|stir|搅拌|stɜːr|**stirred** the soup|stirred|stirred|stirring|
+|hum|发出嗡嗡声|/|The machine will **hum** when it's turned on|hummed|hummed|humming|
+|open|打开|/|**open** the window|opened|opened|opening|
 
 ---
 
@@ -153,7 +174,8 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 #### 动作补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
-|gently|轻轻地|/|**gently waking** Mia|
+|gently|轻轻地（声音、触摸、光线）|/|**gently waking** Mia|
+|softly|轻轻地（动作、自然现象、情绪）|/|
 
 <h2 style="text-align: center;">介词表</h2>
 
@@ -173,3 +195,8 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |with|用...|/|He fixed the door with a hammer|他用锤子修架子|
 
+#### 目的补充介词：
+|Eng-1|Chi|IPA|e.g.1|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|to|为了某事|/|She saved money **to** buy a car|她存钱买一辆车|
+|for|为了某物、某人|/|I need money **for** a new phone|我需要钱买一部新手机|
