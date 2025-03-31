@@ -81,6 +81,12 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |打开冰箱拿牛奶|oepned the fridge|for|milk|opened the fridge **for** milk|
 |存钱买车|saved money|for|a car|saved money **for** a car|
 |为了健康锻炼|exercise|for|my health|exercise **for** my health|
+
+10.短暂的连续性动作表达：**doing.** + **and** + **doing.**
+|Chi|doing.|and|doing.|compl.|
+|:-:|:-:|:-:|:-:|:-:|
+|Mia叹了口气，然后蹲下桌子|Mia sighed|and|crouched under the table|Mia sighed **and** couched under the table|
+
 ---
 
 
@@ -140,12 +146,19 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 #### 电子产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|notification|提示声（如微信、QQ的声音）|/|
+|notification|提示声（如微信、QQ的声音）|/|port|接口|/|
 
 #### 人物关系
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |roomate|室友|/|
+
+
+#### 生命集
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|voice|声音|/|
+
 ---
 
 <h2 style="text-align: center;">动词表</h2>
@@ -169,6 +182,12 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |play|播放|/|**plays** music|played|played|playing|
 |hurry|忙（着做某事）|/|**hurried** to the living room|hurried|hurried|hurrying|
 |trip over|被（某物）绊倒的|/|**tripping over** the charging cable|tripped over|tripped over|tripping over|
+|check|检查|/|**check** your email|checked|checked|checking|
+|echo|回响，（声音）传来|/|Lily's voice **echoed**|echoed|echoed|echoing|
+|sigh|叹气|/|Mia **sighed**|sighed|sighed|sighing|
+|crouch|弯腰蹲下|kraʊtʃ|Mia **crouched** under the table|crouched|crouched|crouching|
+|fiddle with|摆弄（某个物品对象）|/|**fiddling with** the PC case|fiddled with|fiddled with|fiddling with|
+|plug|插|/|**plugged** the charger into the wall|plugged|plugged|plugging|
 
 ---
 
@@ -185,6 +204,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
 |sleepy|犯困的、睡眼惺忪的|/|**sleppy** face|**sleepy** child|
+|wrong|错误的|/|**wrong** port|Your answer is **wrong**|
 
 ---
 
@@ -218,7 +238,8 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 #### 方式补充介词：
 |Eng-1|Chi|IPA|e.g.1|简译|
 |:-:|:-:|:-:|:-:|:-:|
-|with|用...|/|He fixed the door with a hammer|他用锤子修架子|
+|with|用...|/|He fixed the door **with** a hammer|他用锤子修架子|
+|through|从...|/|Lily's voice echoed **through** the monitor|Lily的声音从显示器传来|
 
 #### 目的补充介词：
 |Eng-1|Chi|IPA|e.g.1|简译|
