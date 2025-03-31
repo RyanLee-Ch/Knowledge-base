@@ -13,7 +13,7 @@ In the kitchen, Mia turned on the induction cooker to boil water in a kettle. Sh
 （“米娅！帮我看看USB接口，我的鼠标不动了！”莉莉的声音从显示器传来。米娅叹了口气，蹲到桌子下摆弄电脑主机，发现U盘插错了接口。“修好了！”她擦了擦键盘上的灰尘。）
 
 By afternoon, rain tapped against the balcony’s curtain. Mia grabbed an umbrella and stepped outside to rescue clothes from the drying rack. Back inside, she lit an incense stick to calm herself, then flopped onto the sofa with a remote to watch TV. The AC buzzed faintly as she dozed off.
-（午后，雨点敲打着阳台的窗帘。米娅抓起雨伞，冲出去抢救晾衣架上的衣服。回到屋内，她点燃香薰让自己平静，然后瘫在沙发上用遥控器看电视。空调轻声嗡鸣，她渐渐打起了盹。）
+（午后，雨点敲打着阳台的窗帘。米娅抓起雨伞，冲出去抢救晾衣架上的衣服。回到屋内，她点燃香薰让自己平静，然后瘫在沙发上用遥控器看电视。空调轻声嗡鸣，她渐渐打起了盹。）    
 
 Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked stir-fry in a wok, seasoned with salt and soy sauce, while arguing over whose turn it was to take out the trash can. After dinner, Mia plugged her phone into the charger and collapsed onto the mattress, staring at the ceiling light.
 （傍晚，莉莉回来了，把背包扔在凳子上。两人用炒锅做了翻炒菜，加了盐和酱油调味，一边争论轮到谁倒垃圾桶。晚餐后，米娅把手机插上充电器，瘫倒在床垫上，盯着天花板上的灯。）
@@ -137,6 +137,15 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |oatmeal|燕麦|ˈoʊtmiːl|
 
+#### 电子产品
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|notification|提示声（如微信、QQ的声音）|/|
+
+#### 人物关系
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|roomate|室友|/|
 ---
 
 <h2 style="text-align: center;">动词表</h2>
@@ -157,6 +166,17 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |stir|搅拌|stɜːr|**stirred** the soup|stirred|stirred|stirring|
 |hum|发出嗡嗡声|/|The machine will **hum** when it's turned on|hummed|hummed|humming|
 |open|打开|/|**open** the window|opened|opened|opening|
+|play|播放|/|**plays** music|played|played|playing|
+|hurry|忙（着做某事）|/|**hurried** to the living room|hurried|hurried|hurrying|
+|trip over|被（某物）绊倒的|/|**tripping over** the charging cable|tripped over|tripped over|tripping over|
+
+---
+
+<h2 style="text-align: center;">动名词表</h2>
+
+|Eng-1|Chi|IPA|e.g.|过去式|过去分词|现在分词|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|video-call|视频通话|/|They often **video-call** each other|video-called|video-called|video-calling|
 
 ---
 
@@ -165,7 +185,6 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
 |sleepy|犯困的、睡眼惺忪的|/|**sleppy** face|**sleepy** child|
-
 
 ---
 
@@ -176,6 +195,12 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |gently|轻轻地（声音、触摸、光线）|/|**gently waking** Mia|
 |softly|轻轻地（动作、自然现象、情绪）|/|
+
+#### 状态补充
+|Eng-1|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|Suddenly|突然|/|**suddenly** stopped talking|**Suddenly**, the door slammed shut|
+|nearly|差一点|/|**nearly** tripping|**nearly** dropping|
 
 <h2 style="text-align: center;">介词表</h2>
 
