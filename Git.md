@@ -81,3 +81,45 @@ git clean -fd
 ```
 git clone 项目地址，如：https://github.com/RyanLee-Ch/Knowledge-base.git
 ```
+
+### Push失败：
+让git链接代理端口即可；
+
+1.查看是否存在代理：
+```cmd
+git config --global --get http.proxy
+git config --global --get https.proxy
+```
+> 如果没有返回，则表示未代理
+
+2.从代理软件中找到HTTP或SOCKS端口，
+- v2ray的socks一般是：`socks:10808`
+- v2ray的http一般是：`http:10809`
+
+http代理设置：
+```
+git config --global http.proxy http://127.0.0.1:10809
+git config --global https.proxy http://127.0.0.1:10809
+```
+Socks代理设置：
+```
+git config --global http.proxy socks5://127.0.0.1:10808
+git config --global https.proxy socks5://127.0.0.1:10808
+```
+
+3.再次检查代理配置（如果有返回则代理成功）：
+```
+git config --global --get http.proxy
+git config --global --get https.proxy
+```
+
+4.测试连接：
+```
+curl -v 目标仓库地址
+```
+
+5.关闭代理（如果需要）
+```cmd
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+```
