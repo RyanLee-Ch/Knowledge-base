@@ -6,6 +6,7 @@
     - [2 创建组件](#创建组件)
         - [2.1 组件目录创建](#组件目录创建)
         - [2.2 创建组件.jsx](#创建组件.jsx)
+        - [2.3 创建组件样式.module.scss](#创建组件样式.module.scss)
 
 ---
 
@@ -129,10 +130,12 @@ export default function Button({children}){
   );
 ```
 
+<a name="创建组件样式.module.scss"></a>
+
 ##### 2.3 创建组件样式.module.scss
 举例创建`Button.jsx`的组件样式`Button.module.scss`：
 ```css
-.button {
+.button {  // 通过className={styels.button}调用
   padding: 12px 24px;
   background-color: #4CAF50;
   color: white;
@@ -141,12 +144,12 @@ export default function Button({children}){
   transition: background-color 0.3s;
 
   // SCSS 嵌套语法
-  &:hover {
+  &:hover {  // 自动生效，不需要className调用
     background-color: darken(#4CAF50, 10%);
   }
 
   // 支持动态类名
-  &--secondary {
+  &--secondary {  // 通过className={styles['button==secondary']}调用
     background-color: #008CBA;
   }
 }
@@ -159,15 +162,45 @@ export default function Button({children}){
   ...
 }
 ```
-> 补充：选择器分有很多类，有：标签选择器、类选择器、ID选择器、通配符选择器 等；
+
+<a name="创建全局组件样式：globals.scss"></a>
+
+##### 2.4 创建全局组件样式：globals.scss
+创建：`src/styels/globals.scss`，定义如下：
+```scss
+:root {  // 定义全局变量
+  --primary-color: #4CAF50;
+}
+
+body {  // 全局基础样式
+  margin: 0;
+  font-family: system-ui;
+}
+
+//其它均可自定
+```
+
+##### 2.5 引入全局样式：
+通过在`/src/main/jsx`中引入：
+```jsx
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+import './styles/globals.scss'; // 添加这一行
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  ...
+);
+```
+
+##### 2.6 CSS样式列表：
+CSS选择器分有很多类，有：标签选择器、类选择器、ID选择器、通配符选择器 等；
 
 1. 标签选择器：`div { color: red; }`：将所有div标签的color设置为red；
 2. 类选择器：`.button { padding: 10px; }`：设定一个名为button的类选择器，能够被`className={styles.button}`标记的**多个标签**调用
 3. ID选择器：`#header { height: 60px; }`：设定一个名为header的ID选择器，能够被`id={header}`标记的
 
-- CSS样式编辑
-
-布局类CSS：
+###### 布局类CSS：
 |属性|作用|属性值|示例|
 |:-:|:-:|:-:|:-:|
 |`display`|元素显示模式|`flex`, `grid`，`block`|`display: flex;`|
@@ -177,7 +210,7 @@ export default function Button({children}){
 |`justify-content`|主轴对齐方式|`center`，`space-between`|`justify-content: center;`|
 |`align-items`|交叉轴对齐方式|`stretch`，`flex-start`|`align-items: stretch;`|
 
-盒模型CSS：
+###### 盒模型CSS：
 |属性|作用|属性值|示例|
 |:-:|:-:|:-:|:-:|
 |`width`|宽度|`px`，`%`|`width: 200px;`|
@@ -185,7 +218,7 @@ export default function Button({children}){
 |`margin`|外边距|`auto`，`px`，`%`|`margin: 10px auto`|
 |`border`|边框|`px solid/dashed color`|`border: 2px dashed red;`|
 
-文本样式CSS：
+###### 文本样式CSS：
 |属性|作用|属性值|示例|
 |:-:|:-:|:-:|:-:|
 |`color`|文本颜色|`#十六进制色号`，`rgba(RGBA代码)`，`颜色单词`|`color: red;`|
@@ -195,7 +228,7 @@ export default function Button({children}){
 |`line-height`|行高|`px`，`具体值`|`line-height: 1.5;`|
 |`text-decoration`|文本装饰|`underline`，`none`|`text-decoration: underline;`|
 
-背景与边框CSS：
+###### 背景与边框CSS：
 |属性|作用|属性值|示例|
 |:-:|:-:|:-:|:-:|
 |`background-color`|背景颜色|`transparent`，`#十六进制色号`，`颜色单词`|`background-color: #f0f0f0;`|
@@ -203,9 +236,62 @@ export default function Button({children}){
 |`border-radius`|圆角|`px`，`%`|`border-radius: 50%;`|
 |`box-shadow`|阴影|`2px 2px 10px rgba(0,0,0,0.1)`|`box-shadow: 2px 2px 10px rgba(0,0,0,0.1);`|
 
-动画与过渡CSS：
+###### 动画与过渡CSS：
 |属性|作用|属性值|示例|
 |:-:|:-:|:-:|:-:|
 |`transition`|过渡效果|`all 0.3s ease-in-out`|`transition: transform 0.3s;`|
 |`animation`|关键帧动画|`slide 1s infinite`|/|
 |`transform`|变形效果|`rotate(45deg)`，`scale(1.2)`|/|
+
+#### 3.注册组件
+
+##### 3.1 组件预处理
+清空组件内容，写入新结构
+```jsx
+function App() {  // 函数体
+  return (  // 渲染体，其中<div>为根标签，可以设为幽灵标签
+    <div>
+    </div>
+  );
+}
+
+export default App;
+```
+##### 3.2 新编写组件：
+将示例的`Button.jsx`组件带入：
+```jsx
+import Button from './components/Button/Button.jsx';
+
+function App() {
+  return (
+    <div>
+      <Button>Primary Button</Button>
+      <Button>Secondary Button</Button>
+    </div>
+  );
+}
+
+export default App;
+```
+解释：
+- 从`/components`组件库中导入组件：
+```jsx
+// 导入组件格式：import 组件名 from '组件路径'
+import Button from './components/Button/Button.jsx'
+```
+- 将组件放入`App.jsx`渲染：
+```jsx
+return (  // return结构体中均是被渲染对象
+  <div>
+    <Button>带内容渲染</Button>
+    <Button />  
+  </div>
+);
+```
+
+#### 4.项目运行
+##### 4.1 本地运行测试
+通过在命令行`cd /项目目录`进入项目根目录，启动项目的本地运行：
+```cmd
+npm run dev
+```
