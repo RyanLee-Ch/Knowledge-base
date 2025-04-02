@@ -87,6 +87,12 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |Mia叹了口气，然后蹲下桌子|Mia sighed|and|crouched under the table|Mia sighed **and** couched under the table|
 
+11.由某个动作导致的物理意义上的分离：**verb.** + **off** + **OBJ.**
+|Chi|verb.|and|OBJ.|compl.|
+|:-:|:-:|:-:|:-:|:-:|
+|她把书从书架上拿下来|She took the book|off|the shelf|She took the book **off** the shelf|
+|把鞋上的泥擦掉|Peel the mud|off|the shoes|Peel the mud **off** the shoes|
+|吹掉旧照片上的灰尘|Blow the dust|off|the old photo|Blow the dust **off** the old photo|
 ---
 
 
@@ -136,7 +142,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |Seasoning|调味料|/|Incense|香薰|ˈɪnsens|Remote|遥控器|/|
 |Yoga Mat|瑜伽垫|/|Chair|椅子|/|Picture frame|相框|/|
 |Trash back|垃圾袋|/|Umbrella|雨伞|/|Bottle opener|开瓶器|/|
-|backpack|背包|/|
+|backpack|背包|/|dust|灰尘|/|
 
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -188,6 +194,10 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |crouch|弯腰蹲下|kraʊtʃ|Mia **crouched** under the table|crouched|crouched|crouching|
 |fiddle with|摆弄（某个物品对象）|/|**fiddling with** the PC case|fiddled with|fiddled with|fiddling with|
 |plug|插|/|**plugged** the charger into the wall|plugged|plugged|plugging|
+|fix|维修|/|**fix** my bike|fixed|fixed|fixing|
+|say|说|/|She is **saying** something important|said|said|saying|
+|wipe|擦|/|**wiped** the table|wiped|wiped|wiping|
+
 
 ---
 
@@ -240,6 +250,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |with|用...|/|He fixed the door **with** a hammer|他用锤子修架子|
 |through|从...|/|Lily's voice echoed **through** the monitor|Lily的声音从显示器传来|
+|off|...掉|/|Wiping dust **off** the keyboard|擦掉键盘上的灰尘|
 
 #### 目的补充介词：
 |Eng-1|Chi|IPA|e.g.1|简译|
