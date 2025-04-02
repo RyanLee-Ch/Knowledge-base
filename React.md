@@ -16,6 +16,7 @@
       - [2.3.1 组件预处理](#组件预处理)
       - [2.3.2 新编写组件](#新编写组件)
     - [2.4 组件通信](#组件通信)
+      - [2.4.1 Props传递](#Props传递)
 - [三、项目运行](#项目运行)
   - [3.1 本地运行React](#本地运行React)
 
@@ -312,7 +313,10 @@ return (  // return结构体中均是被渲染对象
 
 <a name="组件通信"></a>
 #### 2.4 组件通信
+
+<a name="Props传递"></a>
 ##### 2.4.1 Props传递
+
 在创建组件`.jsx`时，对组件创建`{ Props }`对象，如下：
 ```jsx
 export default function UserCard({ name, age}) {
@@ -328,6 +332,7 @@ return (
   </div>
 );
 ```
+
 #### 2.5 条件渲染
 （判断当某个条件达成时，才会渲染JSX）
 ##### 2.5.1条件判断渲染（单独创建`function`，使用`if-else`语句）：
@@ -347,7 +352,7 @@ return (
 );
 ```
 
-##### 2.三元判断渲染（使用格式：`{ bool-OBJ ? (bool=ture显示) : (bool=false显示) }`）：
+##### 2.三元判断渲染（使用格式：`{ bool-OBJ ? (bool=ture显示) : (bool=false渲染) }`）：
 ```jsx
 function Notification({ message }) {
   return (
@@ -362,6 +367,18 @@ function Notification({ message }) {
 }
 ```
 
+##### 3.短路与判断渲染（使用格式：`{ bool-OBJ Y/N && (bool=ture时渲染)}`）：
+```jsx
+function Cart({ itemCount }){
+  return(
+    <div>
+      { itemCount > 0 (
+        <p>当前值为: {itemCount}</p>
+      )}
+    </div>
+  );
+}
+```
 
 
 
