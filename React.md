@@ -1,19 +1,30 @@
 <h1 style="text-align: center;">React</h1>
 
 - [一、项目创建](#项目创建)
+  - [1.1 使用Vite创建React项目](#使用Vite创建React项目)
 - [二、组件](#组件)
-    - [1 组件的定义](#组件的定义)
-    - [2 创建组件](#创建组件)
-        - [2.1 组件目录创建](#组件目录创建)
-        - [2.2 创建组件.jsx](#创建组件.jsx)
-        - [2.3 创建组件样式.module.scss](#创建组件样式.module.scss)
+    - [2.1 组件的定义](#组件的定义)
+    - [2.2 创建组件](#创建组件)
+        - [2.2.1 组件目录创建](#组件目录创建)
+        - [2.2.2 创建组件.jsx](#创建组件.jsx)
+        - [2.2.3 创建组件样式.module.scss](#创建组件样式.module.scss)
+        - [2.2.4 创建全局组件样式：globals.scss](#创建全局组件样式：globals.scss)
+        - [2.2.5 引入全局样式：globals.scss](#引入全局样式：globals.scss)
+        - [2.2.6 调用全局变量](#调用全局变量)
+        - [2.2.7 CSS样式列表](#CSS样式列表)
+    - [2.3 注册组件](#注册组件)
+      - [2.3.1 组件预处理](#组件预处理)
+      - [2.3.2 新编写组件](#新编写组件)
+    - [2.4 组件通信](#组件通信)
+- [三、项目运行](#项目运行)
+  - [3.1 本地运行React](#本地运行React)
 
 ---
 
 <a name="项目创建"></a>
-
 ### 一、创建项目
-#### 1.使用Vite创建React项目：
+<a name="使用Vite创建React项目"></a>
+#### 1.1 使用Vite创建React项目：
 ```cmd
 npm create vite@latest 项目名 -- --template react
 cd 项目名
@@ -24,12 +35,9 @@ npm install sass --save-dev  // 创建scss样式支持
 ---
 
 <a name="组件"></a>
-
 ### 二、组件
-
 <a name="组件的定义"></a>
-
-#### 1.组件的定义
+#### 2.1 组件的定义
 组件是可重复使用的代码块，有自己的样式、功能、页面，且能够独立存在。在出现以下的情况，可以使用组件：
 - 重复代码
 - 超过50行的代码
@@ -80,17 +88,14 @@ src/
 ```
 
 <a name="创建组件"></a>
-
-#### 2.创建组件
+#### 2.2 创建组件
 
 <a name="组件目录创建"></a>
-
-##### 2.1 组件目录创建：
+##### 2.2.1 组件目录创建：
 在`/src`中创建目录`/components`（建议根据推荐结构继续细分），该目录用于存放**组件`.jsx`**、**样式`.scss`** 文件。
 
 <a name="创建组件.jsx"></a>
-
-##### 2.2 创建组件.jsx：
+##### 2.2.2 创建组件.jsx：
 举例创建Button组件`Button.jsx`：
 ```js
 import styles from './Button.module.scss';
@@ -131,8 +136,7 @@ export default function Button({children}){
 ```
 
 <a name="创建组件样式.module.scss"></a>
-
-##### 2.3 创建组件样式.module.scss
+##### 2.2.3 创建组件样式.module.scss
 举例创建`Button.jsx`的组件样式`Button.module.scss`：
 ```css
 .button {  // 通过className={styels.button}调用
@@ -164,12 +168,11 @@ export default function Button({children}){
 ```
 
 <a name="创建全局组件样式：globals.scss"></a>
-
-##### 2.4 创建全局组件样式：globals.scss
+##### 2.2.4 创建全局组件样式：globals.scss
 创建：`src/styels/globals.scss`，定义如下：
 ```scss
 :root {  // 定义全局变量
-  --primary-color: #4CAF50;
+  --primary-color: #4CAF50;  // --primary-color为变量名；
 }
 
 body {  // 全局基础样式
@@ -180,7 +183,9 @@ body {  // 全局基础样式
 //其它均可自定
 ```
 
-##### 2.5 引入全局样式：
+<a name="引入全局样式：globals.scss"></a>
+##### 2.2.5 引入全局样式：globals.scss：
+
 通过在`/src/main/jsx`中引入：
 ```jsx
 import React from 'react';
@@ -192,8 +197,18 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   ...
 );
 ```
+<a name="调用全局变量"></a>
+##### 2.2.6 调用全局变量：
+当全局样式已经在`main.jsx`中被导入后，可以在其他scss中通过`var()`调用全局变量
+```scss
+// Button.scss:
+.button {
+  background-color: var(--primary-color);  // 调用全局变量
+}
+```
 
-##### 2.6 CSS样式列表：
+<a name="CSS样式列表"></a>
+##### 2.2.7 CSS样式列表：
 CSS选择器分有很多类，有：标签选择器、类选择器、ID选择器、通配符选择器 等；
 
 1. 标签选择器：`div { color: red; }`：将所有div标签的color设置为red；
@@ -243,9 +258,12 @@ CSS选择器分有很多类，有：标签选择器、类选择器、ID选择器
 |`animation`|关键帧动画|`slide 1s infinite`|/|
 |`transform`|变形效果|`rotate(45deg)`，`scale(1.2)`|/|
 
-#### 3.注册组件
+<a name="注册组件"></a>
+#### 2.3 注册组件
 
-##### 3.1 组件预处理
+<a name="组件预处理"></a>
+##### 2.3.1 组件预处理
+
 清空组件内容，写入新结构
 ```jsx
 function App() {  // 函数体
@@ -257,7 +275,10 @@ function App() {  // 函数体
 
 export default App;
 ```
-##### 3.2 新编写组件：
+
+<a name="新编写组件"></a>
+##### 2.3.2 新编写组件：
+
 将示例的`Button.jsx`组件带入：
 ```jsx
 import Button from './components/Button/Button.jsx';
@@ -289,9 +310,87 @@ return (  // return结构体中均是被渲染对象
 );
 ```
 
-#### 4.项目运行
-##### 4.1 本地运行
-通过在命令行`cd /项目目录`进入项目根目录，启动项目的本地运行：
+<a name="组件通信"></a>
+#### 2.4 组件通信
+##### 2.4.1 Props传递
+在创建组件`.jsx`时，对组件创建`{ Props }`对象，如下：
+```jsx
+export default function UserCard({ name, age}) {
+  ...
+}
+```
+将Props对象渲染至HTML中：
+```jsx
+return (
+  <div className={ sytles.card }>
+    <h3>{name}<h3/>  {/* 使用 "{} + Props对象" 实现渲染 */}
+    <p>{age}</p>  {/* 同上 */}
+  </div>
+);
+```
+#### 2.5 条件渲染
+（判断当某个条件达成时，才会渲染JSX）
+##### 2.5.1条件判断渲染（单独创建`function`，使用`if-else`语句）：
+```jsx
+function Greeting({ isLoggedIn }){  {/* isLoggedIn是一个用于判断的bool对象 */}
+  if (isLoggedIn) {  {/* 当isLoggedIn为ture时执行 */}
+    return <h1>渲染Ture</h1>
+  } else {  {/* 否则执行 */}
+    return <h2>渲染False</h2>
+  }
+}
+```
+当判断`isLoggedIn`为`ture`时，则渲染该组件：
+```jsx
+return (
+  <Greeting isLoggedIn={true}>
+);
+```
+
+##### 2.三元判断渲染（使用格式：`{ bool-OBJ ? (bool=ture显示) : (bool=false显示) }`）：
+```jsx
+function Notification({ message }) {
+  return (
+    <div>
+      { message ? (  {/* message为被判断的bool对象 */}
+        <div className="alert">{message}</div>  {/* message === ture时渲染 */}
+      ) : (
+        <div className="empty">No notification</div>  {/* message === false时渲染 */}
+      )}
+    </div>
+  );
+}
+```
+
+
+
+
+
+
+
+
+
+<a name="项目运行"></a>
+#### 3 项目运行
+
+<a name="本地运行React"></a>
+##### 3.1 本地运行React
+
+通过在命令行`cd /项目目录`进入项目根目录，启动项目的本地运行（测试用）：
 ```cmd
 npm run dev
+```
+
+
+
+---
+动态加载CSS样式：
+```jsx
+function Notification({ message, type }){
+  return(
+    <div className={type === 'error' ? styles.error : styles.info}>
+      {message || 'No message'}
+    </div>
+  );
+}
 ```
