@@ -17,6 +17,9 @@
       - [2.3.2 新编写组件](#新编写组件)
     - [2.4 组件通信](#组件通信)
       - [2.4.1 Props传递](#Props传递)
+    - [2.5 条件渲染](#条件渲染)
+      - [2.5.1 条件判断渲染](#条件判断渲染)
+      - [2.5.2 三元判断渲染](#三元判断渲染)
 - [三、项目运行](#项目运行)
   - [3.1 本地运行React](#本地运行React)
 
@@ -333,9 +336,14 @@ return (
 );
 ```
 
+<a name="条件渲染"></a>
 #### 2.5 条件渲染
+
 （判断当某个条件达成时，才会渲染JSX）
-##### 2.5.1条件判断渲染（单独创建`function`，使用`if-else`语句）：
+
+<a name="条件判断渲染"></a>
+##### 2.5.1 条件判断渲染（单独创建`function`，使用`if-else`语句）：
+
 ```jsx
 function Greeting({ isLoggedIn }){  {/* isLoggedIn是一个用于判断的bool对象 */}
   if (isLoggedIn) {  {/* 当isLoggedIn为ture时执行 */}
@@ -352,7 +360,9 @@ return (
 );
 ```
 
-##### 2.三元判断渲染（使用格式：`{ bool-OBJ ? (bool=ture显示) : (bool=false渲染) }`）：
+<a name="三元判断渲染"></a>
+##### 2.5.2 三元判断渲染（使用格式：`{ bool-OBJ ? (bool=ture显示) : (bool=false渲染) }`）：
+
 ```jsx
 function Notification({ message }) {
   return (
