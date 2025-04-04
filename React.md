@@ -20,6 +20,10 @@
     - [2.5 条件渲染](#条件渲染)
       - [2.5.1 条件判断渲染](#条件判断渲染)
       - [2.5.2 三元判断渲染](#三元判断渲染)
+      - [2.5.3 短路与判断渲染](#短路与判断渲染)
+    - [2.6 列表渲染](#列表渲染)
+    - [2.7 状态管理](#状态管理)
+      - [2.7.1 useState状态](#useState状态)
 - [三、项目运行](#项目运行)
   - [3.1 本地运行React](#本地运行React)
 
@@ -376,8 +380,9 @@ function Notification({ message }) {
   );
 }
 ```
+<a name="短路与判断渲染"></a>
+##### 2.5.3 短路与判断渲染（使用格式：`{ bool-OBJ Y/N && (bool=ture时渲染)}`）：
 
-##### 3.短路与判断渲染（使用格式：`{ bool-OBJ Y/N && (bool=ture时渲染)}`）：
 ```jsx
 function Cart({ itemCount }){
   return(
@@ -389,6 +394,30 @@ function Cart({ itemCount }){
   );
 }
 ```
+
+<a name={列表渲染}></a>
+#### 2.6 列表渲染
+
+使用`map()`函数去实现对对象的列表渲染：
+```jsx
+// 创建一个list对象
+const todos = ['Learn React', 'Build Project', 'Deploy App'];
+
+function TodoList() {
+  return (
+    <ul>
+      {todos.map((todo, index => (
+      // 对list对象'todos'使用map方法遍历，todo为当前元素值、index为当前遍历索引位（map方法自动给出）
+        <li key={index}>{todo}</li>
+        // key是React识别列表渲染中列表项的唯一标识，一般直接是`key={index}`
+      )))}
+    </ul>
+  );
+}
+```
+
+<a name="状态管理"></a>
+#### 2.7 状态管理
 
 
 
