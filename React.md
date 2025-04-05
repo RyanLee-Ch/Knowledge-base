@@ -17,14 +17,24 @@
       - [2.3.2 新编写组件](#新编写组件)
     - [2.4 组件通信](#组件通信)
       - [2.4.1 Props传递](#Props传递)
+      - [2.4.2 createContext跨组件通信](#createContext跨组件通信)
     - [2.5 条件渲染](#条件渲染)
       - [2.5.1 条件判断渲染](#条件判断渲染)
       - [2.5.2 三元判断渲染](#三元判断渲染)
       - [2.5.3 短路与判断渲染](#短路与判断渲染)
     - [2.6 列表渲染](#列表渲染)
-    - [2.7 状态管理](#状态管理)
-      - [2.7.1 useState状态](#useState状态)
-- [三、项目运行](#项目运行)
+    - [2.7 钩子函数](#钩子函数)
+      - [2.7.1 useState状态管理](#useState状态管理)
+      - [2.7.2 useEffect副作用](#useEffect副作用)
+        - [全量监控模式](#全量监控模式)
+        - [单次执行模式](#单次执行模式)
+        - [精准监控模式](#精准监控模式)
+        - [定时触发模式](#定时触发模式)
+- [三、组件进阶](#组件进阶)
+  - [3.1 组件组合](#组件组合)
+  - [3.2 HOC高阶组件](#HOC高阶组件)
+- [四、路由配置](#路由配置)
+- [、项目运行](#项目运行)
   - [3.1 本地运行React](#本地运行React)
 
 ---
@@ -340,6 +350,19 @@ return (
 );
 ```
 
+<a name="createContext跨组件通信"></a>
+##### 2.4.2 createContext跨组件通信
+
+通过创建`Context`共享数据组件、`Provider`数据提供组件、`useContext`数据源组件，实现数据公开，可以让各个组件无视多层传递prop：
+###### 创建共享数据组件
+```jsx
+import { createContext } from ' react';  // 导入createContext
+
+const UserContext = createContext();  // 创建空箱子
+export default UserContext; 
+```
+###### 创建数据提供组件
+
 <a name="条件渲染"></a>
 #### 2.5 条件渲染
 
@@ -416,8 +439,272 @@ function TodoList() {
 }
 ```
 
-<a name="状态管理"></a>
-#### 2.7 状态管理
+<a name="钩子函数"></a>
+#### 2.7 钩子函数
+
+<a name="useState状态管理"></a>
+##### 2.7.1 useState状态管理
+
+用于定于、管理对象和对象的状态，如我需要定义一个bool对象为`'count'`，那么就需要使用State去定义、赋予初始值，以及管理`'count'`对象，如下：
+```jsx
+import { useState } from 'react';  // 导入useState状态管理
+
+function Counter() {
+  const [count, setCount] = useState(0);
+  // 创建count对象与setCount方法，并定义count的初始值为0；
+  // count对象用于存储值，而setCount方法用于修改count对象（固定格式：set+对象名）
+  return (
+    {/* 使用onClick事件去调用setCount方法修改count对象的值 */}
+    <button onClick={() => setCount(count + 1)}>
+      Clicked {count} times
+    </button>
+  );
+}
+```
+
+<a name="副作用管理"></a>
+##### 2.7.2 useEffect副作用
+
+在jsx渲染或某个对象出现变化时，副作用组件就会执行以处理数据或执行指定逻辑，有三种触发逻辑：
+
+<a name="全量监控模式"></a>
+###### 全量监控模式：监控所有变化
+
+```jsx
+import { useEffect } from 'react';  // 导入useEffect副作用管理
+
+function UserList() {
+  useEffect(() => {
+    console.log('hi');
+  });  // 任何状态都会触发该副作用组件
+
+  return(
+    <div>
+      ...
+    </div>
+  );
+}
+```
+
+<a name="单次执行模式"></a>
+###### 单次执行模式：仅执行一次
+
+```jsx
+import { useEffect, useState } from 'react';
+
+function UserList() {
+  const [users, setUsers] = useState([]);
+
+  useEffect(() => {
+    fetch('目标url/users')
+      .then(res => res.json())
+      .then(data => setUsers(data));
+  }, []);  // 由空数组标识，当组件进入生命周期时即刻执行一次，且不重复
+
+  return (
+    <ul>
+      {user.map(user => (
+        <li key={user.id}>(user.name)</li>
+      ))}
+    </ul>
+  );
+}
+```
+
+<a name="精准监控模式"></a>
+###### 精准监控模式：监控变量对象的变化
+
+```jsx
+import { useState, useEffect } from 'react';
+
+funtion DocumentEditor({ originalDocument }) {
+  const [currentDocument, setCurrentDocument] = useState(originalDocument);
+  const [showWarning, setShowWarning] = useState(false);
+
+  useEffect(() => {
+    const hasChanges = JSON.stringify(currentDocument) !== JSON.stringify(originalDocument);
+    setShowWarning(hasChanges);
+  }, [currentDocument, originalDocument]);  
+  // 监控当currentDocument与originalDocument其一出现变化时，副作用执行(双保险)
+  // 注意，如果const体中存在两个变量对象时，就需要双监控，否则只需要监控useState定义的currentDocument变量
+
+    return (
+    <div>
+      {/* 文档编辑区域 */}
+      <textarea
+        value={currentDocument.content}
+        onChange={(e) => 
+          setCurrentDocument({
+            ...currentDocument,
+            content: e.target.value
+          })
+        }
+      />
+
+      {showWarning && <div className="warning">⚠️ 你有未保存的修改！</div>}
+      <button onClick={() => setCurrentDocument(originalDocument)}>
+        重置为最新原稿
+      </button>
+    </div>
+  );
+}
+```
+
+<a name="定时触发模式"></a>
+###### 定时触发模式：进入组件周期后按间隔时间执行
+
+```jsx
+import { useState, useEffect } from 'react';
+
+function timer() {
+  const [seconds, setSeconds] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setSeconds(prev => prev + 1);
+    })；
+  }, 1000);  // 该组件被定义为每1000ms执行一次
+}
+```
+
+<a name="组件进阶"></a>
+### 三、组件进阶
+
+<a name="组件组合"></a>
+#### 3.1 组件组合
+
+通过单独创建一个`.jsx`组件容器作为子组件，之后再在另外一个组件中导入（一般位于同目录下），以下是示例：
+单独创建组件容器`Card.jsx`作为子组件：
+```jsx
+// Card.jsx
+export default function Card({ children }) {  // 创建一个Card子组件，children用于接收调用体的内容
+  return <div className={styles.card}>{children}</div>;
+}
+```
+在其他组件（主组件）导入子组件：
+```jsx
+// App.jsx
+import Card from './components/Card/Card.jsx';  // 导入子组件Card.jsx
+
+function App() {
+  return (
+    {/* 调用子组件，将标签内的h2、p、p作为children带入子组件中 */}
+    <Card>
+      <h2>用户信息</h2>
+      <p>姓名：张三</p>
+      <p>年龄：28</p>
+    </Card>
+  );
+}
+```
+以下是结构体：
+```python
+src/
+├── components/
+│   ├── Card/
+│   │   ├── Card.jsx  # 子组件
+└── App.jsx  # 主要调用组件
+```
+
+<a name="HOC高阶组件"></a>
+#### 3.2 HOC高阶组件
+
+类似于Python的装饰器，可以在不修改原组件代码的情况下增添新功能，以下为示例：
+假设有原始业务组件`UserDashboard`，我需要增添`加载状态`与`权限验证`的两个新功能，那么我就可以创建一个HOC组件去增添这两项功能：
+```
+src/
+├── components/
+│   ├── Button.jsx            # 原始业务组件
+│   └── hoc/                  # 高阶组件目录，如果不复杂可以放在同目录下（看开发者习惯）
+│       └── withLogger.jsx    # 创建日志功能 HOC
+├── App.jsx
+└── main.jsx
+```
+原始组件`Button.jsx`如下：
+```jsx
+function Button({ onClick, children }) {
+  return (
+    <button onClick={onClick}>
+      {children}
+    </button>
+  );
+}
+
+export default Button;
+```
+创建`withLogger.jsx`作为HOC高阶组件补充`日志记录`新功能：
+```jsx
+const withLogger = (WrappedComponent) => {  // HOC组件的命名规则为'with+新功能'，WrappedComponent用于接收原始组件
+  return function Enhanced(props) {  // 这里实际上才是增强组件的本身，需要被return固定命名'Enhanced'
+    const handleClick = () => {  // 这里是新的功能
+      console.log('按钮被点击', new Date().toLocateTimeString());
+      props.onClick?.();
+    };
+    return <WrappedComponent {...props} onClick={handleClick} />;  // 暂时还不清楚，但这是用于返回新组件的
+  };
+};
+
+export default withLogger;
+```
+组合原始组件`Button.jsx`与HOC`withLogger.jsx`使用：
+```jsx
+import Button from './Button.jsx';  //
+import withLogger from './component/hoc/withLogger.jsx';
+
+const ButtonWithLogger = withlogger(Button);  // 使用HOC组件包裹原始组件，实现功能组合功能
+
+function App() {
+  return (
+    <div>
+      <Button onClick={() => console.log('点击按钮')}>点击</Button>
+      {/* 基础的注册按钮，可以实现点击功能 */}
+      <ButtonWithLogger onClick={() => console.log('点击按钮，记录日志')}>点击</ButtonWithLogger>
+      {/* 被HOC增强过的Button，可以在点击功能实现的同时，还实现日志记录的功能 */}
+    </div>
+  );
+}
+
+export default App;
+```
+
+<a name="路由配置"></a>
+### 四、路由配置
+
+下载路由管理器：
+```cmd
+npm install react-router-dom
+```
+在`main.jsx`配置路由管理组件：
+```jsx
+import { BrowserRouter } from 'react-router-dom';  // 导入路由管理器
+
+ReactDOM.createRoot(document.getElementByid('root')).render(
+  <BrowserRouter>  {/* 将路由管理应用在App.jsx中 */}
+    <App />
+  </BrowserRouter>
+);
+```
+在`App.jsx`配置路由：
+```jsx
+import { Routes, Route, Link } from 'react-router-dom';  // 导入路由配置器
+
+function App() {
+  return (
+    <>
+      {/* 标记、定义路由 */}
+      <nav>
+        <Link to="/">Home</Link>
+        <Link to="/about">About</Link>
+      </nav>
+      {/* 将路由指向组件 */}
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/about" element={<AboutPage />} />
+      </Routes>
+    </>
+  );
+}
+```
 
 
 
@@ -427,7 +714,7 @@ function TodoList() {
 
 
 <a name="项目运行"></a>
-#### 3 项目运行
+#### 项目运行
 
 <a name="本地运行React"></a>
 ##### 3.1 本地运行React
