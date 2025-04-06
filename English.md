@@ -12,7 +12,7 @@ In the kitchen, Mia turned on the induction cooker to boil water in a kettle. Sh
 “Mia! Can you check the USB port? My mouse isn’t working!” Lily’s voice echoed through the monitor. Mia sighed and crouched under the table, fiddling with the PC case. A USB drive was plugged into the wrong port. “Fixed it!” she said, wiping dust off the keyboard.
 （“米娅！帮我看看USB接口，我的鼠标不动了！”莉莉的声音从显示器传来。米娅叹了口气，蹲到桌子下摆弄电脑主机，发现U盘插错了接口。“修好了！”她擦了擦键盘上的灰尘。）
 
-By afternoon, rain tapped against the balcony’s curtain. Mia grabbed an umbrella and stepped outside to rescue clothes from the drying rack. Back inside, she lit an incense stick to calm herself, then flopped onto the sofa with a remote to watch TV. The AC buzzed faintly as she dozed off.
+By afternoon, rain tapped against the balcony’s curtain. Mia grabbed an umbrella and stepped outside to rescue clothes from the drying rack. Back inside, she lit an incense stick to calm herself, then flopped onto the sofa with a remote to watch TV. The AC hummed faintly as she dozed off.
 （午后，雨点敲打着阳台的窗帘。米娅抓起雨伞，冲出去抢救晾衣架上的衣服。回到屋内，她点燃香薰让自己平静，然后瘫在沙发上用遥控器看电视。空调轻声嗡鸣，她渐渐打起了盹。）    
 
 Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked stir-fry in a wok, seasoned with salt and soy sauce, while arguing over whose turn it was to take out the trash can. After dinner, Mia plugged her phone into the charger and collapsed onto the mattress, staring at the ceiling light.
@@ -93,6 +93,21 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |她把书从书架上拿下来|She took the book|off|the shelf|She took the book **off** the shelf|
 |把鞋上的泥擦掉|Peel the mud|off|the shoes|Peel the mud **off** the shoes|
 |吹掉旧照片上的灰尘|Blow the dust|off|the old photo|Blow the dust **off** the old photo|
+
+12.描述时间快到达（临近）某个点，或位于某个时间段：**By** + **TimesWord.**
+|Chi|/|By|Times|/|
+|:-:|:-:|:-:|:-:|:-:|
+|最迟周五下午5点之前提交你的报告|Submit your report|**by**|Friday 5 PM|/|
+|等我们赶到时，演唱会就已经结束了|/|**By**|the time|we arrived, the concert had already started|
+|暮色降临时，街道已空无一人|/|**By**|dusk|the streets were empty|
+
+13.精确定位动作的受力点或对象：**verb.** + **against** + the **OBJ.**
+|Chi|verb.|against|OBJ.|
+|:-:|:-:|:-:|:-:|
+|冰雹像小石子一样轻轻敲打窗户|The hail tapped|**against**|the window like tiny peebles|
+|树叶在微风中轻叩着屋顶|Leaves tapped|**against**|the roof in the breeze|
+|她用笔轻轻敲着桌子|She tapped her pen|**against**|the desk|
+
 ---
 
 
@@ -142,7 +157,8 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |Seasoning|调味料|/|Incense|香薰|ˈɪnsens|Remote|遥控器|/|
 |Yoga Mat|瑜伽垫|/|Chair|椅子|/|Picture frame|相框|/|
 |Trash back|垃圾袋|/|Umbrella|雨伞|/|Bottle opener|开瓶器|/|
-|backpack|背包|/|dust|灰尘|/|
+|backpack|背包|/|dust|灰尘|/|incense stick|（线型的）香薰|
+|TV|电视|/|
 
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -165,6 +181,16 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |voice|声音|/|
 
+#### 自然现象
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|rain|雨|/|
+
+#### 穿着穿搭
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|clothe|衣服|/| 
+
 ---
 
 <h2 style="text-align: center;">动词表</h2>
@@ -176,7 +202,8 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |adjust|调整|əˈdʒʌst|**adjust** the seat height|adjusted|adjusted|adjusting|
 |glance|扫一眼|ɡlæns|**glanced** at the nightstand|glanced|glanced|glancing|
 |slip into|迅速的、轻轻的穿（衣物或鞋）|/|**slipped into** her coat|slipped into|slipped into|slipping into|
-|walk to|走去（什么地方）|/|Yesterday, he **walked to** the park|walked to|walked to|walking to|
+|walk to|（较长距离的）走去（什么地方）|/|Yesterday, he **walked to** the park|walked to|walked to|walking to|
+|step|（较短距离的）走去（什么地方）|/|**stepped** ouside|stepped|stepped|stepping|
 |brush|刷|/|**brush** her teeth|brushed|brushed|brushing|
 |relect|反射、映照出|/|mirror **reflected** her sleepy face|reflected|reflected|reflecting|
 |reach for|伸手去拿（强调过程）|/|**reached for** the face wash|reach for|reached for|reaching for|
@@ -197,6 +224,14 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |fix|维修|/|**fix** my bike|fixed|fixed|fixing|
 |say|说|/|She is **saying** something important|said|said|saying|
 |wipe|擦|/|**wiped** the table|wiped|wiped|wiping|
+|tap|轻轻拍打|/|**tapped** on the leaves|tapped|tapped|tapping|
+|rescue|抢救（ > help ）|/|**rescued** his phon|rescued|rescued|rescuing|
+|back|回到（什么地方）|/|**back** inside|backed|backed|backing|
+|lit|点燃|/|**lit** a candle|lit|lit|liting|
+|calm|（使谁）平静/冷静|/|**calm** down and tell me|calmed|calmed|calming|
+|flop|瘫倒|/|**flopped** onto the sofa|flopped|flopped|flopping|
+|watch|看|/|**watches** TV|watched|watched|watching|
+
 
 
 ---
@@ -223,14 +258,21 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 #### 动作补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
-|gently|轻轻地（声音、触摸、光线）|/|**gently waking** Mia|
-|softly|轻轻地（动作、自然现象、情绪）|/|
+|gently|轻轻地（声音、触摸、光线）|/|**gently waking** Mia|**gently** patted|
+|softly|轻轻地（动作、自然现象、情绪）|/|**whispered** softly|**felt** softly|
+|faintly|微弱的（几乎没有但实际存在的）|/|**faintly** crackled|barked **faintly**|
 
 #### 状态补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
 |Suddenly|突然|/|**suddenly** stopped talking|**Suddenly**, the door slammed shut|
 |nearly|差一点|/|**nearly** tripping|**nearly** dropping|
+
+#### 目标补充
+|Eng-1|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|outside|（向）外面|/|**stay** outside|She went **outside**|
+|inside|（向）里面|/|Come **inside**|back **inside**|
 
 <h2 style="text-align: center;">介词表</h2>
 
@@ -239,11 +281,13 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |beside|在旁边|/|There is a small table **beside the bed**|有张小桌子在我的床旁边|
 
+
 #### 时间补充介词：
 |Eng-1|Chi|IPA|e.g.1|简译|
 |:-:|:-:|:-:|:-:|:-:|
 |After|在...之后|/|**After** slipping into her slippers, ...|在穿上她的拖鞋后，...|
-|as|（做什么）时|/|The mirror reflected her sleepy face as she reached for the face wash|镜子照出她库卷的脸时，她找了找洗面奶|
+|as|（做什么）时|/|The mirror reflected her sleepy face **as** she reached for the face wash|镜子照出她库卷的脸时，她找了找洗面奶|
+|by|临近/到（某个时间）|/|**By** 2020, the population had double|在2020年，人口已经翻倍了|
 
 #### 方式补充介词：
 |Eng-1|Chi|IPA|e.g.1|简译|
@@ -257,3 +301,17 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |to|为了某事|/|She saved money **to** buy a car|她存钱买一辆车|
 |for|为了某物、某人|/|I need money **for** a new phone|我需要钱买一部新手机|
+
+
+<h2 style="text-align: center;">人称与反身代词表</h2>
+
+| SP. | SP.-Chi | IPA. | OP. | OP.-Chi | IPA. | RP. | RP.-Chi | IPA. |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| I   | 我      | /aɪ/ | me  | 我      | /miː/ | myself | 我自己 | /maɪˈself/ |
+| you | 你      | /juː/ | you | 你      | /juː/ | yourself | 你自己 | /jɔːrˈself/ |
+| he  | 他      | /hiː/ | him | 他      | /hɪm/ | himself | 他自己 | /hɪmˈself/ |
+| she | 她      | /ʃiː/ | her | 她      | /hɜːr/ | herself | 她自己 | /hɜːrˈself/ |
+| it  | 它      | /ɪt/ | it  | 它      | /ɪt/ | itself | 它自己 | /ɪtˈself/ |
+| we  | 我们    | /wiː/ | us  | 我们    | /ʌs/ | ourselves | 我们自己 | /ɑːrˈselvz/ |
+| you | 你们    | /juː/ | you | 你们    | /juː/ | yourselves | 你们自己 | /jɔːrˈselvz/ |
+| they | 他们/她们/它们 | /ðeɪ/ | them | 他们/她们/它们 | /ðem/ | themselves | 他们自己/她们自己/它们自己 | /ðəmˈselvz/ |
