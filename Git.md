@@ -10,6 +10,11 @@ git tag -l
 git fetch --tags
 ```
 
+3.查看已提交的版本：
+```
+git show-ref --tags
+```
+
 ### 上传：
 1.初始化本地仓库信息：
 ```cmd

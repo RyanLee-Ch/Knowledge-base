@@ -191,6 +191,11 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |clothe|衣服|/| 
 
+#### 时间
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|afternoon|下午|/|evening|傍晚|/|
+
 ---
 
 <h2 style="text-align: center;">动词表</h2>
@@ -231,7 +236,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |calm|（使谁）平静/冷静|/|**calm** down and tell me|calmed|calmed|calming|
 |flop|瘫倒|/|**flopped** onto the sofa|flopped|flopped|flopping|
 |watch|看|/|**watches** TV|watched|watched|watching|
-
+|doze|打盹、打瞌睡|/|**dozed** in the sunbeam|dozed|dozed|dozing|
 
 
 ---
@@ -267,6 +272,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |Suddenly|突然|/|**suddenly** stopped talking|**Suddenly**, the door slammed shut|
 |nearly|差一点|/|**nearly** tripping|**nearly** dropping|
+|off|逐渐、过渡|/|dozed **off**|nodded **off**|
 
 #### 目标补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
