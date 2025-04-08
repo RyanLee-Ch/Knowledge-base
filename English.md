@@ -163,7 +163,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|oatmeal|燕麦|ˈoʊtmiːl|
+|oatmeal|燕麦|ˈoʊtmiːl|stir-fry|炒菜|/|
 
 #### 电子产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -237,7 +237,12 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |flop|瘫倒|/|**flopped** onto the sofa|flopped|flopped|flopping|
 |watch|看|/|**watches** TV|watched|watched|watching|
 |doze|打盹、打瞌睡|/|**dozed** in the sunbeam|dozed|dozed|dozing|
-
+|arrive|到达、到来|/|she **arrived** at the office|arrived|arrived|arriving|
+|return|返回、回来|/|She will **return** tomorrow|returned|returned|returning|
+|toss|扔|/|**tossing** her backpack|tossed|tossed|tossing|
+|cook|煮（菜）、做（菜）|/|**cook** Italian food|cooked|cooked|cooking|
+|season with|加（某种调味料）|/|**seasoned** with salt|seasoned with|seasoned with|seasoning with|
+|argue for|（为了什么而）争吵|/|**argued for** the new climate model|argued for|argued for|arguing for|
 
 ---
 
@@ -294,6 +299,8 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |After|在...之后|/|**After** slipping into her slippers, ...|在穿上她的拖鞋后，...|
 |as|（做什么）时|/|The mirror reflected her sleepy face **as** she reached for the face wash|镜子照出她库卷的脸时，她找了找洗面奶|
 |by|临近/到（某个时间）|/|**By** 2020, the population had double|在2020年，人口已经翻倍了|
+|while|一边...一边...，（做什么）的时候|/|Don't eat **while** walking|
+
 
 #### 方式补充介词：
 |Eng-1|Chi|IPA|e.g.1|简译|
@@ -321,3 +328,10 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 | we  | 我们    | /wiː/ | us  | 我们    | /ʌs/ | ourselves | 我们自己 | /ɑːrˈselvz/ |
 | you | 你们    | /juː/ | you | 你们    | /juː/ | yourselves | 你们自己 | /jɔːrˈselvz/ |
 | they | 他们/她们/它们 | /ðeɪ/ | them | 他们/她们/它们 | /ðem/ | themselves | 他们自己/她们自己/它们自己 | /ðəmˈselvz/ |
+
+<h2 style="text-align: center;">疑问代词</h2>
+
+|interrog. pron.|Chi|IPA|e.g.1|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|Whose|谁的|/|**Whose** phone|谁的手机|
+|Whose turn is it|轮到谁去（做某事）|/|**Whose turn is it** to wash the dished?|这次轮到谁去洗碗？|
