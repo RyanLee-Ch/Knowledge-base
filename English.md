@@ -163,7 +163,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|oatmeal|燕麦|ˈoʊtmiːl|stir-fry|炒菜|/|
+|oatmeal|燕麦|ˈoʊtmiːl|stir-fry|炒菜|/|dinner|晚饭|/|
 
 #### 电子产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -226,6 +226,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |crouch|弯腰蹲下|kraʊtʃ|Mia **crouched** under the table|crouched|crouched|crouching|
 |fiddle with|摆弄（某个物品对象）|/|**fiddling with** the PC case|fiddled with|fiddled with|fiddling with|
 |plug|插|/|**plugged** the charger into the wall|plugged|plugged|plugging|
+|plug into|插到（什么地方）、接入|/|**plug into** the system|plugged into|plugged into|plugging into|
 |fix|维修|/|**fix** my bike|fixed|fixed|fixing|
 |say|说|/|She is **saying** something important|said|said|saying|
 |wipe|擦|/|**wiped** the table|wiped|wiped|wiping|
@@ -243,7 +244,8 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |cook|煮（菜）、做（菜）|/|**cook** Italian food|cooked|cooked|cooking|
 |season with|加（某种调味料）|/|**seasoned** with salt|seasoned with|seasoned with|seasoning with|
 |argue for|（为了什么而）争吵|/|**argued for** the new climate model|argued for|argued for|arguing for|
-
+|take out|把（某样东西）带出去|/|**take out** the trash|took out|taken out|taking out|
+|collapse|（由于极度疲劳导致的）倒下或崩溃|kəˈlæps|**collapsed** from a heart attack|collapsed|collapsed|collapsing|
 ---
 
 <h2 style="text-align: center;">动名词表</h2>
@@ -314,6 +316,8 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |to|为了某事|/|She saved money **to** buy a car|她存钱买一辆车|
 |for|为了某物、某人|/|I need money **for** a new phone|我需要钱买一部新手机|
+|into|到（什么位置）里|/|He plugged the cable **into** the port|他把线插到接口里|
+|onto|到（什么位置）上|/|collapsed **onto** the mattress|累倒在床垫上|
 
 
 <h2 style="text-align: center;">人称与反身代词表</h2>
