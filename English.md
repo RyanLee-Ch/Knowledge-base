@@ -108,6 +108,19 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |树叶在微风中轻叩着屋顶|Leaves tapped|**against**|the roof in the breeze|
 |她用笔轻轻敲着桌子|She tapped her pen|**against**|the desk|
 
+#### The Humming Apartment:
+As dawn light filtered through the keyhole of her bedroom door, Mia stumbled toward the wardrobe, her quilt still draped over her shoulders. The washing machine's rhythmic thumps downstairs vibrated through the clothes pole mounted on the ceiling. "Need to fix that door handle someday," she mumbled, nearly tripping over her mouse pad left carelessly on the floor.
+（当晨光从卧室门钥匙孔渗入时，米娅跌跌撞撞走向衣柜，被子仍披在肩上。楼下洗衣机的规律撞击声通过天花板的晾衣杆传来。"哪天得修修那个门把手了，"她嘟囔着，差点被随意丢在地上的鼠标垫绊倒。）
+
+In the kitchen, the rice cooker chirped completion beside a stack of plates. She plugged her nasal irrigator into the socket below the microwave, its blue LED reflecting in the stainless steel dustpan leaning against the wall. A forgotten hanger swayed on the refrigerator handle like a metallic pendulum.
+（厨房里，电饭煲在一摞盘子旁发出完成的提示音。她把洗鼻器插进微波炉下方的插座，蓝色LED灯在靠墙的不锈钢簸箕上反光。一个被遗忘的衣架在冰箱把手上像金属钟摆般摇晃。）
+
+Her gaming PC hummed awake in the study, graphics card fans whirring to life. "Where's the damn data cable?" she muttered, moving shampoo bottles and body wash containers on the desk. A towel draped over the water heater rippled as the hair dryer on the shelf suddenly tipped over.
+（她的游戏电脑在书房嗡嗡启动，显卡风扇开始旋转。"那该死的数据线在哪？"她边嘀咕边挪动桌上的洗发水和沐浴露瓶罐。架子上突然翻倒的吹风机让搭在热水器上的毛巾泛起涟漪。）
+
+By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrobe as she wiped sweat with tissue. The microphone on her headset caught her exhausted chuckle: "Tomorrow I'll organize... maybe." Outside, the streetlamp's glow turned the window into a golden plate against the deepening blue.
+（暮色中，米娅盘腿坐在散热器上，拖把靠着衣柜，她用纸巾擦汗。耳机上的麦克风捕捉到她疲惫的笑声："明天我会整理的...或许吧。"窗外，路灯的光芒将窗户变成深蓝背景上的金色盘子。）
+
 ---
 
 
@@ -158,7 +171,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |Yoga Mat|瑜伽垫|/|Chair|椅子|/|Picture frame|相框|/|
 |Trash back|垃圾袋|/|Umbrella|雨伞|/|Bottle opener|开瓶器|/|
 |backpack|背包|/|dust|灰尘|/|incense stick|（线型的）香薰|
-|TV|电视|/|
+|TV|电视|/|ceiling|天花板|/|
 
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -246,6 +259,10 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |argue for|（为了什么而）争吵|/|**argued for** the new climate model|argued for|argued for|arguing for|
 |take out|把（某样东西）带出去|/|**take out** the trash|took out|taken out|taking out|
 |collapse|（由于极度疲劳导致的）倒下或崩溃|kəˈlæps|**collapsed** from a heart attack|collapsed|collapsed|collapsing|
+|stare|凝视、盯着|/|**stared** at the photo|stared|stared|staring|
+|whisper|低声细语、低声说话|/|She **whispered** a prayer|whispered|whispered|whispering|
+|click|按下、点击|/|**click** the button|clicked|clicked|clicking|
+
 ---
 
 <h2 style="text-align: center;">动名词表</h2>
@@ -262,6 +279,7 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |sleepy|犯困的、睡眼惺忪的|/|**sleppy** face|**sleepy** child|
 |wrong|错误的|/|**wrong** port|Your answer is **wrong**|
+|ordinary|普通且平凡的|ˈɔːrdneri|**ordinary** day|**ordinary** teacher|
 
 ---
 
@@ -279,13 +297,15 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |Suddenly|突然|/|**suddenly** stopped talking|**Suddenly**, the door slammed shut|
 |nearly|差一点|/|**nearly** tripping|**nearly** dropping|
-|off|逐渐、过渡|/|dozed **off**|nodded **off**|
+|1. off|逐渐、过渡|/|dozed **off**|nodded **off**|
+|2. off|特殊：将状态切换|/|the switch clicked **off**|将switch的状态切换为off|
 
 #### 目标补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
 |outside|（向）外面|/|**stay** outside|She went **outside**|
 |inside|（向）里面|/|Come **inside**|back **inside**|
+|at|（向）某个对象|/|stared **at** the screen|aimed **at** the target|
 
 <h2 style="text-align: center;">介词表</h2>
 
@@ -339,3 +359,9 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |:-:|:-:|:-:|:-:|:-:|
 |Whose|谁的|/|**Whose** phone|谁的手机|
 |Whose turn is it|轮到谁去（做某事）|/|**Whose turn is it** to wash the dished?|这次轮到谁去洗碗？|
+
+<h2 style="text-align: center;">限定词</h2>
+
+|det.|Chi|IPA|e.g.1|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|another|又是...|/|**Another** ordinary day|又是平凡的一天|
