@@ -121,6 +121,12 @@ Her gaming PC hummed awake in the study, graphics card fans whirring to life. "W
 By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrobe as she wiped sweat with tissue. The microphone on her headset caught her exhausted chuckle: "Tomorrow I'll organize... maybe." Outside, the streetlamp's glow turned the window into a golden plate against the deepening blue.
 （暮色中，米娅盘腿坐在散热器上，拖把靠着衣柜，她用纸巾擦汗。耳机上的麦克风捕捉到她疲惫的笑声："明天我会整理的...或许吧。"窗外，路灯的光芒将窗户变成深蓝背景上的金色盘子。）
 
+##### 章节语法：
+1.表示在什么时候发生了什么事情：**As** + **when**. + **doing.**
+|Chi|As|When.|doing.|
+|:-:|:-:|:-:|:-:|
+|当黎明的光线从钥匙孔渗入|As|dawn light|through the keyhole|
+
 ---
 
 
@@ -207,7 +213,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 #### 时间
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|afternoon|下午|/|evening|傍晚|/|
+|afternoon|下午|/|evening|傍晚|/|dawn|黎明|dɔːn|
 
 ---
 
@@ -262,6 +268,8 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |stare|凝视、盯着|/|**stared** at the photo|stared|stared|staring|
 |whisper|低声细语、低声说话|/|She **whispered** a prayer|whispered|whispered|whispering|
 |click|按下、点击|/|**click** the button|clicked|clicked|clicking|
+|filter|渗透（进什么地方）、过滤|ˈfɪltər|**filters** the water|filtered|filtered|filtering|
+|stumble|跌跌撞撞、磕磕碰碰（的移动）|ˈstʌmbl|**stumbled** out of the car|stumbled|stumbled|stumbling|
 
 ---
 
@@ -306,6 +314,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |outside|（向）外面|/|**stay** outside|She went **outside**|
 |inside|（向）里面|/|Come **inside**|back **inside**|
 |at|（向）某个对象|/|stared **at** the screen|aimed **at** the target|
+|toward|朝着（某个对象）|/|stumbled **toward** the wardrobe|walked **toward** the door|
 
 <h2 style="text-align: center;">介词表</h2>
 

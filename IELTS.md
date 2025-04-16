@@ -1,7 +1,12 @@
 # IELTS
+## 目录
+- [1. Signals from the Unknown](#SignalsFromTheUnknown)
 
 ### Novellas
+
+<a name= "SignalsFromTheUnknown"></a>
 ##### Signals from the Unknown:
+
 In the year 2147, a space probe named Horizon orbiting Mars detected an unusual signal—a rhythmic pulse of ultraviolet radiation emanating from the solar system’s edge. Scientists on Earth erupted into considerable debate: Was this proof of alien intelligence, or merely inorganic interference from a distant orbiter? Dr. Elena Cruz, lead researcher for the planetary exploration team, urged caution. "We must react carefully," she warned. "If this is a civilisation, our manned space flight to Europa could risk provoking hostility."
 (2147年，一艘名为“地平线”的太空探测器（space probe）在火星轨道上捕捉到一个异常信号（signal）——一种有节奏的紫外线辐射（ultraviolet radiation）脉冲，源自太阳系（solar）边缘。地球上的科学家们爆发了激烈的争论（considerable debate）：这是外星（alien）文明的证据，还是遥远轨道器（orbiter）的无机（inorganic）干扰？行星（planetary）探索团队的首席研究员埃琳娜·克鲁兹博士呼吁谨慎行事：“我们必须小心应对（react），”她警告道，“如果这是某个文明（civilisation），我们前往木卫二的载人航天（manned space flight）任务可能会冒险（risk）引发敌意。”)
 
@@ -21,7 +26,7 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |Noun.1|Chi.1|IPA.1|Noun.2|Chi.2|IPA.2|Noun.3|Chi.3|IPA.3|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |space probe|太空探测器|ˈspeɪs prəʊb|Mars|火星|mɑːrz|pulse|脉冲|pʌls|
-|radiation|辐射|ˌreɪ.diˈeɪ.ʃən|
+|radiation|辐射|ˌreɪ.diˈeɪ.ʃən|solar system|太阳系|/|debate|争论|dɪˈbeɪt|
 
 **Chapter Vocabulary：Verb.s**
 |Verb.|Chi.|IPA.|e.g.|过去式|过去分词|现在分词|
@@ -29,6 +34,7 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |orbit|绕（某个天体的）轨道运行|ˈɔːrbɪt|THe Earth **orbits** the Sun|orbited|orbiting|
 |detect|探测|dɪˈtekt|The probe **detected** water molecules on the Moon.|detected|detected|detecting|
 |emanate from|源自（什么地方）|ˈem.ə.neɪt|The strange glow **emanated from** a crack|amanated|amanated|amanating|
+|erupt into|爆发了、陷入了|ɪˈrʌpt|**erupted into** considerable debate|erupted into|erupted into|erupting into|
 
 
 **Chapter Vocabulary：Adj.s**
@@ -36,5 +42,6 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |unusualy|异常的|ʌnˈjuːʒuəl|**unusual** signal|**unusual** phenomenon|**unusualy** weather|
 |rhythmic|有节奏的|ˈrɪðmɪk|**rhythmic** pulse|**rhythmic** oscillations|**rhythmic** heartbeat|
-|ultraviolet（UV）|紫外线的|ˌʌl.trəˈvaɪə.lət|
-
+|ultraviolet（UV）|紫外线的|ˌʌl.trəˈvaɪə.lət|**ultraviolet** patterns|**ultraviolet** pulse|
+|solar|太阳的|səʊ.lər|**solar** system|**solar** energy|
+|considerable|最高程度形容词，没有明确翻译|kənˈsɪdərəbl|**considerable** debate|**considerabal** excitement|**considerable** amount of time|
