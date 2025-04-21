@@ -194,6 +194,10 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |roomate|室友|/|
 
+#### 器官组织
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|shoulder|肩膀|ˈʃoʊldər|
 
 #### 生命集
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -203,12 +207,13 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 #### 自然现象
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|rain|雨|/|
+|rain|雨|/|thump|撞击声/闷响|θʌmp|
 
 #### 穿着穿搭
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |clothe|衣服|/| 
+
 
 #### 时间
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -270,6 +275,9 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |click|按下、点击|/|**click** the button|clicked|clicked|clicking|
 |filter|渗透（进什么地方）、过滤|ˈfɪltər|**filters** the water|filtered|filtered|filtering|
 |stumble|跌跌撞撞、磕磕碰碰（的移动）|ˈstʌmbl|**stumbled** out of the car|stumbled|stumbled|stumbling|
+|drape|披、挂|dreɪp|**drape** a scarf over her chair|draped|draped|draping|
+|vibrate|震动|/|The machine **vibrates** loudly|vibrated|vibrated|vibrating|
+|mount|广义的安装或固定，如装、挂、骑（马）|maʊnt|**mount** the TV on the wall|mounted|mounted|mounting|
 
 ---
 
@@ -288,6 +296,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |sleepy|犯困的、睡眼惺忪的|/|**sleppy** face|**sleepy** child|
 |wrong|错误的|/|**wrong** port|Your answer is **wrong**|
 |ordinary|普通且平凡的|ˈɔːrdneri|**ordinary** day|**ordinary** teacher|
+|rhythmic|有规律的|ˈrɪð.mɪk|**rhythmic** sound|**rhythmic** movement|
 
 ---
 
@@ -299,6 +308,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |gently|轻轻地（声音、触摸、光线）|/|**gently waking** Mia|**gently** patted|
 |softly|轻轻地（动作、自然现象、情绪）|/|**whispered** softly|**felt** softly|
 |faintly|微弱的（几乎没有但实际存在的）|/|**faintly** crackled|barked **faintly**|
+|downstars|楼下|ˌdaʊnˈsterz|**downstars** vibrated|ran **downstars** to answer the door|
 
 #### 状态补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
@@ -315,6 +325,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |inside|（向）里面|/|Come **inside**|back **inside**|
 |at|（向）某个对象|/|stared **at** the screen|aimed **at** the target|
 |toward|朝着（某个对象）|/|stumbled **toward** the wardrobe|walked **toward** the door|
+
 
 <h2 style="text-align: center;">介词表</h2>
 
@@ -347,6 +358,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |for|为了某物、某人|/|I need money **for** a new phone|我需要钱买一部新手机|
 |into|到（什么位置）里|/|He plugged the cable **into** the port|他把线插到接口里|
 |onto|到（什么位置）上|/|collapsed **onto** the mattress|累倒在床垫上|
+|on|（在）上面|/|mounted **on** the ceiling|安装在天花板上|
 
 
 <h2 style="text-align: center;">人称与反身代词表</h2>

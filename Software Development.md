@@ -82,4 +82,25 @@ def text_input(page: ft.Page):  # 输入框组件
         else e.shift and e.key == "Enter":  # 捕捉键盘事件，如果按下了Shift和Enter
             text_input.value += "\n"  # 输入框添加换行
             page.update()  # 刷新页面
+
+    # 组合输入框与发送Icon按钮
+    input_and_button = ft.Row(  # 水平对齐
+        controls = [  # 布局列表
+            text_input,  # 应用输入框
+            send_button  # 应用发送button
+        ],
+        alignment = ft.MainAxisAlignment.CENTER  # 设置整体为水平居中
+    )
+
+    # 设置输入组件的布局位置
+    page.overlay.append(
+        ft.Container(
+            content = input_and_button,  # 应用输入框与Icon按钮组合
+            alignment = ft.alignment.bottom_center,  # 将容器对齐到页面底部与中间
+            padding = ft.padding.only(bottom = 20)  # 设置底部边距为20
+        )
+    )
+
+    # 绑定发送与换行事件
+    page.on_keyboard_event = handle_key_down
 ```
