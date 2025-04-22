@@ -27,6 +27,7 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |space probe|太空探测器|ˈspeɪs prəʊb|Mars|火星|mɑːrz|pulse|脉冲|pʌls|
 |radiation|辐射|ˌreɪ.diˈeɪ.ʃən|solar system|太阳系|/|debate|争论|dɪˈbeɪt|
+|proof|证据|pruːf|Alien|外星人|ˈeɪ.li.ən|intelligence|智慧|ɪnˈtel.ɪ.dʒəns|
 
 **Chapter Vocabulary：Verb.s**
 |Verb.|Chi.|IPA.|e.g.|过去式|过去分词|现在分词|
@@ -45,3 +46,8 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |ultraviolet（UV）|紫外线的|ˌʌl.trəˈvaɪə.lət|**ultraviolet** patterns|**ultraviolet** pulse|
 |solar|太阳的|səʊ.lər|**solar** system|**solar** energy|
 |considerable|最高程度形容词，没有明确翻译|kənˈsɪdərəbl|**considerable** debate|**considerabal** excitement|**considerable** amount of time|
+
+**Chapter Vocabulary：Adv.s**
+|Adv.|Chi.|IPA.|e.g.0|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|merely|仅仅|ˈmɪə.li|**merely** inorganic interference|It's **merely** a scratch|This is **merely** a test|

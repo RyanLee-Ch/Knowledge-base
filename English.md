@@ -278,7 +278,8 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |drape|披、挂|dreɪp|**drape** a scarf over her chair|draped|draped|draping|
 |vibrate|震动|/|The machine **vibrates** loudly|vibrated|vibrated|vibrating|
 |mount|广义的安装或固定，如装、挂、骑（马）|maʊnt|**mount** the TV on the wall|mounted|mounted|mounting|
-
+|mumble|嘟囔|/|She **mumbled**|mumbled|mumbled|mumbling|
+|leave|丢在（什么地方）|/|The keys are **left** on the table|left|left|leaving|
 ---
 
 <h2 style="text-align: center;">动名词表</h2>
@@ -309,6 +310,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |softly|轻轻地（动作、自然现象、情绪）|/|**whispered** softly|**felt** softly|
 |faintly|微弱的（几乎没有但实际存在的）|/|**faintly** crackled|barked **faintly**|
 |downstars|楼下|ˌdaʊnˈsterz|**downstars** vibrated|ran **downstars** to answer the door|
+|carelessly|随意地|/|The threw the ball **carelessly**|left **carelessly**|
 
 #### 状态补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
@@ -326,6 +328,10 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |at|（向）某个对象|/|stared **at** the screen|aimed **at** the target|
 |toward|朝着（某个对象）|/|stumbled **toward** the wardrobe|walked **toward** the door|
 
+#### 时间性副词
+|Eng-1|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|someday|总有一日、有时间的时候|/|
 
 <h2 style="text-align: center;">介词表</h2>
 
