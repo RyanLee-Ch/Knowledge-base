@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">English</h1>
 
+> 动词形容表达：verb. of ：什么的什么
+
 <h2 style="text-align: center;">小说集</>
 
 #### A Day In the Little House:
@@ -220,6 +222,11 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |afternoon|下午|/|evening|傍晚|/|dawn|黎明|dɔːn|
 
+#### 材料学
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|stainless steel|不锈钢|/|
+
 ---
 
 <h2 style="text-align: center;">动词表</h2>
@@ -280,7 +287,11 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |mount|广义的安装或固定，如装、挂、骑（马）|maʊnt|**mount** the TV on the wall|mounted|mounted|mounting|
 |mumble|嘟囔|/|She **mumbled**|mumbled|mumbled|mumbling|
 |leave|丢在（什么地方）|/|The keys are **left** on the table|left|left|leaving|
+|chirp|拟声动词，可抽象泛指短促的声音|tʃɜːrp|The birds **chirp** happily|chirped|chirped|chirping|
+|complete|完成|/|She **completed** her homework|completed|completed|completing|
+|stack|（把什么东西）堆叠整齐|/||stacked|stacked|stacking|
 ---
+|lean|靠（在什么地方）|/|The bike has **leaned** there all day|leaned|leaned|leaning|
 
 <h2 style="text-align: center;">动名词表</h2>
 
@@ -339,6 +350,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Eng-1|Chi|IPA|e.g.1|简译|
 |:-:|:-:|:-:|:-:|:-:|
 |beside|在旁边|/|There is a small table **beside the bed**|有张小桌子在我的床旁边|
+|below|在下面|/|plugged into the socket **below** the microwave|插在微波炉下方的插座|
 
 
 #### 时间补充介词：

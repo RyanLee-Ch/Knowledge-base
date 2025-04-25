@@ -1,5 +1,8 @@
 <h1 style="text-align: center;">React</h1>
 
+- [前端基础](#前端基础)
+  - [HTML&CSS布局](#HTML&CSS布局)
+    - [单页面布局](#单页面布局)
 - [一、项目创建](#项目创建)
   - [1.1 使用Vite创建React项目](#使用Vite创建React项目)
 - [二、组件](#组件)
@@ -38,6 +41,97 @@
   - [3.1 本地运行React](#本地运行React)
 
 ---
+
+<a name="前端基础"></a>
+# 前端基础
+
+<a name="HTML&CSS布局"></a>
+#### HTML&CSS布局
+
+
+##### 单页面布局
+**谨记口诀：**
+1.外框先定：使用最大的`div`包裹住所有的标签，定义`container`样式
+```jsx
+JSX:
+  <div className="container">
+    ...
+    作为第1级标签
+  </div>
+```
+```css
+CSS:
+  .container {
+    display: flex;  /* 声明使用弹性布局，是为了布局子标签准备的 */
+    height: 100vh;  /* 把第1级标签（本身）占满整个窗口，此时外框就定了 */
+    padding: 1rem;  /* 美化用的，让2级与往下的标签都举例外框1rem距离（内边距） */
+    gap: 1rem;  /* 美化用的，让2级与往下的标签与标签之间存在1rem间距 */
+    background-color: white;  /* 设置1级标签的背景颜色，也就是整个页面的背景色 */
+  }
+```
+
+2.左右分清：使用`left`、或`right`样式为第二层`div`
+```jsx
+JSX:
+  <div className="container">
+    <div className="left">
+      ...
+      作为第2级标签
+    </div>
+    <div className="right">
+      ...
+      作为第2级标签
+    </div>
+  </div>
+```
+```css
+CSS:
+  .left {
+    width: 10rem;  /* 预设置div的固定宽度为10rem */
+    background-color: #2563eb;  /* 设置第2级标签left的背景颜色 */
+  }
+  .right {
+    width: 10rem;
+    background-color: #92400e;
+  }
+```
+
+**注意：** width是作为标签的一个预设宽度与固定宽度，div实际上是一个动态变化的对象，以下是可预见的集中情况：
+
+> 情况Ⅰ：div内没有内容，也没有设置width，那么div是不可见的；
+
+> 情况Ⅱ：div有内容，但没有设置width，那么div的宽度会随着div内的内容动态变化，内容越多，宽度越大；
+
+> 情况Ⅲ：div没有内容，但设置了width，那么div的宽度默认为width的宽度
+
+> 情况Ⅳ：div有内容，也设置了width，那么div的宽度会保持为width，如果div内容超出width的宽度，那么内容会直接溢出，width保持不变
+
+
+3.内容为主：使用`middle`也作为第二层`div`，但要放在`left`与`right`中间
+```jsx
+JSX:
+  <div className="container">
+    <div className="left"></div>
+    <div className="middle">
+      ...
+      作为第2级标签，并放在left、right中间
+    </div>
+    <div className="right"></div>
+  </div>
+```
+```css
+CSS:
+  .middle {
+    flex: 1;  /* 让middle的div标签的下级标签自己分配空间 */
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+```
+4. 上下分明：
+5. 辅助为辅：/
+
+# 存在问题，居左？居右？怎么实现？
 
 <a name="项目创建"></a>
 ### 一、创建项目
