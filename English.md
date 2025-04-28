@@ -155,7 +155,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Nightstand|床头柜|/|Drawer|抽屉|/|Bookshelf|书架|/|
 |Door|门|/|Door Handle|门把手|/|Keyhole|钥匙孔|/|
 |Light|灯|/|Switch|开关|/|AC|空调|/|
-|Wardrobe|衣柜|/|Fridge|冰箱|/|Sofa|沙发|\|
+|Wardrobe|衣柜|/|fridge(refrigerator)|冰箱|/|Sofa|沙发|\|
 |Window|窗户|/|Curtain|窗帘|/|Drying Rack|晾衣架|/|
 |Clothes pole|撑衣杆|/|Washing Machine|洗衣机|/|Stool|凳子|/|
 |hanger|衣架|/|Induction Cooker|电磁炉|/|Bowl|碗|/|
@@ -179,7 +179,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Yoga Mat|瑜伽垫|/|Chair|椅子|/|Picture frame|相框|/|
 |Trash back|垃圾袋|/|Umbrella|雨伞|/|Bottle opener|开瓶器|/|
 |backpack|背包|/|dust|灰尘|/|incense stick|（线型的）香薰|
-|TV|电视|/|ceiling|天花板|/|
+|TV|电视|/|ceiling|天花板|/|pendulum|摆钟|ˈpendʒələm|
 
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -289,9 +289,10 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |leave|丢在（什么地方）|/|The keys are **left** on the table|left|left|leaving|
 |chirp|拟声动词，可抽象泛指短促的声音|tʃɜːrp|The birds **chirp** happily|chirped|chirped|chirping|
 |complete|完成|/|She **completed** her homework|completed|completed|completing|
-|stack|（把什么东西）堆叠整齐|/||stacked|stacked|stacking|
----
+|stack|（把什么东西）堆叠整齐|/|/|stacked|stacked|stacking|
 |lean|靠（在什么地方）|/|The bike has **leaned** there all day|leaned|leaned|leaning|
+|forget|忘记（做某事）|/|Don't **forget** to turn off the light|forgot|forgotten|forgetting|
+|sway|（非常轻的）摇摆|/|The trees **swayed** in the wind|swayed|swayed|swaying|
 
 <h2 style="text-align: center;">动名词表</h2>
 
@@ -309,6 +310,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |wrong|错误的|/|**wrong** port|Your answer is **wrong**|
 |ordinary|普通且平凡的|ˈɔːrdneri|**ordinary** day|**ordinary** teacher|
 |rhythmic|有规律的|ˈrɪð.mɪk|**rhythmic** sound|**rhythmic** movement|
+|metallic|金属的|məˈtælɪk|**metallic** paint|**metallic** sheen|
 
 ---
 

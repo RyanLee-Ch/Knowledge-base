@@ -28,13 +28,14 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |space probe|太空探测器|ˈspeɪs prəʊb|Mars|火星|mɑːrz|pulse|脉冲|pʌls|
 |radiation|辐射|ˌreɪ.diˈeɪ.ʃən|solar system|太阳系|/|debate|争论|dɪˈbeɪt|
 |proof|证据|pruːf|Alien|外星人|ˈeɪ.li.ən|intelligence|智慧|ɪnˈtel.ɪ.dʒəns|
+|interference|ˌɪn.təˈfɪə.rəns|干扰|orbiter|（泛指所有的）轨道卫星|ˈɔːrbɪtər|researcher|研究员|rɪˈsɜːrtʃər|
 
 **Chapter Vocabulary：Verb.s**
 |Verb.|Chi.|IPA.|e.g.|过去式|过去分词|现在分词|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |orbit|绕（某个天体的）轨道运行|ˈɔːrbɪt|THe Earth **orbits** the Sun|orbited|orbiting|
 |detect|探测|dɪˈtekt|The probe **detected** water molecules on the Moon.|detected|detected|detecting|
-|emanate from|源自（什么地方）|ˈem.ə.neɪt|The strange glow **emanated from** a crack|amanated|amanated|amanating|
+|emanate from|源自（什么地方）|ˈem.ə.neɪt|The strange glow **emanated from** a crack|emanated|emanated|emanating|
 |erupt into|爆发了、陷入了|ɪˈrʌpt|**erupted into** considerable debate|erupted into|erupted into|erupting into|
 
 
@@ -46,6 +47,8 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |ultraviolet（UV）|紫外线的|ˌʌl.trəˈvaɪə.lət|**ultraviolet** patterns|**ultraviolet** pulse|
 |solar|太阳的|səʊ.lər|**solar** system|**solar** energy|
 |considerable|最高程度形容词，没有明确翻译|kənˈsɪdərəbl|**considerable** debate|**considerabal** excitement|**considerable** amount of time|
+|inorganic|无机的|ˌɪnɔːrˈɡænɪk|**inorganic** interference|**inorganic** compound|**inorganic** adjuvants|
+|distant|（物理举例上）遥远的|/|**distant** glaxies|**distant** moon Pandora|**distant** future|
 
 **Chapter Vocabulary：Adv.s**
 |Adv.|Chi.|IPA.|e.g.0|e.g.1|e.g.2|
