@@ -7,7 +7,7 @@
 <a name= "SignalsFromTheUnknown"></a>
 ##### Signals from the Unknown:
 
-In the year 2147, a space probe named Horizon orbiting Mars detected an unusual signal—a rhythmic pulse of ultraviolet radiation emanating from the solar system’s edge. Scientists on Earth erupted into considerable debate: Was this proof of alien intelligence, or merely inorganic interference from a distant orbiter? Dr. Elena Cruz, lead researcher for the planetary exploration team, urged caution. "We must react carefully," she warned. "If this is a civilisation, our manned space flight to Europa could risk provoking hostility."
+In the year 2147, a space probe named Horizon orbiting Mars detected an unusual signal———— a rhythmic pulse of ultraviolet radiation emanating from the solar system’s edge. Scientists on Earth erupted into considerable debate: Was this proof of alien intelligence, or merely inorganic interference from a distant orbiter? Dr. Elena Cruz, lead researcher for the planetary exploration team, urged caution. "We must react carefully," she warned. "If this is a civilisation, our manned space flight to Europa could risk provoking hostility."
 (2147年，一艘名为“地平线”的太空探测器（space probe）在火星轨道上捕捉到一个异常信号（signal）——一种有节奏的紫外线辐射（ultraviolet radiation）脉冲，源自太阳系（solar）边缘。地球上的科学家们爆发了激烈的争论（considerable debate）：这是外星（alien）文明的证据，还是遥远轨道器（orbiter）的无机（inorganic）干扰？行星（planetary）探索团队的首席研究员埃琳娜·克鲁兹博士呼吁谨慎行事：“我们必须小心应对（react），”她警告道，“如果这是某个文明（civilisation），我们前往木卫二的载人航天（manned space flight）任务可能会冒险（risk）引发敌意。”)
 
 Meanwhile, the crew of the spacecraft Venture-7—sent to explore habitable zones near Saturn—bickered endlessly. Engineer Raj Patel scoffed at biologist Li Wei’s theory: "You think microbial life in underground water proves evolution here? Those primitive microbes are just organic contaminants!" Li’s sharp rejoinder: "Your retort ignores humidity patterns in the ice!" Their debate grew so heated that Commander Hayes ordered them to focus on extracting core samples.
@@ -29,6 +29,8 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |radiation|辐射|ˌreɪ.diˈeɪ.ʃən|solar system|太阳系|/|debate|争论|dɪˈbeɪt|
 |proof|证据|pruːf|Alien|外星人|ˈeɪ.li.ən|intelligence|智慧|ɪnˈtel.ɪ.dʒəns|
 |interference|ˌɪn.təˈfɪə.rəns|干扰|orbiter|（泛指所有的）轨道卫星|ˈɔːrbɪtər|researcher|研究员|rɪˈsɜːrtʃər|
+|exploration|探索|ˌek.spləˈreɪ.ʃən|caution|小心、保持谨慎|ˈkɔː.ʃən|civilisation|文明|ˌsɪvəlɪˈzeɪʃən|
+|Europa|木卫二|jʊəˈrəʊ.pə|
 
 **Chapter Vocabulary：Verb.s**
 |Verb.|Chi.|IPA.|e.g.|过去式|过去分词|现在分词|
@@ -37,7 +39,10 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |detect|探测|dɪˈtekt|The probe **detected** water molecules on the Moon.|detected|detected|detecting|
 |emanate from|源自（什么地方）|ˈem.ə.neɪt|The strange glow **emanated from** a crack|emanated|emanated|emanating|
 |erupt into|爆发了、陷入了|ɪˈrʌpt|**erupted into** considerable debate|erupted into|erupted into|erupting into|
-
+|urge|呼吁|ɜːrdʒ|The doctor **urged** the patient to quit smoking|urged|urged|urging|
+|react|应对，对（什么）有反应|riˈækt|**react** to light|reacted|reacted|reacting|
+|warn|警告|wɔːrn|**warn** you about the risks|warned|warned|warning|
+|risk|面临（什么的）风险||
 
 **Chapter Vocabulary：Adj.s**
 |Adj.|Chi.|IPA.|e.g.0|e.g.1|e.g.2|
@@ -49,8 +54,11 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |considerable|最高程度形容词，没有明确翻译|kənˈsɪdərəbl|**considerable** debate|**considerabal** excitement|**considerable** amount of time|
 |inorganic|无机的|ˌɪnɔːrˈɡænɪk|**inorganic** interference|**inorganic** compound|**inorganic** adjuvants|
 |distant|（物理举例上）遥远的|/|**distant** glaxies|**distant** moon Pandora|**distant** future|
+|planetary|行星的|ˈplæn.ɪ.tery.|**planetary** atmospheres|**planetary** crisis|**planetary** science|
+|manned|载人的|mænd|**manned** spaceflight|**manned** spacecraft|/|
 
 **Chapter Vocabulary：Adv.s**
 |Adv.|Chi.|IPA.|e.g.0|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |merely|仅仅|ˈmɪə.li|**merely** inorganic interference|It's **merely** a scratch|This is **merely** a test|
+|carefully|谨慎|ˈkeə.fəl|react **carefully**|**carefully** placed the sample|**carefully** interpret|

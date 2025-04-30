@@ -6,22 +6,16 @@
 
 #### A Day In the Little House:
 The morning sunlight spilled through the window onto the bed, gently waking Mia. She stretched and adjusted her pillow, then glanced at the nightstand where her laptop sat beside a piture frame. After slipping into her slippers, she walked to the bathroom sink to brush her teeth with a toothbrush and toothpaste. The mirror reflected her sleepy face as she reached for the face wash.
-（晨光透过窗户洒在床上，轻轻地唤醒了Mia，她伸了个懒腰，调整了一下枕头，瞥见床头柜上的笔记本电脑和旁边的相框。穿上拖鞋后，她走到洗漱台前，用牙刷和牙膏刷牙。镜子映出她惺忪的睡脸，她伸手拿起了洗面奶。）
 
 In the kitchen, Mia turned on the induction cooker to boil water in a kettle. She grabbed a bowl and chopsticks from the drawer, then stirred oatmeal with a spoon. The range hood hummed softly as she opened the fridge for milk. Suddenly, her wireless speaker played a notification——her roomate Lily was video-calling. Mia hurried to the living room, nearly tripping over the charging cable on the computer desk.
-（厨房里，米娅打开电磁炉，用热水壶烧水。她从抽屉里拿出碗和筷子，用勺子搅拌燕麦粥。抽油烟机轻声嗡鸣，她打开冰箱取牛奶。突然，无线音响传来通知声——室友莉莉发来视频通话。米娅冲向客厅，差点被电脑桌上的充电线绊倒。）
 
 “Mia! Can you check the USB port? My mouse isn’t working!” Lily’s voice echoed through the monitor. Mia sighed and crouched under the table, fiddling with the PC case. A USB drive was plugged into the wrong port. “Fixed it!” she said, wiping dust off the keyboard.
-（“米娅！帮我看看USB接口，我的鼠标不动了！”莉莉的声音从显示器传来。米娅叹了口气，蹲到桌子下摆弄电脑主机，发现U盘插错了接口。“修好了！”她擦了擦键盘上的灰尘。）
 
 By afternoon, rain tapped against the balcony’s curtain. Mia grabbed an umbrella and stepped outside to rescue clothes from the drying rack. Back inside, she lit an incense stick to calm herself, then flopped onto the sofa with a remote to watch TV. The AC hummed faintly as she dozed off.
-（午后，雨点敲打着阳台的窗帘。米娅抓起雨伞，冲出去抢救晾衣架上的衣服。回到屋内，她点燃香薰让自己平静，然后瘫在沙发上用遥控器看电视。空调轻声嗡鸣，她渐渐打起了盹。）    
 
 Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked stir-fry in a wok, seasoned with salt and soy sauce, while arguing over whose turn it was to take out the trash can. After dinner, Mia plugged her phone into the charger and collapsed onto the mattress, staring at the ceiling light.
-（傍晚，莉莉回来了，把背包扔在凳子上。两人用炒锅做了翻炒菜，加了盐和酱油调味，一边争论轮到谁倒垃圾桶。晚餐后，米娅把手机插上充电器，瘫倒在床垫上，盯着天花板上的灯。）
 
 “Another ordinary day,” she whispered, as the switch clicked off.
-（“又是平凡的一天。”她轻声说着，按下了开关。）
 
 ##### 章节语法：
 
@@ -180,6 +174,8 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Trash back|垃圾袋|/|Umbrella|雨伞|/|Bottle opener|开瓶器|/|
 |backpack|背包|/|dust|灰尘|/|incense stick|（线型的）香薰|
 |TV|电视|/|ceiling|天花板|/|pendulum|摆钟|ˈpendʒələm|
+|study|书房|/|fan|风扇|/|bottle|瓶子|/|
+|headset|耳麦（老式的有麦克风的耳机）|/|
 
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -204,7 +200,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 #### 生命集
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|voice|声音|/|
+|voice|声音|/|sweat|汗|/|
 
 #### 自然现象
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -221,11 +217,17 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |afternoon|下午|/|evening|傍晚|/|dawn|黎明|dɔːn|
+|twilight|暮色/黄昏|ˈtwaɪlaɪt|
 
 #### 材料学
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |stainless steel|不锈钢|/|
+
+#### 抽象实体对象
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|container|所有容器的抽象对象|/|
 
 ---
 
@@ -293,6 +295,16 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |lean|靠（在什么地方）|/|The bike has **leaned** there all day|leaned|leaned|leaning|
 |forget|忘记（做某事）|/|Don't **forget** to turn off the light|forgot|forgotten|forgetting|
 |sway|（非常轻的）摇摆|/|The trees **swayed** in the wind|swayed|swayed|swaying|
+|awake|启动、醒来|/|He slowly **awoke** from a deep sleep|awoke|awoken|awaking|
+|whir|发出呼呼声|wɜːr|The blender **whirred** loudly|whirred|whirred|whirring|
+|mutter|（小声的）抱怨|ˈmʌt̬.ɚ|He tends to **mutter** when he's annoyed|muttered|muttered|muttering|
+|move|挪动|muːv|**move** your chair|moved|moved|moving|
+|ripple|随风飘动、泛起涟漪|ˈrɪp.əl|The flag had **rippled** in the breeze all morning|rippled|rippled|rippling|
+|tip over|翻倒、打翻|/|The cat **tipped over** the glass of water|tipped over|tipped over|tipping over|
+|sit|坐|/|**sit** on the chair|sat|sat|sitting|
+|sit cross-legged|盘腿坐|sit ˌkrɑːsˈleɡ.ɪd|**sat cross-legged** on the cooler|sat cross-legged|sat cross-legged|siting cross-legged||
+
+
 
 <h2 style="text-align: center;">动名词表</h2>
 
@@ -311,6 +323,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |ordinary|普通且平凡的|ˈɔːrdneri|**ordinary** day|**ordinary** teacher|
 |rhythmic|有规律的|ˈrɪð.mɪk|**rhythmic** sound|**rhythmic** movement|
 |metallic|金属的|məˈtælɪk|**metallic** paint|**metallic** sheen|
+|damn|该死的、傻逼的|/|**damn** computer|That movie was **damn** good|
 
 ---
 
@@ -400,6 +413,8 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |:-:|:-:|:-:|:-:|:-:|
 |Whose|谁的|/|**Whose** phone|谁的手机|
 |Whose turn is it|轮到谁去（做某事）|/|**Whose turn is it** to wash the dished?|这次轮到谁去洗碗？|
+|Where|在哪里|/|**Where's** the damn date cable?|数据线在哪里？|
+
 
 <h2 style="text-align: center;">限定词</h2>
 
