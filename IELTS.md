@@ -30,7 +30,8 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |proof|证据|pruːf|Alien|外星人|ˈeɪ.li.ən|intelligence|智慧|ɪnˈtel.ɪ.dʒəns|
 |interference|ˌɪn.təˈfɪə.rəns|干扰|orbiter|（泛指所有的）轨道卫星|ˈɔːrbɪtər|researcher|研究员|rɪˈsɜːrtʃər|
 |exploration|探索|ˌek.spləˈreɪ.ʃən|caution|小心、保持谨慎|ˈkɔː.ʃən|civilisation|文明|ˌsɪvəlɪˈzeɪʃən|
-|Europa|木卫二|jʊəˈrəʊ.pə|
+|Europa|木卫二|jʊəˈrəʊ.pə|hostility|敌意|hɒˈstɪləti|crew|机组、剧组、船员|kruː|
+|spacecraft|太空飞船、航天器|/|
 
 **Chapter Vocabulary：Verb.s**
 |Verb.|Chi.|IPA.|e.g.|过去式|过去分词|现在分词|
@@ -42,7 +43,8 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |urge|呼吁|ɜːrdʒ|The doctor **urged** the patient to quit smoking|urged|urged|urging|
 |react|应对，对（什么）有反应|riˈækt|**react** to light|reacted|reacted|reacting|
 |warn|警告|wɔːrn|**warn** you about the risks|warned|warned|warning|
-|risk|面临（什么的）风险||
+|risk|面临（什么的）风险、冒着（什么的）风险|/|He **risked** his life to save the child|risked|risked|risking|
+|provoke|激起、引发|prəˈvoʊk|**provoke** anger|provoked|provoked|provoking|
 
 **Chapter Vocabulary：Adj.s**
 |Adj.|Chi.|IPA.|e.g.0|e.g.1|e.g.2|
@@ -56,9 +58,11 @@ As Earth celebrated the discovery, the Proxima signal suddenly shifted—a delib
 |distant|（物理举例上）遥远的|/|**distant** glaxies|**distant** moon Pandora|**distant** future|
 |planetary|行星的|ˈplæn.ɪ.tery.|**planetary** atmospheres|**planetary** crisis|**planetary** science|
 |manned|载人的|mænd|**manned** spaceflight|**manned** spacecraft|/|
+|habitable|宜居的|ˈhæbɪtəbl|**habitable** zones|**habitable** exoplanet|**habitable** planets|
 
 **Chapter Vocabulary：Adv.s**
 |Adv.|Chi.|IPA.|e.g.0|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |merely|仅仅|ˈmɪə.li|**merely** inorganic interference|It's **merely** a scratch|This is **merely** a test|
 |carefully|谨慎|ˈkeə.fəl|react **carefully**|**carefully** placed the sample|**carefully** interpret|
+|meanwhile|与此同时|/|/|/|/|

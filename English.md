@@ -1,6 +1,7 @@
 <h1 style="text-align: center;">English</h1>
 
 > 动词形容表达：verb. of ：什么的什么
+动词的 -ing 形式可当形容词用
 
 <h2 style="text-align: center;">小说集</>
 
@@ -177,6 +178,11 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |study|书房|/|fan|风扇|/|bottle|瓶子|/|
 |headset|耳麦（老式的有麦克风的耳机）|/|
 
+#### 外部
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|streetlamp|路灯|/|
+
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -217,7 +223,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |afternoon|下午|/|evening|傍晚|/|dawn|黎明|dɔːn|
-|twilight|暮色/黄昏|ˈtwaɪlaɪt|
+|twilight|暮色/黄昏|ˈtwaɪlaɪt|tomorrow|明天|/|
 
 #### 材料学
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -228,6 +234,11 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |container|所有容器的抽象对象|/|
+
+#### 颜色
+|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|blue|蓝色|/|deepening blue|深蓝色|/|
 
 ---
 
@@ -302,8 +313,10 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |ripple|随风飘动、泛起涟漪|ˈrɪp.əl|The flag had **rippled** in the breeze all morning|rippled|rippled|rippling|
 |tip over|翻倒、打翻|/|The cat **tipped over** the glass of water|tipped over|tipped over|tipping over|
 |sit|坐|/|**sit** on the chair|sat|sat|sitting|
-|sit cross-legged|盘腿坐|sit ˌkrɑːsˈleɡ.ɪd|**sat cross-legged** on the cooler|sat cross-legged|sat cross-legged|siting cross-legged||
-
+|sit cross-legged|盘腿坐|sit ˌkrɑːsˈleɡ.ɪd|**sat cross-legged** on the cooler|sat cross-legged|sat cross-legged|siting cross-legged|
+|catch|抓、捕捉|/|**caught** the ball|caught||caught|catching|
+|organize|整理|/|**organize** her files|organized|organized|organizing|
+|turn the ... into|让（什么对象）变成（什么样）|**turned the** prince **into** a frog|turned the ... into|turned the ... into|turning the ... into|
 
 
 <h2 style="text-align: center;">动名词表</h2>
@@ -311,6 +324,8 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Eng-1|Chi|IPA|e.g.|过去式|过去分词|现在分词|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |video-call|视频通话|/|They often **video-call** each other|video-called|video-called|video-calling|
+|chuckle|（轻柔的）笑或自嘲|ˈtʃʌk.əl|Dumbledore **chuckle** softly|chuckled|chuckled|chuckling|
+|glow|v.发出微微的光，n.微光|ɡloʊ|The fireflies **glowed** in the dark|glowed|glowed|glowing|
 
 ---
 
@@ -324,6 +339,9 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |rhythmic|有规律的|ˈrɪð.mɪk|**rhythmic** sound|**rhythmic** movement|
 |metallic|金属的|məˈtælɪk|**metallic** paint|**metallic** sheen|
 |damn|该死的、傻逼的|/|**damn** computer|That movie was **damn** good|
+|exhausted|疲惫的、精疲力竭的|ɪɡˈzɑː.stɪd|The firefighters were **exhausted**|His **exhausted** sigh|
+|golden|金色的|/|**golden** plate|/|
+|deepening|逐渐加深的|/|**deepening** blue|
 
 ---
 
@@ -338,6 +356,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |downstars|楼下|ˌdaʊnˈsterz|**downstars** vibrated|ran **downstars** to answer the door|
 |carelessly|随意地|/|The threw the ball **carelessly**|left **carelessly**|
 
+
 #### 状态补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
@@ -345,6 +364,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |nearly|差一点|/|**nearly** tripping|**nearly** dropping|
 |1. off|逐渐、过渡|/|dozed **off**|nodded **off**|
 |2. off|特殊：将状态切换|/|the switch clicked **off**|将switch的状态切换为off|
+|maybe|可能|/|**Maybe** it will rain tomorrow|**Maybe** you should think|
 
 #### 目标补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
@@ -358,6 +378,8 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
 |someday|总有一日、有时间的时候|/|
+
+
 
 <h2 style="text-align: center;">介词表</h2>
 
