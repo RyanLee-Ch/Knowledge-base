@@ -124,6 +124,30 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |:-:|:-:|:-:|:-:|
 |当黎明的光线从钥匙孔渗入|As|dawn light|through the keyhole|
 
+
+#### The Coxistence of Busyness and Tranquility
+
+It was a bright Saturday morning, and Mei stepped out of her apartment gate into the quiet residential area. A gentle breeze rustled the leaves in the greenbelt beside the sidewalk, and she could already hear the distant hum of traffic on the main road. Ahead, a line of streetlamps arched over the street, their tall poles casting delicate shadows even under the morning sunlight.
+这是一个明亮的星期六早晨，Mei 走出小区的大门，踏进了安静的住宅区。绿化带旁的人行道上吹过一阵轻风，树叶轻轻沙沙作响，她已经能听到远处主干道上传来的车流声。前方，一排排路灯高高立在街道两旁，即使在阳光下也投下了细长的影子。
+
+She locked her bike in the bike shed behind the guardhouse, then crossed the street at the crosswalk toward the corner café. The signpost pointed the way: “Café Lumière →”. Inside, the warm indoor lighting and the soft glow of a pendant light over each table welcomed her. Mei ordered a latte and found a seat by the window, where she could watch the people outside strolling along the wide sidewalk.
+她把自行车锁在门卫亭后面的停车棚里，然后穿过斑马线，朝街角的咖啡厅走去。指路牌上写着：“Café Lumière →”。咖啡厅内的灯光温暖柔和，每张桌子上方都挂着一盏简约的吊灯。Mei 点了一杯拿铁，坐在窗边的位置，看着窗外的人们在宽阔的人行道上漫步。
+
+After finishing her coffee, she passed McDonald’s and KFC—both fast food restaurants marked with warning signs reminding customers to "Mind the Step". A fire hydrant stood near the curb, while a surveillance camera hung silently from a nearby signal tower. The everyday city scenes surrounded her—familiar, yet full of life.
+喝完咖啡后，她路过了麦当劳和肯德基这两家快餐店，门口都有“注意台阶”的警示牌。人行道边竖着一个消防栓，而旁边的信号塔上挂着一台监控摄像头，静静记录着街头的流动。日常的城市景象围绕着她，熟悉却又充满生机。
+
+Turning onto a quieter street, Mei saw a flower bed blooming with daisies beside a small pavilion. A few elderly people were resting under it, chatting. Further ahead, a distribution box was fixed on the wall of an office building, its sleek design blending into the modern surroundings.
+转入一条安静些的街道后，Mei 看到花圃里的雏菊盛开着，旁边是一个小亭子，几位老人正在亭子下休息聊天。再往前走，是一栋写字楼，墙上安装着一个配电箱，线条流畅，与现代建筑和谐融合。
+
+Eventually, she arrived at the subway station. Holding the handrail, she took the escalator down into the cool, air‑conditioned interior. She passed the stairs, elevators, and tactile paving designed for the visually impaired. It was a different world underground—structured, efficient, yet quiet.
+最终，她来到地铁站。她扶着扶手乘坐电扶梯，进入凉爽的中央空调空间。她路过楼梯、电梯和专为视障者设计的盲道。地下的世界与地面不同——结构分明、高效运作，却也安静有序。
+
+After exiting the next station, rain had started to fall lightly. Clouds rolled overhead, and she walked briskly past a shopping mall where a grand chandelier lit the entrance. Reflections shimmered on manhole covers, warning lights blinked near a charging station, and the city pulsed with a quiet energy.
+在下一站出站后，细雨开始飘落。天上乌云密布，她快步走过一个大型商场，入口处一盏华丽的吊灯照亮了四周。雨水在井盖上反光，充电站旁的警示灯在闪烁，城市在这种静谧中悄然跳动。
+
+Finally, she arrived at the library—a landmark building with a tall clock tower. The indoor warmth and soft lighting felt comforting. As she settled into a reading nook, surrounded by books and silence, she smiled. Outside, the city carried on—busy and bright. But here, she found her quiet place.
+最终，她到达了图书馆，这是一栋有着高大钟楼的地标性建筑。室内温暖柔和的灯光让人安心。她坐在一个安静的阅读角落，身边是书香和寂静。她微微一笑——城市还在继续忙碌地运转，而她，在这里找到了属于自己的宁静。
+
 ---
 
 
@@ -181,7 +205,32 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 #### 外部
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|streetlamp|路灯|/|
+|streetlamp|路灯|/|Café、Coffee shop|咖啡厅|/|shop|商店|/|
+|library|图书馆|/|road|马路|/|Crosswalk|斑马线|/|
+|street|街道|/|wall|墙|/|signpost、road sign|指路牌|/|
+|building|大楼|/|tower|超高的楼或塔|/|office building|写字楼|
+|guardhouse、security booth|门卫厅|/|fence|护栏|/|subway station|地铁站|/|
+|bus stop|工作站|/|sidewalk|人行道|/|residential area|小区|ˌrezɪˈdenʃəl ˈeəriə|
+|village|村子|ˈvɪlɪdʒ|bike shed|停车棚|baɪk ʃed|parking lot|停车场|/|
+|park|公园|/|signal tower|信号塔|/|flower bed|花圃|/|
+|greenbelt|绿化带|/|shopping mall|商场|fast food restaurant|快餐店|
+|McDonald's|麦当劳|məkˈdɒnəldz|KFC|肯德基|/|Pavilion|亭子|/|
+|surveillance camera|监控摄像头|sɜːrˈveɪləns ˈkæmərə|fire hydrant|消防栓|/|warning sign|警示牌|/|
+|manhole cover|井盖|/|Guardrail|马路围栏|ˈɡɑːrdreɪl|elevator|电梯|/|
+|escalator|电扶梯|/|stairs|楼梯|/|bubble tea shop|奶茶|/|
+|restaurant|饭店|/|food street|小吃街|/|indoor|室内|/|
+|outdoor|室外|/|sunlight|阳光|/|moonlight|月光|/|
+|sky|天空|/|night|黑夜|/|pendant light|（简约的）吊灯|/|
+|chandelier|（华丽的）吊灯|ˌʃændəˈlɪər|handrail|（扶手式）护栏|/|guardrail|（完全遮挡的）护栏|/|
+|substation|变电站|/|distribution box|配电箱|/|cloud|云|/|
+|rain|雨|/|snow|雪|/|hail|冰雹|/|
+|Central AC|中央空调|/|lantern|灯笼|/|lighting|灯光|/|
+|reflection|反光|/|police station|警察局|/|warning light|警示灯|/|
+|fire extinguisher cabinet|灭火器箱|/|lawn|草地|/|landmark|地标|/|
+|charging station|充电站|/|tactile paving|盲道|/|gate（barrier）|闸门|/|
+|leaves|树叶、叶子|/|traffic|交通|/|hum of traffic|车流声|/|
+
+
 
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -211,7 +260,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 #### 自然现象
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|rain|雨|/|thump|撞击声/闷响|θʌmp|
+|rain|雨|/|thump|撞击声/闷响|θʌmp|breeze|微风|/|
 
 #### 穿着穿搭
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -223,7 +272,8 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |afternoon|下午|/|evening|傍晚|/|dawn|黎明|dɔːn|
-|twilight|暮色/黄昏|ˈtwaɪlaɪt|tomorrow|明天|/|
+|twilight|暮色/黄昏|ˈtwaɪlaɪt|tomorrow|明天|/|Saturday|周六|/|
+|morning|早上|/|
 
 #### 材料学
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -240,6 +290,10 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |blue|蓝色|/|deepening blue|深蓝色|/|
 
+#### 量词
+|Eng-1|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|(a) line of|（一）排的（什么东西）|**a line of** streetlamps|
 ---
 
 <h2 style="text-align: center;">动词表</h2>
@@ -317,7 +371,11 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |catch|抓、捕捉|/|**caught** the ball|caught||caught|catching|
 |organize|整理|/|**organize** her files|organized|organized|organizing|
 |turn the ... into|让（什么对象）变成（什么样）|**turned the** prince **into** a frog|turned the ... into|turned the ... into|turning the ... into|
-
+|step out of|从（什么地方）走出来|/|**stepped out of** the room|stepped out of|stepped out of|stepping out of|
+|rustle|沙沙作响|ˈrʌsəl|The leaves **rustled** in the wind|rustled|rustled|rustling|
+|can|能|/|I **could** drive|could|/|/|
+|hear|听到|/|I **heard** a strange noise last night|heard|heard|hearing|
+|arch over|成拱形排列在（什么东西）上方|/|streetlamps **arched over** the street|arched over|arched over|arching over|
 
 <h2 style="text-align: center;">动名词表</h2>
 
@@ -342,6 +400,12 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |exhausted|疲惫的、精疲力竭的|ɪɡˈzɑː.stɪd|The firefighters were **exhausted**|His **exhausted** sigh|
 |golden|金色的|/|**golden** plate|/|
 |deepening|逐渐加深的|/|**deepening** blue|
+|bright|明亮的、鲜艳的|/|**bright** morning|**bright** colors|**bright** future|
+|quiet|安静的|/|**quiet** neighborhood|be **quiet**|
+|gentle|轻柔的、温柔的|/|**gentle** breeze|**gentle** voice|be **gentle**|
+|distant|遥远的、远处的|/|**distant** mountains|**distant** past|
+|main|主要的|/|**main** road|**main** idea|
+
 
 ---
 
@@ -365,6 +429,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |1. off|逐渐、过渡|/|dozed **off**|nodded **off**|
 |2. off|特殊：将状态切换|/|the switch clicked **off**|将switch的状态切换为off|
 |maybe|可能|/|**Maybe** it will rain tomorrow|**Maybe** you should think|
+|already|已经|/|I've **already** eaten lunch|she **already** knew the answer|
 
 #### 目标补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
@@ -373,6 +438,7 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 |inside|（向）里面|/|Come **inside**|back **inside**|
 |at|（向）某个对象|/|stared **at** the screen|aimed **at** the target|
 |toward|朝着（某个对象）|/|stumbled **toward** the wardrobe|walked **toward** the door|
+|ahead|（向）前方|/|There's a bus stop just **ahead**|look ahead before crossing the street|
 
 #### 时间性副词
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
