@@ -2,6 +2,9 @@
 
 > 动词形容表达：verb. of ：什么的什么
 动词的 -ing 形式可当形容词用
+river = 河
+sea = 海
+
 
 <h2 style="text-align: center;">小说集</>
 
@@ -200,7 +203,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |backpack|背包|/|dust|灰尘|/|incense stick|（线型的）香薰|
 |TV|电视|/|ceiling|天花板|/|pendulum|摆钟|ˈpendʒələm|
 |study|书房|/|fan|风扇|/|bottle|瓶子|/|
-|headset|耳麦（老式的有麦克风的耳机）|/|
+|headset|耳麦（老式的有麦克风的耳机）|/|step|台阶|/|
 
 #### 外部
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -229,13 +232,16 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |fire extinguisher cabinet|灭火器箱|/|lawn|草地|/|landmark|地标|/|
 |charging station|充电站|/|tactile paving|盲道|/|gate（barrier）|闸门|/|
 |leaves|树叶、叶子|/|traffic|交通|/|hum of traffic|车流声|/|
-
+|pole|柱子|/|shadow|影子、阴影|/|corner|角落|/|
+|way|路|/|seat|座位|/|warning|警告|/|
+|sign|牌子|/|curb|边边|/|
 
 
 #### 可食用产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |oatmeal|燕麦|ˈoʊtmiːl|stir-fry|炒菜|/|dinner|晚饭|/|
+|latte|拿铁|/|coffee|咖啡|/|
 
 #### 电子产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -245,7 +251,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 #### 人物关系
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|roomate|室友|/|
+|roomate|室友|/|customer|客人|/|
 
 #### 器官组织
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -255,7 +261,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 #### 生命集
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|voice|声音|/|sweat|汗|/|
+|voice|声音|/|sweat|汗|/|people|人|/|
 
 #### 自然现象
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -372,10 +378,25 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |organize|整理|/|**organize** her files|organized|organized|organizing|
 |turn the ... into|让（什么对象）变成（什么样）|**turned the** prince **into** a frog|turned the ... into|turned the ... into|turning the ... into|
 |step out of|从（什么地方）走出来|/|**stepped out of** the room|stepped out of|stepped out of|stepping out of|
-|rustle|沙沙作响|ˈrʌsəl|The leaves **rustled** in the wind|rustled|rustled|rustling|
 |can|能|/|I **could** drive|could|/|/|
 |hear|听到|/|I **heard** a strange noise last night|heard|heard|hearing|
 |arch over|成拱形排列在（什么东西）上方|/|streetlamps **arched over** the street|arched over|arched over|arching over|
+|cast|投（影、射）|kæst|**cast** a long shadow|cast|cast|casting|
+|rustle|沙沙作响|ˈrʌsəl|The leaves **rustled** in the wind|rustled|rustled|rustling|
+|lock|锁|/|**locked** her bike|locked|locked|locking|
+|cross|穿过（什么）|/|crossed the street|crossed|crossed|crossing|
+|point|指向|/|**pointed** the way|pointed|pointed|pointing|
+|welcome|欢迎|/|**welcomed** her|welcomed|welcomed|welcoming|
+|order|点（餐）|/|**ordered** a coffee and sandwich|ordered|ordered|ordering|
+|find|找|/|**found** a seat|found|found|finding|
+|stroll|散步|stroʊl|like to **stroll**|strolled|strolled|strolling|
+|finish|（非常广义的）完成（某件事）|/|**finished** the race|finished|finished|finishing|
+|pass|路过|/|**passed** the library|passed|passed|passing|
+|remind|提醒|/|**remind** me to call her|reminded|reminded|reminding|
+|mind|注意、当心|/|**mind** the step|minded|minded|minding|
+|stand|立着、竖着|/|**stood** near the curb|stood|stood|standing|
+|hang|挂|/|**hung** the picture on the wall|hung|hung|hanging|
+
 
 <h2 style="text-align: center;">动名词表</h2>
 
@@ -384,6 +405,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |video-call|视频通话|/|They often **video-call** each other|video-called|video-called|video-calling|
 |chuckle|（轻柔的）笑或自嘲|ˈtʃʌk.əl|Dumbledore **chuckle** softly|chuckled|chuckled|chuckling|
 |glow|v.发出微微的光，n.微光|ɡloʊ|The fireflies **glowed** in the dark|glowed|glowed|glowing|
+
 
 ---
 
@@ -403,9 +425,14 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |bright|明亮的、鲜艳的|/|**bright** morning|**bright** colors|**bright** future|
 |quiet|安静的|/|**quiet** neighborhood|be **quiet**|
 |gentle|轻柔的、温柔的|/|**gentle** breeze|**gentle** voice|be **gentle**|
-|distant|遥远的、远处的|/|**distant** mountains|**distant** past|
+|distant|遥远的、远处的|/|**distant** mountains|**distant   ** past|
 |main|主要的|/|**main** road|**main** idea|
-
+|tall|高的|/|**tall** buildings|**tall** person|
+|1.delicate|（光线）暗淡的|ˈdelɪkət|**delicate** shadows|
+|2.delicate|精致的|/|**delicate** silver necklace|
+|warm|温暖的|/|**warm** indoor|It's **warm** today|
+|wide|宽阔的|/|**wide** sidewalk|The river is very **wide**|
+|marked with ... sign|被（什么东西）标记的|/|marked |
 
 ---
 
@@ -430,6 +457,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |2. off|特殊：将状态切换|/|the switch clicked **off**|将switch的状态切换为off|
 |maybe|可能|/|**Maybe** it will rain tomorrow|**Maybe** you should think|
 |already|已经|/|I've **already** eaten lunch|she **already** knew the answer|
+|even|即使、甚至是|/|she **even** helped me with my homework|He is smart, **even** brilliant|
 
 #### 目标补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
@@ -439,6 +467,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |at|（向）某个对象|/|stared **at** the screen|aimed **at** the target|
 |toward|朝着（某个对象）|/|stumbled **toward** the wardrobe|walked **toward** the door|
 |ahead|（向）前方|/|There's a bus stop just **ahead**|look ahead before crossing the street|
+|along|沿着（什么地方）|/|**along** the wide sidewalk|**along**  the river|
 
 #### 时间性副词
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
@@ -453,8 +482,12 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |Eng-1|Chi|IPA|e.g.1|简译|
 |:-:|:-:|:-:|:-:|:-:|
 |beside|在旁边|/|There is a small table **beside the bed**|有张小桌子在我的床旁边|
-|below|在下面|/|plugged into the socket **below** the microwave|插在微波炉下方的插座|
-
+|below|在下面（大致位置）|/|plugged into the socket **below** the microwave|插在微波炉下方的插座|
+|under|在下面（正下方）|/|**under** the morning sunlight|在晨光下|
+|behind|在后面|/|**behind** the guardhouse|在门卫厅后面|
+|over|在上方|/|**over** the sofa|在沙发上方|
+|by|在（什么东西）旁边|/|**by** the window|在窗户旁|
+|near|附近|/|**near** the crub||
 
 #### 时间补充介词：
 |Eng-1|Chi|IPA|e.g.1|简译|
@@ -503,9 +536,30 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |Whose turn is it|轮到谁去（做某事）|/|**Whose turn is it** to wash the dished?|这次轮到谁去洗碗？|
 |Where|在哪里|/|**Where's** the damn date cable?|数据线在哪里？|
 
+<h2 style="text-align: center;">形容词性物主代词</h2>
+
+|Sub.|Poss.Adj.|IPA|e.g.1|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|I|My|/|My name is ryan|/|
+|You|Your|/|Your bag is on the chair|/|
+|He|His|/|His car is red|/|
+|She|Her|
+|It|its|
+|we|our|/|Our teacher is kind|/|
+|they|their|Their house is big|/|
 
 <h2 style="text-align: center;">限定词</h2>
 
 |det.|Chi|IPA|e.g.1|简译|
 |:-:|:-:|:-:|:-:|:-:|
 |another|又是...|/|**Another** ordinary day|又是平凡的一天|
+|each|每个..|/|**each** table|每张桌子|
+|both|两...|/|**both** fast food restaurant|两家快餐店|
+
+<h2 style="text-align: center;">连词</h2>
+
+|conj.|Chi|IPA|e.g.1|简译|
+|:-:|:-:|:-:|:-:|:-:|
+|and|和|/||
+|that even|连|/|It's so cold **that even** the birds stayed inside|太冷了，连鸟都待着不出来|
+|while|而|/|She like to read novels, **while** he prefers watching movies|她喜欢看小说，而他更喜欢看电影|
