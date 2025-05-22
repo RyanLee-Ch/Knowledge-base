@@ -110,16 +110,13 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 
 #### The Humming Apartment:
 As dawn light filtered through the keyhole of her bedroom door, Mia stumbled toward the wardrobe, her quilt still draped over her shoulders. The washing machine's rhythmic thumps downstairs vibrated through the clothes pole mounted on the ceiling. "Need to fix that door handle someday," she mumbled, nearly tripping over her mouse pad left carelessly on the floor.
-（当晨光从卧室门钥匙孔渗入时，米娅跌跌撞撞走向衣柜，被子仍披在肩上。楼下洗衣机的规律撞击声通过天花板的晾衣杆传来。"哪天得修修那个门把手了，"她嘟囔着，差点被随意丢在地上的鼠标垫绊倒。）
 
 In the kitchen, the rice cooker chirped completion beside a stack of plates. She plugged her nasal irrigator into the socket below the microwave, its blue LED reflecting in the stainless steel dustpan leaning against the wall. A forgotten hanger swayed on the refrigerator handle like a metallic pendulum.
-（厨房里，电饭煲在一摞盘子旁发出完成的提示音。她把洗鼻器插进微波炉下方的插座，蓝色LED灯在靠墙的不锈钢簸箕上反光。一个被遗忘的衣架在冰箱把手上像金属钟摆般摇晃。）
 
 Her gaming PC hummed awake in the study, graphics card fans whirring to life. "Where's the damn data cable?" she muttered, moving shampoo bottles and body wash containers on the desk. A towel draped over the water heater rippled as the hair dryer on the shelf suddenly tipped over.
-（她的游戏电脑在书房嗡嗡启动，显卡风扇开始旋转。"那该死的数据线在哪？"她边嘀咕边挪动桌上的洗发水和沐浴露瓶罐。架子上突然翻倒的吹风机让搭在热水器上的毛巾泛起涟漪。）
 
 By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrobe as she wiped sweat with tissue. The microphone on her headset caught her exhausted chuckle: "Tomorrow I'll organize... maybe." Outside, the streetlamp's glow turned the window into a golden plate against the deepening blue.
-（暮色中，米娅盘腿坐在散热器上，拖把靠着衣柜，她用纸巾擦汗。耳机上的麦克风捕捉到她疲惫的笑声："明天我会整理的...或许吧。"窗外，路灯的光芒将窗户变成深蓝背景上的金色盘子。）
+
 
 ##### 章节语法：
 1.表示在什么时候发生了什么事情：**As** + **when**. + **doing.**
@@ -234,7 +231,8 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |leaves|树叶、叶子|/|traffic|交通|/|hum of traffic|车流声|/|
 |pole|柱子|/|shadow|影子、阴影|/|corner|角落|/|
 |way|路|/|seat|座位|/|warning|警告|/|
-|sign|牌子|/|curb|边边|/|
+|sign|牌子|/|curb|边边|/|city|城市|/|
+|scene|景象、场景|siːn|
 
 
 #### 可食用产品
@@ -396,7 +394,9 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |mind|注意、当心|/|**mind** the step|minded|minded|minding|
 |stand|立着、竖着|/|**stood** near the curb|stood|stood|standing|
 |hang|挂|/|**hung** the picture on the wall|hung|hung|hanging|
-
+|surround|围绕着|səˈraʊnd|**surrounded** her|surrounded|surrounded|surrounding|
+|turn|转|/|**turned** left at the corner|turned|turned|turning|
+|turning onto|转入（什么地方）|/|**turning** onto a quieter street|
 
 <h2 style="text-align: center;">动名词表</h2>
 
@@ -432,7 +432,11 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |2.delicate|精致的|/|**delicate** silver necklace|
 |warm|温暖的|/|**warm** indoor|It's **warm** today|
 |wide|宽阔的|/|**wide** sidewalk|The river is very **wide**|
-|marked with ... sign|被（什么东西）标记的|/|marked |
+|marked with ... sign|被（什么东西）标记的|/|
+|nearby|附近的|/|**nearby** signal tower|a **nearby** coffee shop|
+|everyday|日常的、每天的|/|**everyday** city|**everyday** shoes|
+|familiar|熟悉的|/|looks **familiar**|**familiar** tone|
+|full of life|充满生机的，生机勃勃的|/|The city is **full of life**|
 
 ---
 
@@ -446,6 +450,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |faintly|微弱的（几乎没有但实际存在的）|/|**faintly** crackled|barked **faintly**|
 |downstars|楼下|ˌdaʊnˈsterz|**downstars** vibrated|ran **downstars** to answer the door|
 |carelessly|随意地|/|The threw the ball **carelessly**|left **carelessly**|
+|silently|悄悄地|ˈsaɪ.lənt.li|She entered the room **silently**|They sat **silently**|
 
 
 #### 状态补充
@@ -563,3 +568,4 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |and|和|/||
 |that even|连|/|It's so cold **that even** the birds stayed inside|太冷了，连鸟都待着不出来|
 |while|而|/|She like to read novels, **while** he prefers watching movies|她喜欢看小说，而他更喜欢看电影|
+|yet|却又|/|It's simple， **yet** effective|它很简单，缺又很有效|
