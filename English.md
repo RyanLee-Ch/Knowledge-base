@@ -4,7 +4,7 @@
 动词的 -ing 形式可当形容词用
 river = 河
 sea = 海
-
+garden = 花园
 
 <h2 style="text-align: center;">小说集</>
 
@@ -214,7 +214,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |village|村子|ˈvɪlɪdʒ|bike shed|停车棚|baɪk ʃed|parking lot|停车场|/|
 |park|公园|/|signal tower|信号塔|/|flower bed|花圃|/|
 |greenbelt|绿化带|/|shopping mall|商场|fast food restaurant|快餐店|
-|McDonald's|麦当劳|məkˈdɒnəldz|KFC|肯德基|/|Pavilion|亭子|/|
+|McDonald's|麦当劳|məkˈdɒnəldz|KFC|肯德基|/|Pavilion|亭子|pəˈvɪliən|
 |surveillance camera|监控摄像头|sɜːrˈveɪləns ˈkæmərə|fire hydrant|消防栓|/|warning sign|警示牌|/|
 |manhole cover|井盖|/|Guardrail|马路围栏|ˈɡɑːrdreɪl|elevator|电梯|/|
 |escalator|电扶梯|/|stairs|楼梯|/|bubble tea shop|奶茶|/|
@@ -232,7 +232,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |pole|柱子|/|shadow|影子、阴影|/|corner|角落|/|
 |way|路|/|seat|座位|/|warning|警告|/|
 |sign|牌子|/|curb|边边|/|city|城市|/|
-|scene|景象、场景|siːn|
+|scene|景象、场景|siːn|flower|花|/|
 
 
 #### 可食用产品
@@ -260,6 +260,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |voice|声音|/|sweat|汗|/|people|人|/|
+|daisy|雏菊|ˈdeɪzi|elderly people|老年人|/|old man|老家伙|/|
 
 #### 自然现象
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -397,6 +398,9 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |surround|围绕着|səˈraʊnd|**surrounded** her|surrounded|surrounded|surrounding|
 |turn|转|/|**turned** left at the corner|turned|turned|turning|
 |turning onto|转入（什么地方）|/|**turning** onto a quieter street|
+|see|看见（什么东西）|/|**saw** a flower|saw|seen|seeing|
+|bloom|盛开|/|The cherry trees are **blooming** beautifully|bloomed|bloomed|blooming|
+
 
 <h2 style="text-align: center;">动名词表</h2>
 
@@ -437,6 +441,10 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |everyday|日常的、每天的|/|**everyday** city|**everyday** shoes|
 |familiar|熟悉的|/|looks **familiar**|**familiar** tone|
 |full of life|充满生机的，生机勃勃的|/|The city is **full of life**|
+|quieter|更安静的|/|**quieter** street|**quieter** than the kicthen|
+|blooming with|盛开着的（什么花）|/|a **blooming** with daisis flower bed|a garden blooming with roses|
+|small|小的|/|**small** vailion|**small** mistake|
+|elderly|年老的|ˈeldərli|**elderly** man|
 
 ---
 
@@ -560,6 +568,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |another|又是...|/|**Another** ordinary day|又是平凡的一天|
 |each|每个..|/|**each** table|每张桌子|
 |both|两...|/|**both** fast food restaurant|两家快餐店|
+|few||几个|/|a **few** elderly people|有几个老人|
 
 <h2 style="text-align: center;">连词</h2>
 
