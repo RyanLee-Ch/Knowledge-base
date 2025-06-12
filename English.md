@@ -5,6 +5,7 @@
 river = 河
 sea = 海
 garden = 花园
+使用动词去关联其他事情（动词性）：started to fall
 
 <h2 style="text-align: center;">小说集</>
 
@@ -21,71 +22,6 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 
 “Another ordinary day,” she whispered, as the switch clicked off.
 
-##### 章节语法：
-
-1.具体指向对象（有明确的目标对象）：**The**
-|普遍对象|简译|特指对象|简译|
-|:-:|:-:|:-:|:-:|
-|morning sunlight|晨光|**The** morning sunlight|（那道）晨光|
-|moonlight|月光|**The** moonlight|（那道）月光|
-
-2.补充动作的行径：**verb.** + **supp.**
-|verb|简译|supp|简译|组合|简译|
-|:--:|:--:|:--:|:--:|:--:|:--:|
-|spilled|散落|**through** the window|透过窗户|spilled through the window|透窗窗户散落（在某处）|
-|ran|跑|**across** the field|穿过田野|ran across the field|跑过田野|
-
-3.全景描述（书写手法），某个物品在某个地方：**loc.** + **Where** + **verb.**
-|Chi|loc|Where|verb|compl.|
-|:--:|:--:|:--:|:--:|:---:|
-|这是我用来存所有照片的手机|The phone|where|I save all my photos|The phone **where** I save all my photos|
-|这是奶奶用来种菜的花园|The garden|where|my grandma grows vegetables|The garden **where** my grandma grows vegetables|
-|一切的改变都在2020年|The year 2020|where|everything changed|The year 2020 **where** everthing changed|
-
-4.使用某物去做某事：**verb.** + **with** + **non.**
-|Chi|verb.|with|non|compl.|
-|:-:|:-:|:-:|:-:|:-:|
-|用她的牙刷刷牙|bruth her teeth|wtih|a toothbrush and toothpaste|bruth her teeth **with** a toothbrush and toothpaste|
-|用钥匙开门|opened the door|with|a key|opened the door **with** a kay|
-|用锤子修理架子|fixed the shelf|with|a hammer|fixed the door **with** a hammer|
-
-5.在做某事的同时也在做另一件事：**doing.A** + **as** + **doing.B**
-|Chi|doing.A|as|doing.B|compl.|
-|:-:|:-:|:-:|:-:|:-:|
-|镜子照出她困倦的脸时，伸手拿起了洗面奶|The mirror relfected her face|as|she reached for the face wash|The mirror relfected her face as she reached for he face wash|
-|她离开房间时挥了挥手|She waved|as|she left the room|She waved as she left the room|
-
-6.描述在某个地方：**in**、**on**、**at**
-|prep.|范围|Chi|e.g.|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|on|物品、可站起的交通工具|上方、表面|The cup is **on** the table|杯子在桌子上|
-|in|城市、容器|在内部|She is **in** the room|她在房间里|
-|at|站点、门牌、事件、具体对象|在哪里|Meet me **at** the entrace|在入口处见我|
-
-7.表达做某事是为了某件事：**doing.** + **to** + **OBJ.**
-|Chi|doing.A|to|OBJ.|compl.|
-|:-:|:-:|:-:|:-:|:-:|
-|打开电磁炉用热水壶烧水|turned on the induction cooker|to|boil water in a kettle|turned on the induction cooker **to** boil water in kettle|
-|开窗让空气进来|opened the window|to|let in fresh air|opened the window **to** let in fresh air|
-
-8.从什么地方做某事：**verb.** + **from** + **OBJ.**
-|Chi|verb|from|OBJ.|compl.|
-|:-:|:-:|:-:|:-:|:-:|
-|从抽屉拿出碗|She grabbed a bowl|from|the drawer|She grabbed a bowl **from** the drawer|
-|从桌子上跳下来|The cat jumped|from|the table|The cat jumped **from** the table|
-|从书架上拿书|She took a book|from|the shelf|She took a book **from** the shelf|
-
-9.表达做某事是为了某个物品或某个人：**doing.** + **for** + **OBJ.**
-|Chi|doing.A|for|OBJ.|compl.|
-|:-:|:-:|:-:|:-:|:-:|
-|打开冰箱拿牛奶|oepned the fridge|for|milk|opened the fridge **for** milk|
-|存钱买车|saved money|for|a car|saved money **for** a car|
-|为了健康锻炼|exercise|for|my health|exercise **for** my health|
-
-10.短暂的连续性动作表达：**doing.** + **and** + **doing.**
-|Chi|doing.|and|doing.|compl.|
-|:-:|:-:|:-:|:-:|:-:|
-|Mia叹了口气，然后蹲下桌子|Mia sighed|and|crouched under the table|Mia sighed **and** couched under the table|
 
 11.由某个动作导致的物理意义上的分离：**verb.** + **off** + **OBJ.**
 |Chi|verb.|and|OBJ.|compl.|
@@ -128,27 +64,350 @@ By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrob
 #### The Coxistence of Busyness and Tranquility
 
 It was a bright Saturday morning, and Mei stepped out of her apartment gate into the quiet residential area. A gentle breeze rustled the leaves in the greenbelt beside the sidewalk, and she could already hear the distant hum of traffic on the main road. Ahead, a line of streetlamps arched over the street, their tall poles casting delicate shadows even under the morning sunlight.
-这是一个明亮的星期六早晨，Mei 走出小区的大门，踏进了安静的住宅区。绿化带旁的人行道上吹过一阵轻风，树叶轻轻沙沙作响，她已经能听到远处主干道上传来的车流声。前方，一排排路灯高高立在街道两旁，即使在阳光下也投下了细长的影子。
 
 She locked her bike in the bike shed behind the guardhouse, then crossed the street at the crosswalk toward the corner café. The signpost pointed the way: “Café Lumière →”. Inside, the warm indoor lighting and the soft glow of a pendant light over each table welcomed her. Mei ordered a latte and found a seat by the window, where she could watch the people outside strolling along the wide sidewalk.
-她把自行车锁在门卫亭后面的停车棚里，然后穿过斑马线，朝街角的咖啡厅走去。指路牌上写着：“Café Lumière →”。咖啡厅内的灯光温暖柔和，每张桌子上方都挂着一盏简约的吊灯。Mei 点了一杯拿铁，坐在窗边的位置，看着窗外的人们在宽阔的人行道上漫步。
 
 After finishing her coffee, she passed McDonald’s and KFC—both fast food restaurants marked with warning signs reminding customers to "Mind the Step". A fire hydrant stood near the curb, while a surveillance camera hung silently from a nearby signal tower. The everyday city scenes surrounded her—familiar, yet full of life.
-喝完咖啡后，她路过了麦当劳和肯德基这两家快餐店，门口都有“注意台阶”的警示牌。人行道边竖着一个消防栓，而旁边的信号塔上挂着一台监控摄像头，静静记录着街头的流动。日常的城市景象围绕着她，熟悉却又充满生机。
 
 Turning onto a quieter street, Mei saw a flower bed blooming with daisies beside a small pavilion. A few elderly people were resting under it, chatting. Further ahead, a distribution box was fixed on the wall of an office building, its sleek design blending into the modern surroundings.
-转入一条安静些的街道后，Mei 看到花圃里的雏菊盛开着，旁边是一个小亭子，几位老人正在亭子下休息聊天。再往前走，是一栋写字楼，墙上安装着一个配电箱，线条流畅，与现代建筑和谐融合。
 
 Eventually, she arrived at the subway station. Holding the handrail, she took the escalator down into the cool, air‑conditioned interior. She passed the stairs, elevators, and tactile paving designed for the visually impaired. It was a different world underground—structured, efficient, yet quiet.
-最终，她来到地铁站。她扶着扶手乘坐电扶梯，进入凉爽的中央空调空间。她路过楼梯、电梯和专为视障者设计的盲道。地下的世界与地面不同——结构分明、高效运作，却也安静有序。
 
 After exiting the next station, rain had started to fall lightly. Clouds rolled overhead, and she walked briskly past a shopping mall where a grand chandelier lit the entrance. Reflections shimmered on manhole covers, warning lights blinked near a charging station, and the city pulsed with a quiet energy.
-在下一站出站后，细雨开始飘落。天上乌云密布，她快步走过一个大型商场，入口处一盏华丽的吊灯照亮了四周。雨水在井盖上反光，充电站旁的警示灯在闪烁，城市在这种静谧中悄然跳动。
 
 Finally, she arrived at the library—a landmark building with a tall clock tower. The indoor warmth and soft lighting felt comforting. As she settled into a reading nook, surrounded by books and silence, she smiled. Outside, the city carried on—busy and bright. But here, she found her quiet place.
-最终，她到达了图书馆，这是一栋有着高大钟楼的地标性建筑。室内温暖柔和的灯光让人安心。她坐在一个安静的阅读角落，身边是书香和寂静。她微微一笑——城市还在继续忙碌地运转，而她，在这里找到了属于自己的宁静。
+
 
 ---
+
+<h2 style="text-align: center;">语法合集</h2>
+
+#### 语法合集
+<table>
+    <tr>
+        <th>表达目的</th>
+        <th>词性</th>
+        <th>辅助记忆</th>
+        <th>应用范围</th>
+        <th>示例.1</th>
+        <th>示例.2</th>
+        <th>示例.3</th>
+    </tr>
+    <tr>
+        <td>某个对象在做某事</td>
+        <td>be动词</td>
+        <td>Sub. + be. + verb.-ing</td>
+        <td>任何主语对象</td>
+        <td>I was eating</td>
+        <td>She is playing games</td>
+        <td>We are walking outside</td>
+    </tr>
+    <tr>
+        <td rowspan="2">被怎样</td>
+        <td>be动词</td>
+        <td>Sub. + be.-ed + verb.-ed</td>
+        <td rowspan="2">任何主语对象</td>
+        <td>The room was cleaned yesterday</td>
+        <td>The window was blown open by the wind</td>
+        <td>He was hit in the face</td>
+    </tr>
+    <tr>
+        <td>限定词（非严格被动语态）</td>
+        <td>Sub. + the + verb.</td>
+        <td>He tripped over the dog</td>
+        <td>nearly tripping over the charging cable</td>
+        <td>/</td>
+    </tr>
+    <tr>
+        <td rowspan="2">说明某个对象</td>
+        <td rowspan="2">限定词</td>
+        <td rowspan="2">Det. + verb.</td>
+        <td>自然造物</td>
+        <td>The morning sunlight</td>
+        <td>The moon</td>
+        <td>The sky</td>
+    </tr>
+    <tr>
+        <td>具体对象</td>
+        <td>The Door</td>
+        <td>The teacher</td>
+        <td>The cat</td>
+    </tr>
+    <tr>
+        <td rowspan="2" >做了什么事情</td>
+        <td rowspan="2" >动词性</td>
+        <td rowspan="2" >Obj. + Verb.</td>
+        <td>自然造物的影响</td>
+        <td>The rain tapped the window</td>
+        <td>The wind whispered</td>
+        <td>The leaves rustled underfoot</td>
+    </tr>
+    <tr>
+        <td>谁做了什么</td>
+        <td>The girl laughed softly</td>
+        <td>The old man nodded in silence</td>
+        <td>The child clung to her mother</td>
+    </tr>
+    <tr>
+        <td rowspan="2">动作的路径补充</td>
+        <td rowspan="2">介词性</td>
+        <td rowspan="2">verb. + prep. + the</td>
+        <td>介过某个对象</td>
+        <td>spilled through the window</td>
+        <td>walked across the bridge</td>
+        <td>drove along the road</td>
+    </tr>
+    <tr>
+        <td>动作的起始位置</td>
+        <td>grabbed a bowl from the drawer</td>
+        <td>took his phone out of his pocket</td>
+        <td>I've lived here since 2020</td>
+    </tr>
+    <tr>
+        <td rowspan="2">动作的最终目的对象</td>
+        <td>介词性</td>
+        <td>verb. + prep. + the</td>
+        <td>最终到达什么位置</td>
+        <td>Water spilled onto the floor</td>
+        <td>He walked into the room</td>
+        <td>I went to the office</td>
+    </tr>
+    <tr>
+        <td>目的状语</td>
+        <td>verb. + to + doing.</td>
+        <td>最终要去做什么</td>
+        <td>She walked to the bathroom to brush her teeth</td>
+        <td>He went outside to get some fresh air</td>
+        <td>He ran to the kitchen to grab a drink</td>
+    </tr>
+    <tr>
+        <td rowspan="3">以某种方式去做某件事</td>
+        <td>副词性状态补充</td>
+        <td>adv. + verb.</td>
+        <td>以怎样的状态做事</td>
+        <td>gently waking</td>
+        <td>hummed softly</td>
+        <td>suddenly stop</td>
+    </tr>
+    <tr>
+        <td>工具状语（非容器工具）</td>
+        <td>with + instr.</td>
+        <td>用什么东西去做</td>
+        <td>fixed the door with a screwdriver</td>
+        <td>painted the wall with a brush</td>
+        <td>played music with a speaker</td>
+    </tr>
+    <tr>
+        <td>工具状语（容器工具）</td>
+        <td>in + instr.</td>
+        <td>用什么东西去做</td>
+        <td>boil water in a kettle</td>
+        <td>baked the cake in a oven</td>
+        <td>fried the eggs in a pan</td>
+    </tr>
+    <tr>
+        <td rowspan="3">对某对象做某事</td>
+        <td>无主语性动词句</td>
+        <td>verb. + Obj.</td>
+        <td>对人</td>
+        <td>waking Mia</td>
+        <td>opened the door</td>
+        <td>reading a book</td>
+    </tr>
+    <tr>
+        <td>介词性</td>
+        <td>verb. + for + Obj.</td>
+        <td>为了某个对象或实情</td>
+        <td>He left for school early</td>
+        <td>I bought this gift for you</td>
+        <td>He's working hard for his family</td>
+    </tr>
+        <td>宾语性</td>
+        <td>verb. + the + Obj.</td>
+        <td>对某个对象做什么</td>
+        <td>turned on the induction cooker</td>
+        <td>ate the cake</td>
+        <td>fixed the car</td>
+    </tr>
+    <tr>
+        <td rowspan="2">连着做两件事</td>
+        <td rowspan="2">连词</td>
+        <td rowspan="2">verb.sent. + conj. + verb.sent.</td>
+        <td>短间隔时间连着</td>
+        <td>picked up the phone and called her mom</td>
+        <td>got out of bed and took a shower</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>长间隔时间连着</td>
+        <td>She smiled, then laughed</td>
+        <td>Then, he stood up and walked away.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2">疑问句式</td>
+        <td rowspan="2">疑问词</td>
+        <td rowspan="2">Wh. + Sub. + Verb.</td>
+        <td>行为疑问</td>
+        <td>Can you check the USB port?</td>
+        <td>Can I see it?</td>
+        <td>Can I go now?</td>
+    </tr>
+    <tr>
+        <td>情景疑问</td>
+    </tr>
+    <tr>
+        <td>所有权</td>
+        <td>所有格</td>
+        <td>Sub.'s</td>
+        <td>某个对象所属物品</td>
+        <td>Lily's voice</td>
+        <td>A day's work</td>
+        <td>The company's policy</td>
+    </tr>
+    <tr>
+        <td rowspan="3">动词的行为和时间状态</td>
+        <td rowspan="3" >时态</td>
+        <td>Sub. + verb.</td>
+        <td>表达事实</td>
+        <td>She works in an office</td>
+        <td>My mom wakes up at 6 a.m.</td>
+        <td>The sun raise in the east</td>
+    </tr>
+    <tr>
+        <td>(be. + verb.-ing) : be = 在 : is watching = 在看</td>
+        <td>正在做什么</td>
+        <td>She is watching a movie</td>
+        <td>We are walking to the supermarket</td>
+        <td>My cat is sleeping on the sofa</td>
+    </tr>
+    <tr>
+        <td>(Sub. + verb.-ed) : ed = 了 : watched = 看了</td>
+        <td>做了什么</td>
+        <td>I watched a movie last night</td>
+        <td>We played basketball yesterday</td>
+        <td>My friend called me an hour ago</td>
+    </tr>
+</table>
+
+<h2 style="text-align: center;">语法性词</h2>
+
+#### 限定词
+。。。
+
+#### 动作路径-后置补充词
+|prep.|Chi.|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|through the|透过、穿过|/|spilled **throught the** window|
+
+#### 动作位置（方向）指向-后置补充词
+|prep.|Chi.|IPA/补充|e.g.1|
+|:-:|:-:|:-:|:-:|
+|onto det.|到上面|/|She jumped **onto the** bed|
+|into det.|到里面|/|He walked **into the** room|
+|over det.|从上方越过|/|The plane flew **over the** mountain|
+|at det.|具体指向|/|The teacher stared **at the** student|
+|beside det.|在旁边|/|Her laptop sat **beside a** piture frame|
+|to det.|行为指**向**|如walk to为走向（什么地方）、point to为指向（什么东西）|ran **to the** door|
+
+
+#### 动作的直接结果
+|verb. + det.|Chi.|应用范围|e.g.1|e.g.2|e.g.3|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|verb. + a + noun.|/|数量结果|played a notification|wrote a letter|sent a message|
+|verb. + the + noun.|/|具体对象|opened the door|painted the wall|fixed the bike|
+
+
+
+#### 动作目的指向-后置补充词
+|prup.|Chi.直译|IPA/补充|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|to verb.|去（做某事）|一般是verb./verb.sent. + prup.，表达去做什么|She studies hard **to pass** the exam|He ran to the kitchen **to grab** a drink|
+|for noun.|为了（什么东西）|与to不同，to有一个明确的具体对象，而for只是为了表达为了范围或对象群体去做某事|I bought this book **for** her|He left **for** the station|
+
+
+#### 动作状态-前、后置补充词
+> 副词前置：更书面、正式的表达，如：轻轻**地**走，小心翼翼**地**打开
+> 副词后置：更日常、口语的表达，如：回答**得**很快，走**得**慢慢的
+
+|adv.|Chi.|应用范围|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|gently|轻轻地、得轻轻的|声音、动作|/|**gently** wkaing Mia|**gently** patted|
+|lightly|轻轻地、得轻轻的|/|/|fall **lightly**|touched the painting **lightly**|
+|briskly|轻快地|/|ˈbrɪsk.li|walked **briskly**|The dog trotted **briskly** beside its owner|
+|suddenly|突然地|**前置性**|/|The door **suddenly** opened|The phone **suddenly** range|
+
+
+|faintly|微弱的|几乎没有但实际存在的|/|**faintly** crackled|barked **faintly**|
+|carelessly|随意地|/|/|The threw the ball **carelessly**|left **carelessly**|
+|silently|悄悄地|/|ˈsaɪ.lənt.li|She entered the room **silently**|They sat **silently**|
+|downstars|楼下|/|ˌdaʊnˈsterz|**downstars** vibrated|ran **downstars** to answer the door|
+
+
+
+#### 动作依附-后置补充词
+|Adv.instr|Chi.|应用范围|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|with instr.|用（非容器物品）|使用某非容器物品去做某件事|/|brushed his teeth **with a toothbrush**|
+|in instr.|用（容器物品）|使用某容器物品去做某件事|/|boil water **in a kettle**|
+|softly|轻轻地|动作、自然现象、情绪|/|**whispered** softly|**felt** softly|
+
+
+
+#### 动作时间-后置补充词
+|conj.|Chi.|应用范围|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|After|之后|做某事|/|**After** she finished her work|**After** he left|
+
+
+#### 动作连接-中间补充词
+|conj.|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|and|然后（短时间间隔）|/|She stretch **and** adjusted her pillow|made a cup of tea **and** sat by the window|
+|then|然后（长时间间隔）|/|If you're ready, **then** let's go|I finished breakfast, **then** went to work|
+|as|的同时、的时候|/|She smiled **as** she opened the gift|I was cooking **as** he was watching TV|
+
+
+|that even|连|/|It's so cold **that even** the birds stayed inside|太冷了，连鸟都待着不出来|
+|while|而|/|She like to read novels, **while** he prefers watching movies|她喜欢看小说，而他更喜欢看电影|
+|yet|却又|/|It's simple， **yet** effective|它很简单，缺又很有效|
+
+#### 语句连接
+|conj.|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|but|但是|/|
+
+#### 无主语描述
+|type.|AdvP|Chi|suppl.|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|位置表达|in the where.|在哪里|（某个建筑对象里面）|/|in the kitchen|in the morning|
+
+
+#### 关系副词（书面表达）
+|relat.adv.|Chi|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|
+|where|（在）那儿（有）|/|Where her laptop sat|This is the house **where** I was born|
+
+
+#### 人称、反身、物主、形容性物主代词表
+
+| 人称:反身 | SP.&OP.-Chi|物主| RP.-Chi | 形容性物主 |Sub.-Chi|be动词|be not|
+|:-----:|:---:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| **I** : **me**  | 我    | **myself**| 我自己 |**My**|我的|**am** : **was**|**am not** : **wasn't**|
+| **you** : **you** | 你   | **yourself**| 你自己 |**Your**|你的|**are** : **were**|**aren't** : **weren't**|
+| **he** : **him** | 他   | **himself**| 他自己 |**His**|他的|**is** : **was**|**isn't** : **wasn't**|
+| **she** : **her**| 她  | **herself**| 她自己 |**Her**|她的|**is** : **was**|**isn't** : **wasn't**|
+| **it** : **it** | 它    | **itself**:| 它自己 |**Its**|它的|**is** : **was**|**isn't** : **wasn't**|
+| **we** : **us** | 我们  | **ourselves**| 我们自己 |**Our**|我们的|**are** : **were**|**aren't** : **weren't**|
+| **you** : **you**| 你们  | **yourselves**| 你们自己 |**Your**|你们的|**are** : **were**|**aren't** : **weren't**|
+| **they** : **them**| 他们/她们/它们| **themselves**| 他们自己/她们自己/它们自己 |**Their**|他们的|**are** : **were**|**aren't** : **weren't**|
+
+#### 语句起始-疑问词
+|Wh.|Chi.|应用范围|IPA|e.g.1|e.g.2|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Can + Sub. + Verb.|行为疑问|/|/|**Can you help** me|**Can I see** it|
+
+
 
 
 <h2 style="text-align: center;">名词表</h2>
@@ -200,7 +459,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |backpack|背包|/|dust|灰尘|/|incense stick|（线型的）香薰|
 |TV|电视|/|ceiling|天花板|/|pendulum|摆钟|ˈpendʒələm|
 |study|书房|/|fan|风扇|/|bottle|瓶子|/|
-|headset|耳麦（老式的有麦克风的耳机）|/|step|台阶|/|
+|headset|耳麦（老式的有麦克风的耳机）|/|step|台阶|/|clock|钟|/|
 
 #### 外部
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -229,10 +488,12 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |fire extinguisher cabinet|灭火器箱|/|lawn|草地|/|landmark|地标|/|
 |charging station|充电站|/|tactile paving|盲道|/|gate（barrier）|闸门|/|
 |leaves|树叶、叶子|/|traffic|交通|/|hum of traffic|车流声|/|
-|pole|柱子|/|shadow|影子、阴影|/|corner|角落|/|
+|pole|柱子|/|shadow|影子、阴影|/|corner|（墙和墙之间的）角落|/|
 |way|路|/|seat|座位|/|warning|警告|/|
 |sign|牌子|/|curb|边边|/|city|城市|/|
-|scene|景象、场景|siːn|flower|花|/|
+|scene|景象、场景|siːn|flower|花|/|modern surroundings|现代建筑|/|
+|interior|内部|ɪnˈtɪriə(r)|entrance|入口|/|landmark building|地标性建筑|/|
+|clock tower|钟楼|/|nook|（安静隐蔽的）角落|nʊk|place|地方|/|
 
 
 #### 可食用产品
@@ -262,10 +523,12 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |voice|声音|/|sweat|汗|/|people|人|/|
 |daisy|雏菊|ˈdeɪzi|elderly people|老年人|/|old man|老家伙|/|
 
+
 #### 自然现象
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |rain|雨|/|thump|撞击声/闷响|θʌmp|breeze|微风|/|
+|warmth|温暖|/|silence|寂静、安静|/|
 
 #### 穿着穿搭
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -288,7 +551,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 #### 抽象实体对象
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|container|所有容器的抽象对象|/|
+|container|所有**容器**的抽象对象|/|energy|所有**能量**的抽象对象|
 
 #### 颜色
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -400,6 +663,25 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |turning onto|转入（什么地方）|/|**turning** onto a quieter street|
 |see|看见（什么东西）|/|**saw** a flower|saw|seen|seeing|
 |bloom|盛开|/|The cherry trees are **blooming** beautifully|bloomed|bloomed|blooming|
+|rest|休息|/|He is **resting**|rested|rested|resting|
+|chat|聊天|/|They were **chatting** about the weather|chatted|chatted|chatting|
+|fix on the|固定在（什么上面）|/|**fixed on the** wall|
+|blend|混合|/|**blends** wine with fruit juice|blended|blended|blending|
+|blend into|与（什么东西）融合|/|**blending into** the modern surroundings|
+|hold|扶着|/|**holding** the handrail|held|held|holding|
+|take|乘坐|/|**took** the escalator|took|taken|taking|
+|exit|离开|ˈek.sɪt|**exiting** the next station|exited|exited|exiting|
+|start|开始|/|**started** her new job|started|started|starting|
+|fall|下落|/|Leaves **fall** from the trees|fell|fallen|falling|
+|roll|翻滚、滚动|/|The ball **roll** down|rolled|rolled|rolling|
+|shimmer|（自然造物的）闪烁、闪闪发光|ˈʃɪmər|The lake **shimmered** under the moonlight|shimmered|shimmered|shimmering|
+|blink|（灯光、信号、机械的）闪烁|warning lights **blinked**|blinked|blinked|blinking|
+|pulse|跳动|/|The city **pulsed** with energy at night|pulsed|pulsed|pulsing|
+|feel|感觉|/|**felt** comforting|felt|felt|felling|
+|settle|安顿、坐下休息|ˈsɛt(ə)l|She **settled** into the cozy armchair|settled|settled|settling|
+|read|读|/|**reading** science fiction|read|read|reading|
+|carry on|还在（做某事），继续（做某事）|/|**carried on**--busy|carried on|carried on|carrying on|
+|smile|微笑|/|She **smiled** warmly|smiled|smiled|smiling|
 
 
 <h2 style="text-align: center;">动名词表</h2>
@@ -445,34 +727,39 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |blooming with|盛开着的（什么花）|/|a **blooming** with daisis flower bed|a garden blooming with roses|
 |small|小的|/|**small** vailion|**small** mistake|
 |elderly|年老的|ˈeldərli|**elderly** man|
+|sleek|流畅的|/|**sleek** design|**sleek** black dress|
+|modern|现代的|/|**modern** surroundings|**modern** apartment|
+|cool|凉爽的|/|It's **cool** outside today|**cool** break|
+|air-conditioned|装有空调的|**air-conditioned** hotel|
+|visually impaired|有视觉障碍的|ˈvɪʒuəli ɪmˈperd|The device is desighned for the **visually impaired**|
+|structured|结构清晰的、条理分明的|/|a **structured** system|Her speech was well-**structured**|
+|efficient|效率高的|/|She is an **efficient** worker|We need a more **effencient** way|
+|next|下一个的|/|**next** station|**next** week|
+|grand|华丽的、宏伟的|/|**grand** hall|**grand** dress|
+|soft|柔和的|/|**soft** lighting|The blanket feels **soft**|
+|comforting|令人心安的|/|**felt** comforting|The tea had a **comforting** effect|
+|surrounded by|身边都是（什么）、被（什么）围绕着|/|**surrounded by** book|**surrounded by** trees|
+|bright|明亮的|/|The stars were **bright**|**bright** red dress|
+
 
 ---
-
-<h2 style="text-align: center;">副词表</h2>
-
-#### 动作补充
-|Eng-1|Chi|IPA|e.g.1|e.g.2|
-|:-:|:-:|:-:|:-:|:-:|
-|gently|轻轻地（声音、触摸、光线）|/|**gently waking** Mia|**gently** patted|
-|softly|轻轻地（动作、自然现象、情绪）|/|**whispered** softly|**felt** softly|
-|faintly|微弱的（几乎没有但实际存在的）|/|**faintly** crackled|barked **faintly**|
-|downstars|楼下|ˌdaʊnˈsterz|**downstars** vibrated|ran **downstars** to answer the door|
-|carelessly|随意地|/|The threw the ball **carelessly**|left **carelessly**|
-|silently|悄悄地|ˈsaɪ.lənt.li|She entered the room **silently**|They sat **silently**|
 
 
 #### 状态补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
-|Suddenly|突然|/|**suddenly** stopped talking|**Suddenly**, the door slammed shut|
 |nearly|差一点|/|**nearly** tripping|**nearly** dropping|
 |1. off|逐渐、过渡|/|dozed **off**|nodded **off**|
 |2. off|特殊：将状态切换|/|the switch clicked **off**|将switch的状态切换为off|
 |maybe|可能|/|**Maybe** it will rain tomorrow|**Maybe** you should think|
 |already|已经|/|I've **already** eaten lunch|she **already** knew the answer|
 |even|即使、甚至是|/|she **even** helped me with my homework|He is smart, **even** brilliant|
+|further|再、进一步|/|**further** ahead|commet **further**|
+|eventually|最终、终于|/|
+|finally|最终|/|
 
-#### 目标补充
+
+#### 目标或位置补充
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
 |:-:|:-:|:-:|:-:|:-:|
 |outside|（向）外面|/|**stay** outside|She went **outside**|
@@ -481,6 +768,10 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |toward|朝着（某个对象）|/|stumbled **toward** the wardrobe|walked **toward** the door|
 |ahead|（向）前方|/|There's a bus stop just **ahead**|look ahead before crossing the street|
 |along|沿着（什么地方）|/|**along** the wide sidewalk|**along**  the river|
+|underground|在地下|/|It was a different world **underground**|We went **underground** to catch the subway|
+|overhead|在头顶|/|Clouds rolled **overhead**|A plane flew **overhead**|
+|here|这里|/|**Here** is your book|come **here**|
+
 
 #### 时间性副词
 |Eng-1|Chi|IPA|e.g.1|e.g.2|
@@ -500,7 +791,8 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |behind|在后面|/|**behind** the guardhouse|在门卫厅后面|
 |over|在上方|/|**over** the sofa|在沙发上方|
 |by|在（什么东西）旁边|/|**by** the window|在窗户旁|
-|near|附近|/|**near** the crub||
+|near|附近|/|**near** the crub|靠近边边|
+|past|路过|/|**past** a shopping mall|路过一家超市|
 
 #### 时间补充介词：
 |Eng-1|Chi|IPA|e.g.1|简译|
@@ -511,35 +803,6 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |while|一边...一边...，（做什么）的时候|/|Don't eat **while** walking|
 
 
-#### 方式补充介词：
-|Eng-1|Chi|IPA|e.g.1|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|with|用...|/|He fixed the door **with** a hammer|他用锤子修架子|
-|through|从...|/|Lily's voice echoed **through** the monitor|Lily的声音从显示器传来|
-|off|...掉|/|Wiping dust **off** the keyboard|擦掉键盘上的灰尘|
-
-#### 目的补充介词：
-|Eng-1|Chi|IPA|e.g.1|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|to|为了某事|/|She saved money **to** buy a car|她存钱买一辆车|
-|for|为了某物、某人|/|I need money **for** a new phone|我需要钱买一部新手机|
-|into|到（什么位置）里|/|He plugged the cable **into** the port|他把线插到接口里|
-|onto|到（什么位置）上|/|collapsed **onto** the mattress|累倒在床垫上|
-|on|（在）上面|/|mounted **on** the ceiling|安装在天花板上|
-
-
-<h2 style="text-align: center;">人称与反身代词表</h2>
-
-| SP. | SP.-Chi | IPA. | OP. | OP.-Chi | IPA. | RP. | RP.-Chi | IPA. |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| I   | 我      | /aɪ/ | me  | 我      | /miː/ | myself | 我自己 | /maɪˈself/ |
-| you | 你      | /juː/ | you | 你      | /juː/ | yourself | 你自己 | /jɔːrˈself/ |
-| he  | 他      | /hiː/ | him | 他      | /hɪm/ | himself | 他自己 | /hɪmˈself/ |
-| she | 她      | /ʃiː/ | her | 她      | /hɜːr/ | herself | 她自己 | /hɜːrˈself/ |
-| it  | 它      | /ɪt/ | it  | 它      | /ɪt/ | itself | 它自己 | /ɪtˈself/ |
-| we  | 我们    | /wiː/ | us  | 我们    | /ʌs/ | ourselves | 我们自己 | /ɑːrˈselvz/ |
-| you | 你们    | /juː/ | you | 你们    | /juː/ | yourselves | 你们自己 | /jɔːrˈselvz/ |
-| they | 他们/她们/它们 | /ðeɪ/ | them | 他们/她们/它们 | /ðem/ | themselves | 他们自己/她们自己/它们自己 | /ðəmˈselvz/ |
 
 <h2 style="text-align: center;">疑问代词</h2>
 
@@ -549,17 +812,6 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |Whose turn is it|轮到谁去（做某事）|/|**Whose turn is it** to wash the dished?|这次轮到谁去洗碗？|
 |Where|在哪里|/|**Where's** the damn date cable?|数据线在哪里？|
 
-<h2 style="text-align: center;">形容词性物主代词</h2>
-
-|Sub.|Poss.Adj.|IPA|e.g.1|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|I|My|/|My name is ryan|/|
-|You|Your|/|Your bag is on the chair|/|
-|He|His|/|His car is red|/|
-|She|Her|
-|It|its|
-|we|our|/|Our teacher is kind|/|
-|they|their|Their house is big|/|
 
 <h2 style="text-align: center;">限定词</h2>
 
@@ -570,11 +822,11 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |both|两...|/|**both** fast food restaurant|两家快餐店|
 |few||几个|/|a **few** elderly people|有几个老人|
 
-<h2 style="text-align: center;">连词</h2>
 
-|conj.|Chi|IPA|e.g.1|简译|
+
+<h2 style="text-align: center;">助动词</h2>
+
+
+|aux.|Chi|IPA|e.g.1|简译|
 |:-:|:-:|:-:|:-:|:-:|
-|and|和|/||
-|that even|连|/|It's so cold **that even** the birds stayed inside|太冷了，连鸟都待着不出来|
-|while|而|/|She like to read novels, **while** he prefers watching movies|她喜欢看小说，而他更喜欢看电影|
-|yet|却又|/|It's simple， **yet** effective|它很简单，缺又很有效|
+|had|已经|/|**had** started|已经开始了|
