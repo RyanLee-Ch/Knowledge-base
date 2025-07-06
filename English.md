@@ -30,19 +30,6 @@ Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked
 |把鞋上的泥擦掉|Peel the mud|off|the shoes|Peel the mud **off** the shoes|
 |吹掉旧照片上的灰尘|Blow the dust|off|the old photo|Blow the dust **off** the old photo|
 
-12.描述时间快到达（临近）某个点，或位于某个时间段：**By** + **TimesWord.**
-|Chi|/|By|Times|/|
-|:-:|:-:|:-:|:-:|:-:|
-|最迟周五下午5点之前提交你的报告|Submit your report|**by**|Friday 5 PM|/|
-|等我们赶到时，演唱会就已经结束了|/|**By**|the time|we arrived, the concert had already started|
-|暮色降临时，街道已空无一人|/|**By**|dusk|the streets were empty|
-
-13.精确定位动作的受力点或对象：**verb.** + **against** + the **OBJ.**
-|Chi|verb.|against|OBJ.|
-|:-:|:-:|:-:|:-:|
-|冰雹像小石子一样轻轻敲打窗户|The hail tapped|**against**|the window like tiny peebles|
-|树叶在微风中轻叩着屋顶|Leaves tapped|**against**|the roof in the breeze|
-|她用笔轻轻敲着桌子|She tapped her pen|**against**|the desk|
 
 #### The Humming Apartment:
 As dawn light filtered through the keyhole of her bedroom door, Mia stumbled toward the wardrobe, her quilt still draped over her shoulders. The washing machine's rhythmic thumps downstairs vibrated through the clothes pole mounted on the ceiling. "Need to fix that door handle someday," she mumbled, nearly tripping over her mouse pad left carelessly on the floor.
@@ -53,12 +40,6 @@ Her gaming PC hummed awake in the study, graphics card fans whirring to life. "W
 
 By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrobe as she wiped sweat with tissue. The microphone on her headset caught her exhausted chuckle: "Tomorrow I'll organize... maybe." Outside, the streetlamp's glow turned the window into a golden plate against the deepening blue.
 
-
-##### 章节语法：
-1.表示在什么时候发生了什么事情：**As** + **when**. + **doing.**
-|Chi|As|When.|doing.|
-|:-:|:-:|:-:|:-:|
-|当黎明的光线从钥匙孔渗入|As|dawn light|through the keyhole|
 
 
 #### The Coxistence of Busyness and Tranquility
@@ -77,8 +58,132 @@ After exiting the next station, rain had started to fall lightly. Clouds rolled 
 
 Finally, she arrived at the library—a landmark building with a tall clock tower. The indoor warmth and soft lighting felt comforting. As she settled into a reading nook, surrounded by books and silence, she smiled. Outside, the city carried on—busy and bright. But here, she found her quiet place.
 
-
 ---
+
+<h2 style="text-align: center;">对话集</>
+
+### Fried Chicken and Sunday Night Feels
+
+**1- Ryan**:  Why can’t I say “instant noodles”
+**1- Max**: Because instant noodles are the food equivalent of texting your ex. Easy, salty, kinda satisfying, but you always regret it after. 😤
+
+**2- Ryan**: let me see....ha, there are some ice rice
+**2- Max**: You mean iced rice like cold rice straight from the fridge?
+
+**3- Ryan**: actually，it's indeed this 'ice' rice, maybe you should try using your teeth directly...
+**3- Max**: Just chomping on frozen rice like it’s some crunchy snack? That’s hardcore.
+
+**4- Ryan**: Hahahaha, no, maybe we can thinking about going out
+**4- Max**: Where we thinking?
+
+**5- Ryan**: How about fast food restaurant?
+**5- Max**: Solid choice.
+
+**6- Ryan**: I wanna go eat some Chinese food
+**6- Max**: Chinese food? Now you’re talking.
+
+**7- Ryan**: Ahahahha, I wanna eat fry chicken
+**7- Max**: Fried chicken? Classic move
+
+**8- Ryan**: then...you pick
+**8- Max**: Let’s ditch the usual and hit up that small joint downtown
+
+**9- Ryan**: That's sound good, gogogogo
+**9- Max**: Let’s roll
+
+**10- Ryan**: wait..., I forgot where my keys are
+**10- Max**: Check your jacket pocket, or under a pile of laundry
+
+**11- Ryan**: I found them, they were in my pocket
+**11- Max**: Knew it. Classic move
+
+**12- Ryan**: It's really hot outside today, we'd better drive
+**12- Max**: Let’s take the car—AC on full blast
+
+**13- Ryan**: Let me do it, I just got my driver's license
+**13- Max**: No way—congrats, man!
+
+**14- Ryan**: on the way...". Hey bro, how about we pick a song?
+**14- Max**: What vibe you feeling?
+
+**15- Ryan**: pick your favorite song
+**15- Max**: “Electric Feel” by MGMT.
+
+**16- Ryan**: Your taste is terrible. Let me pick! ... love story
+**16- Max**: “Love Story” it is.
+
+**17- Ryan**: come on!! "We were both young when I first saw you", your turn
+**17- Max**: “I close my eyes and the flashback starts...”
+
+**18- Ryan**: "I'm standing there on a balcony in summer air"!! your turn!
+**18- Max**: “See the lights, see the party, the ball gowns...”
+
+**19- Ryan**: careful! Slow down bro, you were going over 120 km/h just now
+**19- Max**: Whoa, my bad! Slowing down
+
+**20- Ryan**: I'm good. Just hungrier now
+**20- Max**: Same here
+
+**21- Ryan**: Gotta have something spicy bro
+**21- Max**: Spicy it is.
+
+**22- Ryan**: I wanna get a coke
+**22- Max**: Classic combo.
+
+**23- Ryan**: just park here, put the stuff in the car first, and we'll grab it after we eat
+**23- Max**: Quick drop-off, then we can chill.
+
+**24- server**: (server scene): What can I get for you?
+**24- Max**: I’ll take a spicy fried chicken combo with a Coke.
+
+**25- Ryan**: me too bro
+**25- Max**: Two spicy fried chicken combos with Cokes.
+
+**26- Ryan**: There's a seat by the window. Let's sit there
+**26- Max**: Good call
+
+**27- Ryan**: How about we go back and play game after we finish eating? We still haven't beaten "A Way Out" from last time
+**27- Max**: Time to head back, boot up the game
+
+**28- Ryan**: I'm full, wanna go back now?
+**28- Max**: Let’s bounce
+
+**29- Ryan**: bro Don't you think It's hot today?
+**29- Max**: For sure
+
+**30- Ryan**: I‘m still not ready, bro. Can't you just turn on the AC? I need the cold air to survive, bro
+**30- Max**: AC’s blasting now
+
+**31- Ryan**: I'm feeling much better now. It takes about 10 minutes to get back from here. I'll take a quick nap first
+**31- Max**: Catch those z’s—10 minutes is prime power-nap time
+
+**32- Ryan**: I hope I can fall asleep. I've been staying up these few days and haven't really rested
+**32- Max**: Even just shutting down for a few minutes helps
+
+**33- Ryan**: Don't worry, I'm feeling much better after having that fried chicken. It works way better than seeing a doctor or taking medicine
+**33- Max**: Fried chicken: the real MVP of healthcare.
+
+**34- Ryan**: We're here. I'll turn on the AC first. Then wait for me, I'll use the bathroom real quick, and we can boot up the PC and start gaming
+**34- Max**: I’ll get the setup ready
+
+**35- Ryan**: In two hours... I'm so tired, bro. I'm done playing. I'm gonna take a shower and go to bed
+**35- Max**: Sleep tight, don’t let Monday bite
+
+**36- Ryan**: I'm not in a hurry, bro. I don't really feel like sleeping tonight. Tomorrow is Monday and I have to work, so I'll probably stay up for a bit
+**36- Max**: That weird Sunday night mood—too tired to do anything, too stubborn to sleep
+
+**37- Ryan**: Thank, bro. but no, I don't feel like doing anything. every sunday night, I just wanna chill alone on the couch and scroll TikTok
+**37- Max**: Sometimes doing nothing is exactly what you need
+
+**38- Ryan**: No, you know bro, my TikTok is always full of cats, dogs, and other pets
+**38- Max**: Animals are the ultimate mood boosters
+
+**39- Ryan**: Yeah, it's all like that. Actually, I'd rather watch those cute pretty girls' videos, oh, bro, what time is it? Should I go to bed?
+**39- Max**: It’s getting late, bro. If you gotta be up early tomorrow, might be a good move to start winding down
+
+**40- Ryan**: alright then, bro, good night
+**40- Max**: Sleep well, bro. Good night
+
 
 <h2 style="text-align: center;">语法合集</h2>
 
@@ -92,76 +197,6 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
         <th>示例.1</th>
         <th>示例.2</th>
         <th>示例.3</th>
-    </tr>
-    <tr>
-        <td>某个对象在做某事</td>
-        <td>be动词</td>
-        <td>Sub. + be. + verb.-ing</td>
-        <td>任何主语对象</td>
-        <td>I was eating</td>
-        <td>She is playing games</td>
-        <td>We are walking outside</td>
-    </tr>
-    <tr>
-        <td rowspan="2">被怎样</td>
-        <td>be动词</td>
-        <td>Sub. + be.-ed + verb.-ed</td>
-        <td rowspan="2">任何主语对象</td>
-        <td>The room was cleaned yesterday</td>
-        <td>The window was blown open by the wind</td>
-        <td>He was hit in the face</td>
-    </tr>
-    <tr>
-        <td>限定词（非严格被动语态）</td>
-        <td>Sub. + the + verb.</td>
-        <td>He tripped over the dog</td>
-        <td>nearly tripping over the charging cable</td>
-        <td>/</td>
-    </tr>
-    <tr>
-        <td rowspan="2">说明某个对象</td>
-        <td rowspan="2">限定词</td>
-        <td rowspan="2">Det. + verb.</td>
-        <td>自然造物</td>
-        <td>The morning sunlight</td>
-        <td>The moon</td>
-        <td>The sky</td>
-    </tr>
-    <tr>
-        <td>具体对象</td>
-        <td>The Door</td>
-        <td>The teacher</td>
-        <td>The cat</td>
-    </tr>
-    <tr>
-        <td rowspan="2" >做了什么事情</td>
-        <td rowspan="2" >动词性</td>
-        <td rowspan="2" >Obj. + Verb.</td>
-        <td>自然造物的影响</td>
-        <td>The rain tapped the window</td>
-        <td>The wind whispered</td>
-        <td>The leaves rustled underfoot</td>
-    </tr>
-    <tr>
-        <td>谁做了什么</td>
-        <td>The girl laughed softly</td>
-        <td>The old man nodded in silence</td>
-        <td>The child clung to her mother</td>
-    </tr>
-    <tr>
-        <td rowspan="2">动作的路径补充</td>
-        <td rowspan="2">介词性</td>
-        <td rowspan="2">verb. + prep. + the</td>
-        <td>介过某个对象</td>
-        <td>spilled through the window</td>
-        <td>walked across the bridge</td>
-        <td>drove along the road</td>
-    </tr>
-    <tr>
-        <td>动作的起始位置</td>
-        <td>grabbed a bowl from the drawer</td>
-        <td>took his phone out of his pocket</td>
-        <td>I've lived here since 2020</td>
     </tr>
     <tr>
         <td rowspan="2">动作的最终目的对象</td>
@@ -179,31 +214,6 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
         <td>She walked to the bathroom to brush her teeth</td>
         <td>He went outside to get some fresh air</td>
         <td>He ran to the kitchen to grab a drink</td>
-    </tr>
-    <tr>
-        <td rowspan="3">以某种方式去做某件事</td>
-        <td>副词性状态补充</td>
-        <td>adv. + verb.</td>
-        <td>以怎样的状态做事</td>
-        <td>gently waking</td>
-        <td>hummed softly</td>
-        <td>suddenly stop</td>
-    </tr>
-    <tr>
-        <td>工具状语（非容器工具）</td>
-        <td>with + instr.</td>
-        <td>用什么东西去做</td>
-        <td>fixed the door with a screwdriver</td>
-        <td>painted the wall with a brush</td>
-        <td>played music with a speaker</td>
-    </tr>
-    <tr>
-        <td>工具状语（容器工具）</td>
-        <td>in + instr.</td>
-        <td>用什么东西去做</td>
-        <td>boil water in a kettle</td>
-        <td>baked the cake in a oven</td>
-        <td>fried the eggs in a pan</td>
     </tr>
     <tr>
         <td rowspan="3">对某对象做某事</td>
@@ -265,29 +275,6 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
         <td>A day's work</td>
         <td>The company's policy</td>
     </tr>
-    <tr>
-        <td rowspan="3">动词的行为和时间状态</td>
-        <td rowspan="3" >时态</td>
-        <td>Sub. + verb.</td>
-        <td>表达事实</td>
-        <td>She works in an office</td>
-        <td>My mom wakes up at 6 a.m.</td>
-        <td>The sun raise in the east</td>
-    </tr>
-    <tr>
-        <td>(be. + verb.-ing) : be = 在 : is watching = 在看</td>
-        <td>正在做什么</td>
-        <td>She is watching a movie</td>
-        <td>We are walking to the supermarket</td>
-        <td>My cat is sleeping on the sofa</td>
-    </tr>
-    <tr>
-        <td>(Sub. + verb.-ed) : ed = 了 : watched = 看了</td>
-        <td>做了什么</td>
-        <td>I watched a movie last night</td>
-        <td>We played basketball yesterday</td>
-        <td>My friend called me an hour ago</td>
-    </tr>
 </table>
 
 <h2 style="text-align: center;">语法性词</h2>
@@ -295,20 +282,17 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 #### 限定词
 。。。
 
-#### 动作路径-后置补充词
-|prep.|Chi.|IPA|e.g.1|e.g.2|
-|:-:|:-:|:-:|:-:|:-:|
-|through the|透过、穿过|/|spilled **throught the** window|
 
-#### 动作位置（方向）指向-后置补充词
+#### 路径、位置补充
 |prep.|Chi.|IPA/补充|e.g.1|
 |:-:|:-:|:-:|:-:|
-|onto det.|到上面|/|She jumped **onto the** bed|
-|into det.|到里面|/|He walked **into the** room|
+|off det.|从（某个对象）分离|/|wiping dust **off the** keyboard|
 |over det.|从上方越过|/|The plane flew **over the** mountain|
 |at det.|具体指向|/|The teacher stared **at the** student|
 |beside det.|在旁边|/|Her laptop sat **beside a** piture frame|
-|to det.|行为指**向**|如walk to为走向（什么地方）、point to为指向（什么东西）|ran **to the** door|
+|to det.|行为指向|如walk to为走向（什么地方）、point to为指向（什么东西）|ran **to the** door|
+|against det.|到（某个对象）|如“雨滴到我脸上”、“风吹到房间里”|raindrops hit **against my** face|
+
 
 
 #### 动作的直接结果
@@ -352,12 +336,6 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |in instr.|用（容器物品）|使用某容器物品去做某件事|/|boil water **in a kettle**|
 |softly|轻轻地|动作、自然现象、情绪|/|**whispered** softly|**felt** softly|
 
-
-
-#### 动作时间-后置补充词
-|conj.|Chi.|应用范围|IPA|e.g.1|e.g.2|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|After|之后|做某事|/|**After** she finished her work|**After** he left|
 
 
 #### 动作连接-中间补充词
