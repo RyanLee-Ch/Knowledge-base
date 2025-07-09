@@ -267,7 +267,8 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |oatmeal|燕麦|ˈoʊtmiːl|stir-fry|炒菜|/|dinner|晚饭|/|
-|latte|拿铁|/|coffee|咖啡|/|
+|latte|拿铁|/|coffee|咖啡|/|instant noodles|方便面|/|
+|Chinese food|中国菜|/|fast food|快餐|/|fried chicken|炸鸡|/|
 
 #### 电子产品
 |Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
@@ -449,6 +450,8 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |read|读|/|**reading** science fiction|read|read|reading|
 |carry on|还在（做某事），继续（做某事）|/|**carried on**--busy|carried on|carried on|carrying on|
 |smile|微笑|/|She **smiled** warmly|smiled|smiled|smiling|
+|think about|考虑|/|
+|be the equivalent of|等同于|/|
 
 
 <h2 style="text-align: center;">动名词表</h2>
@@ -507,79 +510,7 @@ Finally, she arrived at the library—a landmark building with a tall clock towe
 |comforting|令人心安的|/|**felt** comforting|The tea had a **comforting** effect|
 |surrounded by|身边都是（什么）、被（什么）围绕着|/|**surrounded by** book|**surrounded by** trees|
 |bright|明亮的|/|The stars were **bright**|**bright** red dress|
-
+|ice|冰冻的|/|
+|classic|经典的|/|
 
 ---
-
-
-#### 目标或位置补充
-|Eng-1|Chi|IPA|e.g.1|e.g.2|
-|:-:|:-:|:-:|:-:|:-:|
-|outside|（向）外面|/|**stay** outside|She went **outside**|
-|inside|（向）里面|/|Come **inside**|back **inside**|
-|at|（向）某个对象|/|stared **at** the screen|aimed **at** the target|
-|toward|朝着（某个对象）|/|stumbled **toward** the wardrobe|walked **toward** the door|
-|ahead|（向）前方|/|There's a bus stop just **ahead**|look ahead before crossing the street|
-|along|沿着（什么地方）|/|**along** the wide sidewalk|**along**  the river|
-|underground|在地下|/|It was a different world **underground**|We went **underground** to catch the subway|
-|overhead|在头顶|/|Clouds rolled **overhead**|A plane flew **overhead**|
-|here|这里|/|**Here** is your book|come **here**|
-
-
-#### 时间性副词
-|Eng-1|Chi|IPA|e.g.1|e.g.2|
-|:-:|:-:|:-:|:-:|:-:|
-|someday|总有一日、有时间的时候|/|
-
-
-
-<h2 style="text-align: center;">介词表</h2>
-
-#### 位置补充介词：
-|Eng-1|Chi|IPA|e.g.1|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|beside|在旁边|/|There is a small table **beside the bed**|有张小桌子在我的床旁边|
-|below|在下面（大致位置）|/|plugged into the socket **below** the microwave|插在微波炉下方的插座|
-|under|在下面（正下方）|/|**under** the morning sunlight|在晨光下|
-|behind|在后面|/|**behind** the guardhouse|在门卫厅后面|
-|over|在上方|/|**over** the sofa|在沙发上方|
-|by|在（什么东西）旁边|/|**by** the window|在窗户旁|
-|near|附近|/|**near** the crub|靠近边边|
-|past|路过|/|**past** a shopping mall|路过一家超市|
-
-#### 时间补充介词：
-|Eng-1|Chi|IPA|e.g.1|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|After|在...之后|/|**After** slipping into her slippers, ...|在穿上她的拖鞋后，...|
-|as|（做什么）时|/|The mirror reflected her sleepy face **as** she reached for the face wash|镜子照出她库卷的脸时，她找了找洗面奶|
-|by|临近/到（某个时间）|/|**By** 2020, the population had double|在2020年，人口已经翻倍了|
-|while|一边...一边...，（做什么）的时候|/|Don't eat **while** walking|
-
-
-
-<h2 style="text-align: center;">疑问代词</h2>
-
-|interrog. pron.|Chi|IPA|e.g.1|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|Whose|谁的|/|**Whose** phone|谁的手机|
-|Whose turn is it|轮到谁去（做某事）|/|**Whose turn is it** to wash the dished?|这次轮到谁去洗碗？|
-|Where|在哪里|/|**Where's** the damn date cable?|数据线在哪里？|
-
-
-<h2 style="text-align: center;">限定词</h2>
-
-|det.|Chi|IPA|e.g.1|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|another|又是...|/|**Another** ordinary day|又是平凡的一天|
-|each|每个..|/|**each** table|每张桌子|
-|both|两...|/|**both** fast food restaurant|两家快餐店|
-|few||几个|/|a **few** elderly people|有几个老人|
-
-
-
-<h2 style="text-align: center;">助动词</h2>
-
-
-|aux.|Chi|IPA|e.g.1|简译|
-|:-:|:-:|:-:|:-:|:-:|
-|had|已经|/|**had** started|已经开始了|
