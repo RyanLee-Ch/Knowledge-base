@@ -3,228 +3,6 @@
 - `吃、喝`:`eat`、`drink` => `广义性食用`:`have`
 
 
-<h2 style="text-align: center;">常用表达格式</h2>
-
-#### 行为性表达
-
-<table style="text-align: center;">
-    <tr>
-        <th>表达目的</th><th>状态</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
-    </tr>
-    <tr>
-        <td rowspan="9">主动做什么</td>
-            <tr>
-                <td>过去</td>
-                <td><b>be.ed</b> + <b>do.ing</b> →</td>
-                <td>之前在（做什么）</td>
-                <td>I <b>was playing</b> games in the dorm yesterday</td>
-            </tr>
-            <tr>
-                <td>现在</td>
-                <td><b>be.</b> + <b>do.ing</b> →</td>
-                <td>现在在...</td>
-                <td>I<b>'m playing</b> games now</td>
-            </tr>
-            <tr>
-                <td>较长的未来</td>
-                <td><b>be.</b> + <b>going to</b> + <b>do</b> →</td>
-                <td>打算要</td>
-                <td>I<b>'m going to travel</b> next month</td>
-            </tr>
-                <td>要做</td>
-                <td><b>'ll</b> + <b>do.</b> →</td>
-                <td>要去</td>
-                <td>I <b>will take a break</b></td>
-            </tr>
-            <tr>
-                <td>想要去做</td>
-                <td><b>wanna</b> + <b>do.</b> →</td>
-                <td>想</td>
-                <td>I <b>wanna talk</b> with you in English</td>
-            </tr>
-            <tr>
-                <td rowspan="2">付出</td>
-                <td rowspan="2">→ <b>do.</b> + <b>for</b></td>
-                <td>为了</td>
-                <td>He's working hard <b>for his family</b></td>
-            </tr>
-            <tr>
-                <td>给（谁）</td>
-                <td>I bought a gift <b>for you</b></td>
-            </tr>
-            <tr>
-                <td>对什么做？</td>
-                <td>→ <b>do.</b> + <b>det.</b></td>
-                <td>不作翻译</td>
-                <td>Ryan <b>turned on the induction cooker</b></td>
-            </tr>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th>表达目的</th><th>状态</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
-    </tr>
-    <tr>
-        <td rowspan="6">被动怎么样</td>
-        <tr>
-            <td>口语 被动</td>
-            <td><b>be.ed</b> + <b>do.ed</b> →</td>
-            <td>被...了</td>
-            <td>The room <b>was cleaned</b> yesterday</td>
-        </tr>
-        <tr>
-            <td>写作 被动</td>
-            <td>→ do. + <b>over</b> + <b>the</b> →</td>
-            <td>被</td>
-            <td>He tripped <b>over the</b> dog</td>
-        </tr>
-    </tr>
-</table>
-
-#### 陈述性表达
-
-<table style="text-align: center;">
-    <tr>
-        <th>陈述</th><th>表达目的</th><th>基本格式</th><th>辅助直译</th><th>例子</th><th>翻译</th>
-    </tr>
-    <tr>
-        <td>是什么</td>
-        <td>这是</td>
-        <td><b>It's</b> →</td>
-        <td>这是</td>
-        <td><b>It's</b> my phone</td>
-        <td>这是我的手机</td>
-    </tr>
-        <td>时间</td>
-        <td>刚刚</td>
-        <td><b>be.ed →</b></td>
-        <td>刚刚</td>
-        <td>You <b>were</b></td>
-        <td>你刚刚</td>
-    </tr>
-    <tr>
-        <td rowspan="3">无主语动作</td>
-        <td>陈述</td>
-        <td><b>It</b> →</td>
-        <td>不作翻译</td>
-        <td><b>It</b> takes about 10 minutes</td>
-        <td>大概10分钟</td>
-    </tr>
-    <tr>
-        <td>唯一对象指向</td>
-        <td><b>The</b> →</td>
-        <td>不作翻译</td>
-        <td><b>The</b> moon orbits Earth every 27.3 days</td>
-        <td>月亮每27.3天围绕地球一周</td>
-    </tr>
-    <tr>
-        <td>具体对象指向</td>
-        <td><b>The</b> →</td>
-        <td>这</td>
-        <td>open <b>the</b> door</td>
-        <td>打开这门</td>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th>陈述</th><th>所属</th><th>主格所属</th><th>宾格所属</th>
-    </tr>
-    <tr>
-        <td rowspan="10">谁的</td>
-    </tr>
-    <tr>
-        <td>谁的</td><td colspan="2"><b>Name.'s</b></td>
-    </tr>
-    <tr>
-        <td>我的</td><td><b>my</b></td><td><b>mine</b></td>
-    </tr>
-    <tr>
-        <td>你的</td><td><b>your</b></td><td><b>yours</b></td>
-    </tr>
-    <tr>
-        <td>他的</td><td><b>his</b></td><td><b>his</b></td>
-    </tr>
-    <tr>
-        <td>她的</td><td><b>her</b></td><td><b>hers</b></td>
-    </tr>
-    <tr>
-        <td>它的</td><td><b>its</b></td><td><b>its</b></td>
-    </tr>
-    <tr>
-        <td>我们的</td><td><b>our</b></td><td><b>ours</b></td>
-    </tr>
-    <tr>
-        <td>你们的</td><td><b>your</b></td><td><b>yours</b></td>
-    </tr>
-    <tr>
-        <td>他们的</td><td><b>their</b></td><td><b>theirs</b></td>
-    </tr>
-</table>
-
-
-##### 人称、反身、物主代词表
-
-<table style="text-align: center;">
-    <tr>
-        <th>人称</th><th>主格</th><th>宾格</th><th>be现在</th><th>be过去</th><th>物主</th>
-    </tr>
-    <tr>
-        <td>我</td><td>I</td><td>me</td><td>am</td><td>was</td><td>myself</td>
-    </tr>
-    <tr>
-        <td>你</td><td>you</td><td>you</td><td>are</td><td>were</td><td>yourself</td>
-    </tr>
-    <tr>
-        <td>他</td><td>he</td><td>him</td><td rowspan="3">is</td><td rowspan="3">was</td><td>himself</td>
-    </tr>
-    <tr>
-        <td>她</td><td>she</td><td>her</td><td>herself</td>
-    </tr>
-    <tr>
-        <td>它</td><td>it</td><td>it</td><td>itself</td>
-    </tr>
-    <tr>
-        <td>我们</td><td>we</td><td>us</td><td rowspan="3">are</td><td rowspan="3">were</td><td>ourselves</td>
-    </tr>
-    <tr>
-        <td>你们</td><td>you</td><td>you</td><td>yourselves</td>
-    </tr>
-    <tr>
-        <td>他们/她们/它们</td><td>they</td><td>them</td><td>themselves</td>
-    </tr>
-</table>
-
----
-
-#### 疑问性表达
-
-<table style="text-align: center;">
-    <tr>
-        <th>疑问</th><th>表达目的</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
-    </tr>
-    <tr>
-        <td rowspan="1">为什么</td>
-        <td>为什么不行</td>
-        <td><b>Why can't<b> →</td>
-        <td>为什么（谁）不能</td>
-        <td><b>Why can't</b> I say “instant noodles”</td>
-    </tr>
-    <tr>
-        <td rowspan="2">能不能</td>
-        <td rowspan="2">询问行为能力</td>
-        <td><b>Can you</b> + do. →</td>
-        <td>你能...吗？</td>
-        <td><b>Can you</b> check the USB port?</td>
-    </tr>
-    <tr>
-        <td><b>Can I</b> + do. →</td>
-        <td>我能...吗？</td>
-        <td><b>Can I</b> go now?</td>
-    </tr>
-</table>
-
 <h2 style="text-align: center;">日常口语</h2>
 
 <table style="text-align: center;">
@@ -313,6 +91,30 @@
         <td>而</td><td>while</td><td>-</td>
         <td>却又</td><td>yet</td><td>-</td>
         <td>我已经</td><td>I've already</td><td>-</td>
+        <td>我刚刚做（了什么）</td><td>I just had</td><td>-</td>
+    </tr>
+    <tr>
+        <td>不太顺利</td><td>it didn't go very well</td><td>-</td>
+        <td>我希望你</td><td>I hope you can be</td><td>-</td>
+        <td>主要是</td><td>The main thing is</td><td>-</td>
+        <td>我有没有</td><td>if I</td><td>-</td>
+    </tr>
+    <tr>
+        <td>那时</td><td>that when</td><td>-</td>
+        <td>我还（在做什么）</td><td>I was</td><td>-</td>
+        <td>虽然不是</td><td>It wasn't</td><td>-</td>
+        <td>我只想</td><td>I just wanna do.</td><td>-</td>
+    </tr>
+    <tr>
+        <td>我总是（做不到）</td><td>I can never</td><td>-</td>
+        <td>似乎</td><td>It feels like</td><td>-</td>
+        <td>我为什么不能</td><td>Why can’t I</td><td>-</td>
+        <td>就像是</td><td>just like</td><td>-</td>
+    </tr>
+    <tr>
+        <td>又是</td><td>another</td><td>-</td>
+        <td>轮到谁去（做什么）？</td><td>Whose turn is it to</td><td>-</td>
+        <td></td><td></td><td>-</td>
         <td></td><td></td><td>-</td>
     </tr>
     <tr>
@@ -325,6 +127,206 @@
 
 ---
 
+<h2 style="text-align: center;">行为陈述与疑问表达</h2>
+
+#### 行为性表达
+
+<table style="text-align: center;">
+    <tr>
+        <th>表达目的</th><th>状态</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
+    </tr>
+    <tr>
+        <td rowspan="9">主动做什么</td>
+            <tr>
+                <td>过去</td>
+                <td><b>be.ed</b>  <b>do.ing</b> →</td>
+                <td>之前在（做什么）</td>
+                <td>I <b>was playing</b> games in the dorm yesterday</td>
+            </tr>
+            <tr>
+                <td>现在</td>
+                <td><b>be.</b>  <b>do.ing</b> →</td>
+                <td>现在在...</td>
+                <td>I<b>'m playing</b> games now</td>
+            </tr>
+            <tr>
+                <td>较长的未来</td>
+                <td><b>be.</b>  <b>going to</b>  <b>do</b> →</td>
+                <td>打算要</td>
+                <td>I<b>'m going to travel</b> next month</td>
+            </tr>
+                <td>要做</td>
+                <td><b>'ll</b>  <b>do.</b> →</td>
+                <td>要去</td>
+                <td>I <b>will take a break</b></td>
+            </tr>
+            <tr>
+                <td>想要去做</td>
+                <td><b>wanna</b>  <b>do.</b> →</td>
+                <td>想</td>
+                <td>I <b>wanna talk</b> with you in English</td>
+            </tr>
+            <tr>
+                <td rowspan="2">付出</td>
+                <td rowspan="2">→ <b>do.</b>  <b>for</b></td>
+                <td>为了</td>
+                <td>He's working hard <b>for his family</b></td>
+            </tr>
+            <tr>
+                <td>给（谁）</td>
+                <td>I bought a gift <b>for you</b></td>
+            </tr>
+            <tr>
+                <td>对什么做？</td>
+                <td>→ <b>do.</b>  <b>det.</b></td>
+                <td>不作翻译</td>
+                <td>Ryan <b>turned on the induction cooker</b></td>
+            </tr>
+    </tr>
+</table>
+
+<table style="text-align: center;">
+    <tr>
+        <th>表达目的</th><th>状态</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
+    </tr>
+    <tr>
+        <td rowspan="6">被动怎么样</td>
+        <tr>
+            <td>口语 被动</td>
+            <td><b>be.ed</b>  <b>do.ed</b> →</td>
+            <td>被...了</td>
+            <td>The room <b>was cleaned</b> yesterday</td>
+        </tr>
+        <tr>
+            <td>写作 被动</td>
+            <td>→ do.  <b>over</b>  <b>the</b> →</td>
+            <td>被</td>
+            <td>He tripped <b>over the</b> dog</td>
+        </tr>
+    </tr>
+</table>
+
+#### 陈述性表达
+
+<table style="text-align: center;">
+    <tr>
+        <th>陈述</th><th>表达目的</th><th>基本格式</th><th>辅助直译</th><th>例子</th><th>翻译</th>
+    </tr>
+    <tr>
+        <td>是什么</td>
+        <td>这是</td>
+        <td><b>It's</b> →</td>
+        <td>这是</td>
+        <td><b>It's</b> my phone</td>
+        <td>这是我的手机</td>
+    </tr>
+        <td>时间</td>
+        <td>刚刚</td>
+        <td><b>be.ed →</b></td>
+        <td>刚刚</td>
+        <td>You <b>were</b></td>
+        <td>你刚刚</td>
+    </tr>
+    <tr>
+        <td rowspan="3">无主语动作</td>
+        <td>陈述</td>
+        <td><b>It</b> →</td>
+        <td>不作翻译</td>
+        <td><b>It</b> takes about 10 minutes</td>
+        <td>大概10分钟</td>
+    </tr>
+    <tr>
+        <td>唯一对象指向</td>
+        <td><b>The</b> →</td>
+        <td>不作翻译</td>
+        <td><b>The</b> moon orbits Earth every 27.3 days</td>
+        <td>月亮每27.3天围绕地球一周</td>
+    </tr>
+    <tr>
+        <td>具体对象指向</td>
+        <td><b>The</b> →</td>
+        <td>这</td>
+        <td>open <b>the</b> door</td>
+        <td>打开这门</td>
+    </tr>
+</table>
+
+<table style="text-align: center;">
+    <tr>
+        <th>人称</th><th>主格</th><th>宾格</th><th>be现在</th><th>be过去</th><th>物主</th><th>主格所属</th><th>宾格所属</th>
+    </tr>
+    <tr>
+        <td rowspan="9">人</td>
+    </tr>
+    <tr>
+        <td>我</td><td>I</td><td>me</td><td>am</td><td>was</td><td>myself</td><td>my</td><td>mine</td>
+    </tr>
+    <tr>
+        <td>你</td><td>you</td><td>you</td><td>are</td><td>were</td><td>yourself</td><td>your</td><td>yours</td>
+    </tr>
+    <tr>
+        <td>他</td><td>he</td><td>him</td><td rowspan="3">is</td><td rowspan="3">was</td><td>himself</td><td colspan="2">his</td>
+    </tr>
+    <tr>
+        <td>她</td><td>she</td><td>her</td><td>herself</td><td>her</td><td>hers</td>
+    </tr>
+    <tr>
+        <td>它</td><td>it</td><td>it</td><td>itself</td><td colspan="2">its</td>
+    </tr>
+    <tr>
+        <td>我们</td><td>we</td><td>us</td><td rowspan="3">are</td><td rowspan="3">were</td><td>ourselves</td><td>our</td><td>ours</td>
+    </tr>
+    <tr>
+        <td>你们</td><td>you</td><td>you</td><td>yourselves</td><td>your</td><td>yours</td>
+    </tr>
+    <tr>
+        <td>他们/她们/它们</td><td>they</td><td>them</td><td>themselves</td><td>their</td><td>theirs</td>
+    </tr>
+</table>
+
+---
+
+#### 疑问性表达
+
+<table style="text-align: center;">
+    <tr>
+        <th>疑问</th><th>表达目的</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
+    </tr>
+    <tr>
+        <td rowspan="1">为什么？</td>
+        <td>为什么不行</td>
+        <td><b>Why can't<b> →</td>
+        <td>为什么（谁）不能</td>
+        <td><b>Why can't</b> I say “instant noodles”</td>
+    </tr>
+    <tr>
+        <td rowspan="2">能不能？</td>
+        <td rowspan="2">询问行为能力</td>
+        <td><b>Can you</b>  do. →</td>
+        <td>你能...吗？</td>
+        <td><b>Can you</b> check the USB port?</td>
+    </tr>
+    <tr>
+        <td><b>Can I</b>  do. →</td>
+        <td>我能...吗？</td>
+        <td><b>Can I</b> go now?</td>
+    </tr>
+    <tr>
+        <td>谁的？</td>
+        <td>寻找</td>
+        <td><b>Whose</b></td>
+        <td>谁的（什么）</td>
+        <td><b>Whose</b> bag is this?</td>
+    </tr>
+    <tr>
+        <td>（某个对象）在哪里？</td>
+        <td>询问位置</td>
+        <td><b>Where's det.</b></td>
+        <td>在哪儿</td>
+        <td>Where's the my bag?</td>
+    </tr>
+</table>
+
 <h2 style="text-align: center;">常用补充格式</h2>
 
 #### 时间性补充
@@ -334,30 +336,35 @@
         <th>表达目的</th><th>状态</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
     </tr>
     <tr>
-        <td>目的时间</td>
+        <td rowspan="5">未来</td>
         <td>截止</td>
-        <td>verb. → <b>by.</b> + <b>time</b></td>
+        <td>do. → <b>by.</b>  <b>time</b></td>
         <td>最迟</td>
         <td>Submit your report <b>by Friday 5 PM</b></td>
     </tr>
     <tr>
-        <td rowspan="3">未来</td>
         <td>多久以后</td>
-        <td>→ <b>in</b> + <b>量词</b> + <b>时间单位</b></td>
+        <td>→ <b>in</b>  <b>量词</b>  <b>时间单位</b></td>
         <td>之后</td>
         <td>I'll be back <b>in an hour</b></td>
     </tr>
     <tr>
         <td>做了之后</td>
-        <td>→ <b>after</b> + <b>do.</b></td>
+        <td>→ <b>after</b>  <b>do.</b></td>
         <td>之后</td>
         <td>We'll go back <b>after</b> we finish lunch</td>
     </tr>
     <tr>
         <td>接近，但未到达</td>
-        <td><b>By.</b> + <b>time</b> →</td>
+        <td><b>By.</b>  <b>time</b> →</td>
         <td>临近</td>
         <td><b>By dusk</b>, the streets were empty</td>
+    </tr>
+    <tr>
+        <td>未来某日</td>
+        <td>→ <b>someday</b></td>
+        <td>有空的时候</td>
+        <td>We should grab coffee <b>someday</b></td>
     </tr>
 </table>
 
@@ -365,50 +372,68 @@
 
 <table style="text-align: center;">
     <tr>
-        <th>表达目的</th><th>状态</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
+        <th>路径</th><th>格式</th><th>例子</th>
     </tr>
     <tr>
-        <td rowspan="9">行为路径</td>
-        <td>完全隔离性穿透</td>
-        <td>do. + <b>through the</b> →</td>
         <td>透过</td>
+        <td>do.  <b>through the</b> →</td>
         <td>The sunlight spilled <b>through the</b> window</td>
     </tr>
     <tr>
-        <td>非完全隔离性穿透</td>
-        <td>do. + <b>across the</b> →</td>
         <td>穿过</td>
+        <td>do.  <b>across the</b> →</td>
         <td>I walked <b>across the</b> bridge</td>
     </tr>
     <tr>
-        <td>从哪个地方获取</td>
-        <td>do. + <b>from the</b> →</td>
         <td>从</td>
+        <td>do.  <b>from the</b> →</td>
         <td>I grabbed a bowl <b>from the</b> drawer</td>
     </tr>
     <tr>
-        <td>超越性</td>
-        <td>do. + <b>over the</b> →</td>
         <td>越过</td>
+        <td>do.  <b>over the</b> →</td>
         <td>The plane flew <b>over the</b> mountain</td>
     </tr>
     <tr>
-        <td>分离</td>
-        <td>do. + <b>off det.</b> →</td>
         <td>从...分离</td>
+        <td>do.  <b>off the</b> →</td>
         <td>Wiping dust <b>off the</b> keyboard</td>
     </tr>
     <tr>
-        <td rowspan="5">移动</td>
-        <td>do. + <b>downstair</b></td>
+        <td>沿着</td>
+        <td>do.  <b>along det.</b></td>
+        <td>We walk <b>along the</b> river</td>
+    </tr>
+    <tr>
+        <td>向</td>
+        <td>do.  <b>toward</b></td>
+        <td>He <b>walked toward</b> the door</td>
+    </tr>
+    <tr>
         <td>下楼</td>
+        <td>do.  <b>downstair</b></td>
         <td>He <b>walked downstairs</b> to get some water</td>
     </tr>
     <tr>
-        <td>do. + <b>outside</b></td>
         <td>向外</td>
+        <td>do.  <b>outside</b></td>
+        <td>She <b>stepped ouside</b> for a minute</td>
+    </tr>
+    <tr>
+        <td>向里面</td>
+        <td>do.  <b>inside</b></td>
+        <td>He <b>went inside</b> to get his jacket</td>
+    </tr>
+    <tr>
+        <td>向前</td>
+        <td>do.  <b>ahead</b></td>
+        <td>The soldiers <b>moved ahead</b> slowly</td>
+    </tr>
+    <tr>
     </tr>
 </table>
+
+#### 最终位置补充
 
 <table style="text-align: center;">
     <tr>
@@ -416,34 +441,128 @@
     </tr>
     <tr>
         <td rowspan="6">最终位置</td>
-        <td>do.ed + <b>onto det.</b> →</td>
+        <td>do.ed  <b>onto det.</b> →</td>
         <td>到上面</td>
         <td>She jumped <b>onto the</b> bed</td>
     </tr>
     <tr>
-        <td>do.ed + <b>into det.</b> →</td>
+        <td>do.ed  <b>into det.</b> →</td>
         <td>到里面</td>
         <td>He walked <b>into the</b> room</td>
     </tr>
     <tr>
-        <td>do.ed + <b>beside det.</b> →</td>
+        <td>do.ed  <b>beside det.</b> →</td>
         <td>到旁边</td>
         <td>Her laptop sat <b>beside a</b> picture frame</td>
     </tr>
     <tr>
-        <td>do.ed + <b>at det.</b> →</td>
+        <td>do.ed  <b>at det.</b> →</td>
         <td>到（在）哪个位置</td>
         <td>We met <b>at the</b> bus stop</td>
     </tr>
     <tr>
-        <td>do.ed + <b>against det.</b> →</td>
+        <td>do.ed  <b>against det.</b> →</td>
         <td>到（广义表面）</td>
         <td>He leaned <b>against the</b> wall</td>
     </tr>
     <tr>
-        <td>do.ed + <b>to det.</b> →</td>
+        <td>do.ed  <b>to det.</b> →</td>
         <td>到（某个对象）</td>
         <td>She went <b>to the</b> market</td>
+    </tr>
+</table>
+
+#### 位置补充
+
+<table style="text-align: center;">
+    <tr>
+        <th>表达目的</th><th>基本格式</th><th>核心词</td><th>辅助直译</th><th>例子</th>
+    </tr>
+    <tr>
+        <td rowspan="5">副词性补充</td>
+        <td rowspan="5">do.  <b>adv.</b></td>
+    </tr>
+    <tr>
+        <td><b>outside</b></td><td>在外面</td><td>I like <b>working outside</b></td>
+    </tr>
+    <tr>
+        <td><b>underground</b></td>
+        <td>在地下</td>
+        <td>The cables are buried <b>underground</b></td>
+    </tr>
+    <tr>
+        <td><b>overhead</b></td>
+        <td>在头顶上</td>
+        <td>The bird is flying <b>overhead</b></td>
+    </tr>
+    <tr>
+        <td><b>here</b></td>
+        <td>这里</td>
+        <td>Come <b>here</b></td>
+    </td>
+    <tr>
+        <td rowspan="15">精确位置</td>
+        <td rowspan="15">do. <b>/</b> noun  <b>prep. det.</b></td>
+    </tr>
+    <tr>
+        <td><b>at det.</b></td>
+        <td>在（位置）</td>
+        <td>She's waiting <b>at the</b> bus stop</td>
+    </tr>
+    <tr>
+        <td><b>beside det.</b></td>
+        <td>在旁边</td>
+        <td>There is a small table <b>beside the</b> bed</td>
+    </tr>
+    <tr>
+        <td><b>below det.</b></td>
+        <td>在下面</td>
+        <td>plugged into the socket <b>below the</b> microwave</td>
+    </tr>
+    <tr>
+        <td><b>under det.</b></td>
+        <td>在正下方</td>
+        <td>The cat <b>under the</b> table is sleeping</td>
+    </tr>
+    <tr>
+        <td><b>behind det.</b></td>
+        <td>在后面</td>
+        <td>The chair <b>be hind the</b> door is broken</td>
+    </tr>
+    <tr>
+        <td><b>over det.</b></td>
+        <td>在上面</td>
+        <td>The lamp <b>over the</b> table is too bright</td>
+    </tr>
+    <tr>
+        <td><b>by det.</b></td>
+        <td>在旁边</td>
+        <td>She stood <b>by the</b> door</td>
+    </tr>
+    <tr>
+        <td><b>near det.</b></td>
+        <td>在旁边</td>
+        <td>The restaurant <b>near the</b> station is great</td>
+    </tr>
+    <tr>
+        <td><b>past det.</b></td>
+        <td>路过</td>
+        <td>I drove <b>past your house</b> yesterday</td>
+    </tr>
+    <tr>
+        <td><b></b></td>
+        <td></td>
+        <td><b></b></td>
+    </tr>
+    <tr>
+        <td><b></b></td>
+        <td></td>
+        <td><b></b></td>
+    </tr>
+    <tr>
+        <td><b></b></td>
+        <td></td>
+        <td><b></b></td>
     </tr>
 </table>
 
@@ -467,93 +586,76 @@
         <td>用</td>
         <td>I boil water <b>in a kettle</b></td>
     </tr>
+    <tr>
+        <td>语言工具</td>
+        <td>in</td>
+        <td>→ <b>Lang.</b></td>
+        <td>用</td>
+        <td>We are takling <b>in English</b></td>
+    </tr>
 </table>
 
-#### 状态补充
+#### 状态程度补充
 
 <table style="text-align: center;">
     <tr>
-        <th>表达目的</th><th>统一口语格式（反置为书写格式）</th><th>状态</th><th>核心词</th><th>应用范围</th><th>例子</th>
+        <th>格式</th>
+        <th>状态</th><th>核心词</th><th>应用范围</th>
+        <th>|</th>
+        <th>状态</th><th>核心词</th><th>应用范围</th>
+        <th>|</th>
+        <th>状态</th><th>核心词</th><th>应用范围</th>
     </tr>
     <tr>
-        <td rowspan="13">动作程度</td>
-        <td rowspan="13"><b>adv.</b> + <b>do.</b></td>
-        <td>轻轻地</td>
-        <td><b>gently</b></td>
-        <td>行为动作程度</td>
-        <td>She <b>gently closed</b> the door</td>
+        <td rowspan="7">
+            <b>adv.</b>  <b>do.</b>
+            <br>
+            or
+            <br>
+            <b>do.</b>  <b>adv.</b>
+        </td>
     </tr>
     <tr>
-        <td>轻轻地</td>
-        <td><b>lightly</b></td>
-        <td>客观事实</td>
-        <td>Touched the painting <b>lightly</b></td>
+        <td>轻轻地</td><td><b>gently</b></td><td>行为动作程度</td>
+        <td>|</td>
+        <td>轻轻地</td><td><b>lightly</b></td><td>客观事实</td>
+        <td>|</td>
+        <td>随意地</td><td><b>carelessly</b></td><td>行为心态</td>
     </tr>
     <tr>
-        <td>突然地</td>
-        <td><b>suddenly</b></td>
-        <td>极短暂性发生</td>
-        <td>The cat <b>suddenly</b> jumped onto the table</td>
+        <td>突然地</td><td><b>suddenly</b></td><td>短暂性发生</td>
+        <td>|</td>
+        <td>轻快地</td><td><b>briskly</b></td><td>心情、行为</td>
+        <td>|</td>
+        <td>悄悄地</td><td><b>silently</b></td><td>行为</td>
     </tr>
     <tr>
-        <td>轻快地</td>
-        <td><b>briskly</b></td>
-        <td>心情、行为</td>
-        <td>The dog <b>trotted briskly</b> beside its owner</td>
+        <td>隐约</td><td><b>faintly</b></td><td>物理现象</td>
+        <td>|</td>
+        <td>柔和地</td><td><b>softly</b></td><td>大小程度</td>
+        <td>|</td>
+        <td>差一点</td><td><b>nearly</b></td><td>位置与数量接近</td>
     </tr>
     <tr>
-        <td>随意地</td>
-        <td><b>carelessly</b></td>
-        <td>行为心态</td>
-        <td>He <b>sat carelessly</b> and got it wrong</td>
+        <td>已经</td><td><b>already</b></td><td>目标到达</td>
+        <td>|</td>
+        <td>进一步</td><td><b>further</b></td><td>深入</td>
+        <td>|</td>
+        <td>最终</td><td><b>eventually</b></td><td>进度</td>
     </tr>
     <tr>
-        <td>悄悄地</td>
-        <td><b>silently</b></td>
-        <td>行为</td>
-        <td>They <b>walked silently</b> through the forest</td>
+        <td>终于</td><td><b>finally</b></td><td>结果</td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
-        <td>隐约</td>
-        <td><b>faintly</b></td>
-        <td>物理现象</td>
-        <td>I could <b>faintly hear</b> music</td>
-    </tr>
-    <tr>
-        <td>柔和地</td>
-        <td><b>softly</b></td>
-        <td>大小程度</td>
-        <td>The music <b>played softly</b> in the background</td>
-    </tr>
-    <tr>
-        <td>差一点</td>
-        <td><b>nearly</b></td>
-        <td>位置与数量接近</td>
-        <td>She <b>nearly missed</b> the bus</td>
-    </tr>
-    <tr>
-        <td>已经</td>
-        <td><b>already</b></td>
-        <td>目标到达</td>
-        <td>I've already eaten lunch</td>
-    </tr>
-    <tr>
-        <td>进一步</td>
-        <td><b>further</b></td>
-        <td>深入</td>
-        <td>I need to think about it <b>further</b></td>
-    </tr>
-    <tr>
-        <td>最终</td>
-        <td><b>eventually</b></td>
-        <td>进度</td>
-        <td>You'll get used to it <b>eventually</b></td>
-    </tr>
-    <tr>
-        <td>终于</td>
-        <td><b>finally</b></td>
-        <td>结果</td>
-        <td>I <b>finally passed</b> the test</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
 </table>
 
@@ -566,54 +668,88 @@
         <th>表达目的</th><th>状态</th><th>核心词</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
     </tr>
     <tr>
-        <td rowspan="4">行为连续</td>
+        <td rowspan="5">行为连续</td>
         <td>短间隔连续</td>
         <td><b>and</b></td>
-        <td><b>do.</b> + <b>and</b> + <b>do.</b> →</td>
+        <td><b>do.</b>  <b>and</b>  <b>do.</b> →</td>
         <td>然后</td>
         <td>She <b>picked up</b> the phone <b>and</b> <b>called</b> her mom</td>
     </tr>
     <tr>
         <td>长间隔连续</td>
         <td><b>then</b></td>
-        <td><b>do.,</b> + <b>then</b> + <b>do.</b> →</td>
+        <td><b>do.,</b>  <b>then</b>  <b>do.</b> →</td>
         <td>然后</td>
         <td>We went to the museum, <b>then</b> had lunch at a cafe</td>
     </tr>
     <tr>
         <td>动作连续</td>
         <td><b>to...the</b></td>
-        <td><b>do. to the</b> + <b>to do.</b></td>
+        <td><b>do. to the</b>  <b>to do.</b></td>
         <td>随do翻译</td>
         <td>She walked to the bathroom to brush her teeth</td>
     </tr>
     <tr>
-        <td>同时执行</td>
+        <td rowspan="2">同时执行</td>
         <td><b>as</b></td>
-        <td><b>do.</b> + <b>as</b> + <b>do.</b></td>
+        <td><b>do.</b>  <b>as</b>  <b>do.</b></td>
         <td>一边...一边</td>
         <td>He smiled <b>as</b> he opened the gift</td>
+    </tr>
+    <tr>
+        <td><b>while</b></td>
+        <td><b>do. while do.</b></td>
+        <td>的时候</td>
+        <td>Don't eat <b>while</b> walking</td>
     </tr>
     <tr>
         <td rowspan="3">陈述连续</td>
         <td>补充行为</td>
         <td><b>but</b></td>
-        <td><b>sent.</b> + <b>but</b> + <b>sent.</b></td>
+        <td><b>sent.</b>  <b>but</b>  <b>sent.</b></td>
         <td>但是</td>
         <td>We planed to go out, <b>but</b> it started raining</td>
     </tr>
     <tr>
         <td>补充位置</td>
         <td><b>where</b></td>
-        <td>→ <b>where</b> + do.</td>
+        <td>→ <b>where</b>  do.</td>
         <td>在那儿、在这儿</td>
         <td>This is the house <b>where</b> I was born</td>
     </tr>
     <tr>
         <td>口语习惯</td>
         <td><b>even</b></td>
-        <td><b>do.</b> + <b>even</b> + <b>do.</b> →</td>
+        <td><b>do.</b>  <b>even</b>  <b>do.</b> →</td>
         <td>连...都</td>
         <td>He doesn't <b>even</b> know my name</td>
+    </tr>
+</table>
+
+<h2 style="text-align: center;">辅助表达</h2>
+
+#### 量词
+<table style="text-align: center;">
+    <tr>
+        <th>类型</th><th>简译</th><th>核心词</th><th>应用范围</th><th>例子</th>
+    </tr>
+    <tr>
+        <td rowspan="4">非容器描述</td>
+    </tr>
+    <tr>
+        <td>每</td>
+        <td><b>each</b></td>
+        <td rowspan="3">可数名词</td>
+        <td><b>each</b> table</td>
+    </tr>
+    <tr>
+        <td>两</td>
+        <td><b>both</b></td>
+        <td><b>both</b> fast food restaurant</td>
+    </tr>
+    <tr>
+        <td>几个</td>
+        <td><b>few</b></td>
+        <td><b>few</b> elderly people</td>
     </tr>
 </table>
