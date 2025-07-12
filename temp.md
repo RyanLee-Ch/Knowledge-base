@@ -114,6 +114,12 @@
     <tr>
         <td>又是</td><td>another</td><td>-</td>
         <td>轮到谁去（做什么）？</td><td>Whose turn is it to</td><td>-</td>
+        <td>我之前一直在（做什么）</td><td>I was do.ing</td><td>-</td>
+        <td>我一直没有（做某事）</td><td>I didn't</td><td>-</td>
+    </tr>
+    <tr>
+        <td>我已经到了（什么地方）</td><td>I've gotten to the</td><td>-</td>
+        <td></td><td></td><td>-</td>
         <td></td><td></td><td>-</td>
         <td></td><td></td><td>-</td>
     </tr>
@@ -327,7 +333,7 @@
     </tr>
 </table>
 
-<h2 style="text-align: center;">常用补充格式</h2>
+<h2 style="text-align: center;">辅助性补充格式</h2>
 
 #### 时间性补充
 
@@ -593,69 +599,47 @@
         <td>用</td>
         <td>We are takling <b>in English</b></td>
     </tr>
+    <tr>
+        <td>软件</td>
+        <td>through</td>
+        <td>→ do.<b>through software.</b></td>
+        <td>用</td>
+        <td>I also ordered a coffee <b>through delivery</b></td>
+    </tr>
 </table>
 
-#### 状态程度补充
+#### 数量补充
 
 <table style="text-align: center;">
     <tr>
-        <th>格式</th>
-        <th>状态</th><th>核心词</th><th>应用范围</th>
-        <th>|</th>
-        <th>状态</th><th>核心词</th><th>应用范围</th>
-        <th>|</th>
-        <th>状态</th><th>核心词</th><th>应用范围</th>
+        <th>类型</th><th>简译</th><th>核心词</th><th>例子</th>
     </tr>
     <tr>
-        <td rowspan="7">
-            <b>adv.</b>  <b>do.</b>
-            <br>
-            or
-            <br>
-            <b>do.</b>  <b>adv.</b>
-        </td>
+        <td rowspan="10">非容器描述</td>
     </tr>
     <tr>
-        <td>轻轻地</td><td><b>gently</b></td><td>行为动作程度</td>
-        <td>|</td>
-        <td>轻轻地</td><td><b>lightly</b></td><td>客观事实</td>
-        <td>|</td>
-        <td>随意地</td><td><b>carelessly</b></td><td>行为心态</td>
+        <td>每</td>
+        <td><b>each</b></td>
+        <td><b>each</b> table</td>
     </tr>
     <tr>
-        <td>突然地</td><td><b>suddenly</b></td><td>短暂性发生</td>
-        <td>|</td>
-        <td>轻快地</td><td><b>briskly</b></td><td>心情、行为</td>
-        <td>|</td>
-        <td>悄悄地</td><td><b>silently</b></td><td>行为</td>
+        <td>两</td>
+        <td><b>both</b></td>
+        <td><b>both</b> fast food restaurant</td>
     </tr>
     <tr>
-        <td>隐约</td><td><b>faintly</b></td><td>物理现象</td>
-        <td>|</td>
-        <td>柔和地</td><td><b>softly</b></td><td>大小程度</td>
-        <td>|</td>
-        <td>差一点</td><td><b>nearly</b></td><td>位置与数量接近</td>
+        <td>几个</td>
+        <td><b>few</b></td>
+        <td><b>few</b> elderly people</td>
     </tr>
     <tr>
-        <td>已经</td><td><b>already</b></td><td>目标到达</td>
-        <td>|</td>
-        <td>进一步</td><td><b>further</b></td><td>深入</td>
-        <td>|</td>
-        <td>最终</td><td><b>eventually</b></td><td>进度</td>
+        <td>一（直）排的</td>
+        <td><b>a line of</td>
+        <td><b>a line of</b> steetlamps</td>
     </tr>
-    <tr>
-        <td>终于</td><td><b>finally</b></td><td>结果</td>
-        <td>|</td>
-        <td></td><td><b></b></td><td></td>
-        <td>|</td>
-        <td></td><td><b></b></td><td></td>
-    </tr>
-    <tr>
-        <td></td><td><b></b></td><td></td>
-        <td>|</td>
-        <td></td><td><b></b></td><td></td>
-        <td>|</td>
-        <td></td><td><b></b></td><td></td>
+        <td></td>
+        <td><b></b></td>
+        <td><b></b></td>
     </tr>
 </table>
 
@@ -726,30 +710,484 @@
     </tr>
 </table>
 
-<h2 style="text-align: center;">辅助表达</h2>
+---
 
-#### 量词
+<h2 style="text-align: center;">行为表达</h2>
+
 <table style="text-align: center;">
     <tr>
-        <th>类型</th><th>简译</th><th>核心词</th><th>应用范围</th><th>例子</th>
+        <th>行为</th><th>核心词</th><th>示例</th>
+        <th>|</th>
+        <th>行为</th><th>核心词</th><th>示例</th>
+        <th>|</th>
+        <th>行为</th><th>核心词</th><th>示例</th>
     </tr>
     <tr>
-        <td rowspan="4">非容器描述</td>
+        <td>让（什么）醒来</td><td><b>wake ... up</b></td><td>wake me up</td>
+        <td>|</td>
+        <td>伸展</td><td><b>stretch</b></td><td>stretch your muscles</td>
+        <td>|</td>
+        <td>调整</td><td><b>adjust</b></td><td>adjust the seat</td>
     </tr>
     <tr>
-        <td>每</td>
-        <td><b>each</b></td>
-        <td rowspan="3">可数名词</td>
-        <td><b>each</b> table</td>
+        <td>看了看</td><td><b>glance</b></td><td>glanced at the nightstand</td>
+        <td>|</td>
+        <td>（迅速的）穿</td><td><b>slip</b></td><td>slipped into her coat</td>
+        <td>|</td>
+        <td>走</td><td><b>walk</b></td><td>walked to the park</td>
     </tr>
     <tr>
-        <td>两</td>
-        <td><b>both</b></td>
-        <td><b>both</b> fast food restaurant</td>
+        <td>走（迈步）</td><td><b>step</b></td><td>stepped outside</td>
+        <td>|</td>
+        <td>刷</td><td><b>brush</b></td><td>brush her teeth</td>
+        <td>|</td>
+        <td>照出（镜面）</td><td><b>reflect</b></td><td>reflected her face</td>
     </tr>
     <tr>
-        <td>几个</td>
-        <td><b>few</b></td>
-        <td><b>few</b> elderly people</td>
+        <td>伸手</td><td><b>reach</b></td><td>reached for the bottle</td>
+        <td>|</td>
+        <td>拿</td><td><b>grab</b></td><td>grab the ball</td>
+        <td>|</td>
+        <td>打开（电器）</td><td><b>turn on</b></td><td>turned on the cooker</td>
+    </tr>
+    <tr>
+        <td>发出嗡嗡声</td><td><b>hum</b></td><td>The machine will hum</td>
+        <td>|</td>
+        <td>打开</td><td><b>open</b></td><td>open the window</td>
+        <td>|</td>
+        <td>播放</td><td><b>play</b></td><td>plays music</td>
+    </tr>
+    <tr>
+        <td>被（什么）绊倒</td><td><b>trip over</b></td><td>tripping over the cable</td>
+        <td>|</td>
+        <td>检查</td><td><b>check</b></td><td>check your email</td>
+        <td>|</td>
+        <td>（声音）传来</td><td><b>echo</b></td><td>voice echoed</td>
+    </tr>
+    <tr>
+        <td>叹气</td><td><b>sign</b></td><td>Mia sighed</td>
+        <td>|</td>
+        <td>弯腰蹲下</td><td><b>crouch</b></td><td>crouched under the table</td>
+        <td>|</td>
+        <td>摆弄</td><td><b>fiddle with</b></td><td>fiddling with the PC</td>
+    </tr>
+    <tr>
+        <td>插</td><td><b>plug</b></td><td>plug into the socket</td>
+        <td>|</td>
+        <td>维修</td><td><b>fix</b></td><td>fix my bike</td>
+        <td>|</td>
+        <td>说</td><td><b>say</b></td><td>She is sying something</td>
+    </tr>
+    <tr>
+        <td>擦</td><td><b>wipe</b></td><td>wipe the table</td>
+        <td>|</td>
+        <td>拍打</td><td><b>tap</b></td><td>tapped on the leaves</td>
+        <td>|</td>
+        <td>抢救</td><td><b>rescue</b></td><td>rescued his phone</td>
+    </tr>
+    <tr>
+        <td>回到</td><td><b>back</b></td><td>back inside</td>
+        <td>|</td>
+        <td>点（燃）</td><td><b>lit</b></td><td>lit a candle</td>
+        <td>|</td>
+        <td>冷静</td><td><b>calm</b></td><td>calm down</td>
+    </tr>
+    <tr>
+        <td>瘫（累）倒</td><td><b>flop</b></td><td>flopped onto the sofa</td>
+        <td>|</td>
+        <td>看</td><td><b>watch</b></td><td>watched TV</td>
+        <td>|</td>
+        <td>打瞌睡</td><td><b>doze</b></td><td>dozed in the sunbeam</td>
+    </tr>
+    <tr>
+        <td>到达</td><td><b>arrive</b></td><td>She arrived at the office</td>
+        <td>|</td>
+        <td>回来</td><td><b>return</b></td><td>She'll return</td>
+        <td>|</td>
+        <td>扔</td><td><b>toss</b></td><td>tossing her backpack</td>
+    </tr>
+    <tr>
+        <td>煮</td><td><b>cook</b></td><td>cook Italian food</td>
+        <td>|</td>
+        <td>（加）调料</td><td><b>season with</b></td><td>seasoned with salt</td>
+        <td>|</td>
+        <td>争吵</td><td><b>argue</b></td><td>argue for the climate</td>
+    </tr>
+    <tr>
+        <td>take out</td><td><b>带走</b></td><td>take out the trash</td>
+        <td>|</td>
+        <td>（因疲惫）倒下</td><td><b>collapse</b></td><td>collapsed from a heart attack</td>
+        <td>|</td>
+        <td>盯着</td><td><b>stare</b></td><td>stared at the photo</td>
+    </tr>
+    <tr>
+        <td>低声细语</td><td><b>whisper</b></td><td>She whispered a prayer</td>
+        <td>|</td>
+        <td>按下</td><td><b>click</b></td><td>click the button</td>
+        <td>|</td>
+        <td>过滤</td><td><b>filter</b></td><td>filters the water</td>
+    </tr>
+    <tr>
+        <td>（跌跌撞撞的）走</td><td><b>stumble</b></td><td>stumbled out of the car</td>
+        <td>|</td>
+        <td>挂</td><td><b>drape</b></td><td>drape a scarf</td>
+        <td>|</td>
+        <td>震动</td><td><b>vibrate</b></td><td>The machine vibrates</td>
+    </tr>
+    <tr>
+        <td>装</td><td><b>mount</b></td><td>mount the TV on the wall</td>
+        <td>|</td>
+        <td>嘟囔</td><td><b>mumble</b></td><td>She mumbled</td>
+        <td>|</td>
+        <td>发出声音</td><td><b>chirp</b></td><td>The birds chirp</td>
+    </tr>
+    <tr>
+        <td>完成</td><td><b>complete</b></td><td>She completed her homework</td>
+        <td>|</td>
+        <td>整理</td><td><b>stack</b></td><td>He stacked the books</td>
+        <td>|</td>
+        <td>靠</td><td><b>lean</b></td><td>She leaned on the wall</td>
+    </tr>
+    <tr>
+        <td>忘记</td><td><b>forget</b></td><td>forget to turn off the light</td>
+        <td>|</td>
+        <td>（轻微）摇摆</td><td><b>sway</b></td><td>The trees swayed</td>
+        <td>|</td>
+        <td>唤醒、醒来</td><td><b>awake</b></td><td>He slowly awoke</td>
+    </tr>
+    <tr>
+        <td>（发出）呼呼声</td><td><b>whir</b></td><td>The blender whirred</td>
+        <td>|</td>
+        <td>抱怨</td><td><b>mutter</b></td><td>He tends to mutter</td>
+        <td>|</td>
+        <td>挪动</td><td><b>move</b></td><td>move your chair</td>
+    </tr>
+    <tr>
+        <td>飘动</td><td><b>ripple</b></td><td>The flag had rippled</td>
+        <td>|</td>
+        <td>打翻</td><td><b>tip over</b></td><td>The cat tipped over the glass</td>
+        <td>|</td>
+        <td>坐</td><td><b>sit</b></td><td>sit on the chair</td>
+    </tr>
+    <tr>
+        <td>捕获、抓取</td><td><b>catch</b></td><td>caught the ball</td>
+        <td>|</td>
+        <td>整理</td><td><b>organize</b></td><td>organize her files</td>
+        <td>|</td>
+        <td>让...变成</td><td><b>turn the ... into</b></td><td>turned the prince into a frog</td>
+    </tr>
+    <tr>
+        <td>从离开（走）</td><td><b>step out of</b></td><td>stepped out of the room</td>
+        <td>|</td>
+        <td>能</td><td><b>can</b></td><td>I could drive</td>
+        <td>|</td>
+        <td>听到</td><td><b>hear</b></td><td>I heared a strange noise</td>
+    </tr>
+    <tr>
+        <td>呈拱形排列</td><td><b>arch over</b></td><td>streetlamps arched over the street</td>
+        <td>|</td>
+        <td>投影</td><td><b>cast</b></td><td>cast a long shadow</td>
+        <td>|</td>
+        <td>沙沙作响</td><td><b>rustle</b></td><td>The leaves rustled</td>
+    </tr>
+    <tr>
+        <td>锁</td><td><b>lock</b></td><td>locked her bike</td>
+        <td>|</td>
+        <td>穿过</td><td><b>cross</b></td><td>crossed the street</td>
+        <td>|</td>
+        <td>指向</td><td><b>point</b></td><td>pointed the ways</td>
+    </tr>
+    <tr>
+        <td>欢迎</td><td><b>welcome</b></td><td>welcomed her</td>
+        <td>|</td>
+        <td>点（餐）</td><td><b>order</b></td><td>ordered a coffee</td>
+        <td>|</td>
+        <td>找</td><td><b>find</b></td><td>found a seat</td>
+    </tr>
+    <tr>
+        <td>散步</td><td><b>stroll</b></td><td>like to stroll</td>
+        <td>|</td>
+        <td>完成</td><td><b>finish</b></td><td>finished the race</td>
+        <td>|</td>
+        <td>路过</td><td><b>pass</b></td><td>passed the library</td>
+    </tr>
+    <tr>
+        <td>提醒</td><td><b>remind</b></td><td>remind me</td>
+        <td>|</td>
+        <td>注意</td><td><b>mind</b></td><td>mind the step</td>
+        <td>|</td>
+        <td>立</td><td><b>stand</b></td><td>stood near the curb</td>
+    </tr>
+    <tr>
+        <td>挂</td><td><b>hung</b></td><td>hung the picture on the wall</td>
+        <td>|</td>
+        <td>围绕</td><td><b>surround</b></td><td>surrounded her</td>
+        <td>|</td>
+        <td>向（哪）转</td><td><b>turn</b></td><td>turned left</td>
+    </tr>
+    <tr>
+        <td>看见</td><td><b>see</b></td><td>saw a flower</td>
+        <td>|</td>
+        <td>盛开</td><td><b>bloom</b></td><td>The cherry tress bloom in March</td>
+        <td>|</td>
+        <td>休息</td><td><b>rest</b></td><td>He is resting</td>
+    </tr>
+    <tr>
+        <td>聊天</td><td><b>chat</b></td><td>They were chatting</td>
+        <td>|</td>
+        <td>固定</td><td><b>fix</b></td><td>fixed on the wall</td>
+        <td>|</td>
+        <td>混合</td><td><b>blend</b></td><td>blends wine with fruit juice</td>
+    </tr>
+    <tr>
+        <td>扶着</td><td><b>hold</b></td><td>holding the handrail</td>
+        <td>|</td>
+        <td>乘坐</td><td><b>take</b></td><td>took the escalator</td>
+        <td>|</td>
+        <td>离开</td><td><b>exit</b></td><td>exiting the next station</td>
+    </tr>
+    <tr>
+        <td>开始</td><td><b>start</b></td><td>started her new job</td>
+        <td>|</td>
+        <td>下落</td><td><b>fall</b></td><td>Leaves fall from the trees</td>
+        <td>|</td>
+        <td>滚</td><td><b>roll</b></td><td>The ball roll down</td>
+    </tr>
+    <tr>
+        <td>闪闪发光</td><td><b>shimmer</b></td><td>The lake shimmered</td>
+        <td>|</td>
+        <td>闪烁</td><td><b>blink</b></td><td>warning lights blinked</td>
+        <td>|</td>
+        <td>跳动</td><td><b>pulse</b></td><td>The lights pulsed in time</td>
+    </tr>
+    <tr>
+        <td>感觉</td><td><b>feel</b></td><td>felt comforting</td>
+        <td>|</td>
+        <td>适应</td><td><b>settle</b></td><td>She quickly settled into her new job</td>
+        <td>|</td>
+        <td>读</td><td><b>read</b></td><td>I read a great book</td>
+    </tr>
+    <tr>
+        <td>继续（忙什么）</td><td><b>carry on</b></td><td>She carried on talking</td>
+        <td>|</td>
+        <td>微笑</td><td><b>smile</b></td><td>She smiled warmly</td>
+        <td>|</td>
+        <td>考虑</td><td><b>think about</b></td><td>I need to think about it</td>
+    </tr>
+    <tr>
+        <td>等同于</td><td><b>be the equivalent of</b></td><td>One mile is the equivalent of about 1.6 kilometers</td>
+        <td>|</td>
+        <td>视频通话</td><td><b>video-call</b></td><td>They often video-call</td>
+        <td>|</td>
+        <td>轻笑</td><td><b>chuckle</b></td><td>she chuckled</td>
+    </tr>
+    <tr>
+        <td>发出微光</td><td><b>glow</b></td><td>The firefiles glowed in the dark</td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+    </tr>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+    </tr>
+
+</table>
+
+---
+
+<h2 style="text-align: center;">状态程度补充</h2>
+
+
+<table style="text-align: center;">
+    <tr>
+        <th>格式</th>
+        <th>状态</th><th>核心词</th><th>应用范围</th>
+        <th>|</th>
+        <th>状态</th><th>核心词</th><th>应用范围</th>
+        <th>|</th>
+        <th>状态</th><th>核心词</th><th>应用范围</th>
+    </tr>
+    <tr>
+        <td rowspan="7">
+            <b>adv.</b>  <b>do.</b>
+            <br>
+            or
+            <br>
+            <b>do.</b>  <b>adv.</b>
+        </td>
+    </tr>
+    <tr>
+        <td>轻轻地</td><td><b>gently</b></td><td>行为动作程度</td>
+        <td>|</td>
+        <td>轻轻地</td><td><b>lightly</b></td><td>客观事实</td>
+        <td>|</td>
+        <td>随意地</td><td><b>carelessly</b></td><td>行为心态</td>
+    </tr>
+    <tr>
+        <td>突然地</td><td><b>suddenly</b></td><td>短暂性发生</td>
+        <td>|</td>
+        <td>轻快地</td><td><b>briskly</b></td><td>心情、行为</td>
+        <td>|</td>
+        <td>悄悄地</td><td><b>silently</b></td><td>行为</td>
+    </tr>
+    <tr>
+        <td>隐约</td><td><b>faintly</b></td><td>物理现象</td>
+        <td>|</td>
+        <td>柔和地</td><td><b>softly</b></td><td>大小程度</td>
+        <td>|</td>
+        <td>差一点</td><td><b>nearly</b></td><td>位置与数量接近</td>
+    </tr>
+    <tr>
+        <td>已经</td><td><b>already</b></td><td>目标到达</td>
+        <td>|</td>
+        <td>进一步</td><td><b>further</b></td><td>深入</td>
+        <td>|</td>
+        <td>最终</td><td><b>eventually</b></td><td>进度</td>
+    </tr>
+    <tr>
+        <td>终于</td><td><b>finally</b></td><td>结果</td>
+        <td>|</td>
+        <td>盘腿</td><td><b>cross-legged</b></td><td>坐</td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+    </tr>
+</table>
+
+<h2 style="text-align: center;">对象描述补充</h2>
+
+
+<table style="text-align: center;">
+    <tr>
+        <th>格式</th>
+        <th>描述</th><th>核心词</th><th>示例</th>
+        <th>|</th>
+        <th>状态</th><th>核心词</th><th>示例</th>
+        <th>|</th>
+        <th>状态</th><th>核心词</th><th>示例</th>
+    </tr>
+    <tr>
+        <td rowspan="20">
+            <b>adj. noun.</b>
+            <br>
+            or
+            <br>
+            <b>be. adj.</b>
+        </td>
+    </tr>
+    <tr>
+        <td>困的</td><td><b>sleepy</b></td><td>sleepy face</td>
+        <td>|</td>
+        <td>错误的</td><td><b>wrong</b></td><td>wrong port</td>
+        <td>|</td>
+        <td>普通且平凡的</td><td><b>orginary</b></td><td>ordinary day</td>
+    </tr>
+    <tr>
+        <td>有规律的</td><td><b>rhythmic</b></td><td>rhythmic sound</td>
+        <td>|</td>
+        <td>金属的</td><td><b>metallic</b></td><td>matallic sheen</td>
+        <td>|</td>
+        <td>该死的</td><td><b>damn</b></td><td>damn computer</td>
+    </tr>
+    <tr>
+        <td>精疲力尽的</td><td><b>exhausted</b></td><td>The firefhgters were exhausted</td>
+        <td>|</td>
+        <td>金色的</td><td><b>golden</b></td><td>golden plate</td>
+        <td>|</td>
+        <td>逐渐变深的</td><td><b>deepening</b></td><td>deepening blue</td>
+    </tr>
+    <tr>
+        <td>明亮的</td><td><b>bright</b></td><td>bright morning</td>
+        <td>|</td>
+        <td>安静的</td><td><b>quiet</b></td><td>quiet neighborhood</td>
+        <td>|</td>
+        <td>轻柔的</td><td><b>gentle</b></td><td>gentle breeze</td>
+    </tr>
+    <tr>
+        <td>远处的</td><td><b>distant</b></td><td>distant mountains</td>
+        <td>|</td>
+        <td>主要的</td><td><b>main</b></td><td>main road</td>
+        <td>|</td>
+        <td>高的</td><td><b>tall</b></td><td>tall buildings</td>
+    </tr>
+    <tr>
+        <td>暗淡的</td><td><b>delicate</b></td><td>delicate shadows</td>
+        <td>|</td>
+        <td>精致的</td><td><b>delicate</b></td><td>delicate necklace</td>
+        <td>|</td>
+        <td>温暖的</td><td><b>warm</b></td><td>warm indoor</td>
+    </tr>
+    <tr>
+        <td>宽的</td><td><b>wide</b></td><td>wide sidewalk</td>
+        <td>|</td>
+        <td>被标记的</td><td><b>marked with ... sign</b></td><td>/</td>
+        <td>|</td>
+        <td>附近的</td><td><b>nearby</b></td><td>nearby shop</td>
+    </tr>
+    <tr>
+        <td>日常的</td><td><b>everyday</b></td><td>everyday city</td>
+        <td>|</td>
+        <td>熟悉的</td><td><b>familiar</b></td><td>familiar tone</td>
+        <td>|</td>
+        <td>充满生机的</td><td><b>full of life</b></td><td>The city is full of life</td>
+    </tr>
+    <tr>
+        <td>更加安静的</td><td><b>quieter</b></td><td>quieter street</td>
+        <td>|</td>
+        <td>盛开着的</td><td><b>a blooming with daisis</b></td><td></td>
+        <td>|</td>
+        <td>小的</td><td><b>small</b></td><td>small vailion</td>
+    </tr>
+    <tr>
+        <td>年纪大的</td><td><b>elderly</b></td><td>elderly man</td>
+        <td>|</td>
+        <td>流畅的</td><td><b>sleek</b></td><td>sleek design</td>
+        <td>|</td>
+        <td>现代的</td><td><b>modern</b></td><td>modern apartment</td>
+    </tr>
+    <tr>
+        <td>凉爽的</td><td><b>cool</b></td><td>It's cool outside</td>
+        <td>|</td>
+        <td>装有空调的</td><td><b>air-conditioned</b></td><td>air-conditioned hotel</td>
+        <td>|</td>
+        <td>有视觉障碍的</td><td><b>visually impaired</b></td><td>The designed for the visually impaired</td>
+    </tr>
+    <tr>
+        <td>结构清晰的</td><td><b>structured</b></td><td>strutured system</td>
+        <td>|</td>
+        <td>效率高的</td><td><b>efficient</b></td><td>efficient worker</td>
+        <td>|</td>
+        <td>下一个的</td><td><b>next</b></td><td>next station</td>
+    </tr>
+    <tr>
+        <td>华丽的</td><td><b>grand</b></td><td>grand dress</td>
+        <td>|</td>
+        <td>柔和的</td><td><b>soft</b></td><td>soft lighting</td>
+        <td>|</td>
+        <td>令人心安的</td><td><b>comforting</b></td><td>felt comforting</td>
+    </tr>
+    <tr>
+        <td>经典的</td><td><b>classic</b></td><td>classic movie</td>
+        <td>|</td>
+        <td>冰冷的</td><td><b>ice</b></td><td>ice stare</td>
+        <td>|</td>
+        <td>身边都是（什么东西）的</td><td><b>surrounded by</b></td><td>surrounded by book</td>
+    </tr>
+    <tr>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
 </table>
