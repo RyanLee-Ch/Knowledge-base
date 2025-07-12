@@ -10,7 +10,7 @@
         <th colspan="12">口语表达词</th>
     </tr>
     <tr>
-        <td>实际上</td><td>actually</td><td>-</td>
+        <td>实际上、确实</td><td>actually</td><td>-</td>
         <td>就是</td><td>It's this</td><td>-</td>
         <td>也许、可能</td><td>maybe</td><td>-</td>
         <td>那</td><td>then</td><td>-</td>
@@ -43,7 +43,7 @@
         <td>好多了</td><td>much better</td><td>-</td>
         <td>大概</td><td>It takes about</td><td>-</td>
         <td>先（做什么）</td><td>'ll take ... first</td><td>-</td>
-        <td>我一直</td><td>I've been</td><td>-</td>
+        <td>我一直（动作）</td><td>I've been do.ing</td><td>-</td>
     </tr>
     <tr>
         <td>放心吧、别担心</td><td>don't worry</td><td>-</td>
@@ -119,6 +119,42 @@
     </tr>
     <tr>
         <td>我已经到了（什么地方）</td><td>I've gotten to the</td><td>-</td>
+        <td>能不能（做某事）</td><td>can do.</td><td>-</td>
+        <td>保持</td><td>keep it like</td><td>-</td>
+        <td>导致我</td><td>It caused me to</td><td>-</td>
+    </tr>
+    <tr>
+        <td>我本来想</td><td>I was supposed to</td><td>-</td>
+        <td>我一直在（忙什么事情）</td><td>I've been working on</td><td>-</td>
+        <td>费脑子</td><td>took a lot of brainpower</td><td>-</td>
+        <td>从...到</td><td>from...until</td><td>-</td>
+    </tr>
+    <tr>
+        <td>我们通常、我们一般</td><td>We usually</td><td>-</td>
+        <td>我就只是说说</td><td>I'm just saying</td><td>-</td>
+        <td>你不需要（做某事）</td><td>you don't need to</td><td>-</td>
+        <td>除非</td><td>unless</td><td>-</td>
+    </tr>
+    <tr>
+        <td>我还是（怎么样）</td><td>I'm still</td><td>-</td>
+        <td>有</td><td>'ve got</td><td>-</td>
+        <td>一个个来吧</td><td>one thing at a time</td><td>-</td>
+        <td>我不是很想（做某事）</td><td>I'm not really in the mood to</td><td>-</td>
+    </tr>
+    <tr>
+        <td>做事</td><td>take things</td><td>-</td>
+        <td>做过</td><td>did it</td><td>-</td>
+        <td>（什么）已经到了</td><td>obj. be here</td><td>-</td>
+        <td>不（怎样）也不（怎样）</td><td>neither ... nor ...</td><td>-</td>
+    </tr>
+    <tr>
+        <td>你要（做什么）吗？</td><td>You're gonna</td><td>-</td>
+        <td>我之前没做（什么事情）</td><td>I didn't</td><td>-</td>
+        <td>把</td><td>get</td><td>-</td>
+        <td>也不知道是不是我（做了什么）</td><td>Not sure if I</td><td>-</td>
+    </tr>
+    <tr>
+        <td>我感觉有点</td><td>I'm kinda</td><td>-</td>
         <td></td><td></td><td>-</td>
         <td></td><td></td><td>-</td>
         <td></td><td></td><td>-</td>
@@ -984,9 +1020,16 @@
     <tr>
         <td>发出微光</td><td><b>glow</b></td><td>The firefiles glowed in the dark</td>
         <td>|</td>
+        <td>熬夜</td><td><b>stay up</b></td><td>I stayed up until 3 a.m.</td>
+        <td>|</td>
+        <td>摸鱼</td><td><b>slack of</b></td><td>Don't slack off now</td>
+    </tr>
+        <td>上厕所</td><td><b>use the bathroom</b></td><td>Do you need to use the bathroom?</td>
+        <td>|</td>
         <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td></td><td><b></b></td><td></td>
+    </tr>
     </tr>
         <td></td><td><b></b></td><td></td>
         <td>|</td>
@@ -994,7 +1037,6 @@
         <td>|</td>
         <td></td><td><b></b></td><td></td>
     </tr>
-
 </table>
 
 ---
@@ -1191,3 +1233,9 @@
         <td></td><td><b></b></td><td></td>
     </tr>
 </table>
+
+---
+
+<h2 style="text-align: center;">技巧性</h2>
+
+1. 动词转名词：do + ing
