@@ -40,7 +40,7 @@
         <td>去到、回到</td><td>get</td><td>-</td>
     </tr>
     <tr>
-        <td>好多了</td><td>much better</td><td>-</td>
+        <td>好多了</td><td>feeling better</td><td>-</td>
         <td>大概</td><td>It takes about</td><td>-</td>
         <td>先（做什么）</td><td>'ll take ... first</td><td>-</td>
         <td>我一直（动作）</td><td>I've been do.ing</td><td>-</td>
@@ -54,7 +54,7 @@
     <tr>
         <td>一下下</td><td>real quick</td><td>-</td>
         <td>不着急</td><td>take your time</td><td>-</td>
-        <td>我打算、我要</td><td>I'll</td><td>-</td>
+        <td>我打算、我要（做某事）</td><td>I'll do.</td><td>-</td>
         <td>我打算、我要</td><td>I'm gonna</td><td>-</td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@
         <td>除非</td><td>unless</td><td>-</td>
     </tr>
     <tr>
-        <td>我还是（怎么样）</td><td>I'm still</td><td>-</td>
+        <td>还是（怎么样）</td><td>be still</td><td>-</td>
         <td>有</td><td>'ve got</td><td>-</td>
         <td>一个个来吧</td><td>one thing at a time</td><td>-</td>
         <td>我不是很想（做某事）</td><td>I'm not really in the mood to</td><td>-</td>
@@ -155,6 +155,18 @@
     </tr>
     <tr>
         <td>我感觉有点</td><td>I'm kinda</td><td>-</td>
+        <td>主要是（做什么）</td><td>Mainly just</td><td>-</td>
+        <td>做</td><td>get</td><td>-</td>
+        <td>吃（不能作为补充）</td><td>have</td><td>-</td>
+    </tr>
+    <tr>
+        <td>还是（做了什么）</td><td>still</td><td>-</td>
+        <td>选择</td><td>go for</td><td>-</td>
+        <td>（得了什么病）</td><td>had a</td><td>-</td>
+        <td>说实话、讲真的</td><td>Honestly</td><td>-</td>
+    </tr>
+    <tr>
+        <td>不能接受、受不了</td><td>can't handle</td><td>-</td>
         <td></td><td></td><td>-</td>
         <td></td><td></td><td>-</td>
         <td></td><td></td><td>-</td>
@@ -378,7 +390,7 @@
         <th>表达目的</th><th>状态</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
     </tr>
     <tr>
-        <td rowspan="5">未来</td>
+        <td rowspan="10">未来</td>
         <td>截止</td>
         <td>do. → <b>by.</b>  <b>time</b></td>
         <td>最迟</td>
@@ -407,6 +419,18 @@
         <td>→ <b>someday</b></td>
         <td>有空的时候</td>
         <td>We should grab coffee <b>someday</b></td>
+    </tr>
+    <tr>
+        <td>小时间</td>
+        <td>→ <b>in the afternoon</b></td>
+        <td>下午的时候</td>
+        <td>I usually have it<b>in the afternoon</b></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b></b></td>
+        <td></td>
+        <td><b></b></td>
     </tr>
 </table>
 
@@ -1026,6 +1050,13 @@
     </tr>
         <td>上厕所</td><td><b>use the bathroom</b></td><td>Do you need to use the bathroom?</td>
         <td>|</td>
+        <td>上号</td><td><b>got online</b></td><td>I just got online</td>
+        <td>|</td>
+        <td>除了</td><td><b>except for</b></td><td>Everyone came to the party except for Tom</td>
+    </tr>
+    </tr>
+        <td>出门散步</td><td><b>go out for a walk</b></td><td></td>
+        <td>|</td>
         <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td></td><td><b></b></td><td></td>
@@ -1095,7 +1126,7 @@
         <td>|</td>
         <td>盘腿</td><td><b>cross-legged</b></td><td>坐</td>
         <td>|</td>
-        <td></td><td><b></b></td><td></td>
+        <td>几乎没有</td><td><b>barely</b></td><td>I barely ate anything</td>
     </tr>
     <tr>
         <td></td><td><b></b></td><td></td>
@@ -1224,6 +1255,13 @@
         <td>冰冷的</td><td><b>ice</b></td><td>ice stare</td>
         <td>|</td>
         <td>身边都是（什么东西）的</td><td><b>surrounded by</b></td><td>surrounded by book</td>
+    </tr>
+    <tr>
+        <td>生病了的</td><td><b>sick</b></td><td>I'm sick</td>
+        <td>|</td>
+        <td>好多了的（非人）</td><td><b>much better</b></td><td>The weather is much better now</td>
+        <td>|</td>
+        <td>好多了的（人）</td><td><b>feeling butter</b></td><td>She's feeling better</td>
     </tr>
     <tr>
         <td></td><td><b></b></td><td></td>
