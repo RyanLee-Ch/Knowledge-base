@@ -40,7 +40,7 @@
         <td>去到、回到</td><td>get</td><td>-</td>
     </tr>
     <tr>
-        <td>好多了</td><td>feeling better</td><td>-</td>
+        <td></td><td></td><td>-</td>
         <td>大概</td><td>It takes about</td><td>-</td>
         <td>先（做什么）</td><td>'ll take ... first</td><td>-</td>
         <td>我一直（动作）</td><td>I've been do.ing</td><td>-</td>
@@ -55,13 +55,13 @@
         <td>一下下</td><td>real quick</td><td>-</td>
         <td>不着急</td><td>take your time</td><td>-</td>
         <td>我打算、我要（做某事）</td><td>I'll do.</td><td>-</td>
-        <td>我打算、我要</td><td>I'm gonna</td><td>-</td>
+        <td>我打算、我要（做某事）</td><td>I'm gonna</td><td>-</td>
     </tr>
     <tr>
         <td>我不急</td><td>I'm not in a hurry</td><td>-</td>
         <td>我不想（做某事）</td><td>I don't really feel like ...ing</td><td>-</td>
         <td>我估计要</td><td>I'll probably</td><td>-</td>
-        <td>一会儿</td><td>for a bit</td><td>-</td>
+        <td></td><td></td><td>-</td>
     </tr>
     <tr>
         <td>我什么都不想做</td><td>I don't feel like doing anything</td><td>-</td>
@@ -91,7 +91,7 @@
         <td>而</td><td>while</td><td>-</td>
         <td>却又</td><td>yet</td><td>-</td>
         <td>我已经</td><td>I've already</td><td>-</td>
-        <td>我刚刚做（了什么）</td><td>I just had</td><td>-</td>
+        <td>我刚刚做完（了某事）</td><td>I just had</td><td>-</td>
     </tr>
     <tr>
         <td>不太顺利</td><td>it didn't go very well</td><td>-</td>
@@ -167,9 +167,21 @@
     </tr>
     <tr>
         <td>不能接受、受不了</td><td>can't handle</td><td>-</td>
+        <td>我到（哪）了</td><td>I got to the</td><td>-</td>
+        <td>导致我（怎么样）</td><td>I ended up do.ing</td><td>-</td>
+        <td>纯粹是因为</td><td>It's just because</td><td>-</td>
+    </tr>
+    <tr>
+        <td>我真的很想（做某事）</td><td>I'd really wanna</td><td>-</td>
         <td></td><td></td><td>-</td>
-        <td></td><td></td><td>-</td>
-        <td></td><td></td><td>-</td>
+        <td>午休</td><td>take a noon break</td><td>-</td>
+        <td>我不喜欢（做某事）</td><td>I don't like do.ing</td><td>-</td>
+    </tr>
+    <tr>
+        <td>没法得到</td><td>don't get</td><td>-</td>
+        <td>我有（属于自己的）</td><td>I have</td><td>-</td>
+        <td>我有（被赋予的）</td><td>I get</td><td>-</td>
+        <td>感觉有点（怎么样）</td><td>feel kind of</td><td>-</td>
     </tr>
     <tr>
         <td></td><td></td><td>-</td>
@@ -338,8 +350,6 @@
     </tr>
 </table>
 
----
-
 #### 疑问性表达
 
 <table style="text-align: center;">
@@ -381,6 +391,21 @@
     </tr>
 </table>
 
+#### 虚拟表达
+
+<table style="text-align: center;">
+    <tr>
+        <th>虚拟词</th><th>表达目的</th><th>格式</th>
+    </tr>
+    <tr>
+        <td>如果</td>
+        <td>如果我不需要（某事）</td>
+        <td><b>If I</b> didn't have</td>
+    </tr>
+</table>
+
+---
+
 <h2 style="text-align: center;">辅助性补充格式</h2>
 
 #### 时间性补充
@@ -390,7 +415,7 @@
         <th>表达目的</th><th>状态</th><th>基本格式</th><th>辅助直译</th><th>例子</th>
     </tr>
     <tr>
-        <td rowspan="10">未来</td>
+        <td rowspan="6">未来</td>
         <td>截止</td>
         <td>do. → <b>by.</b>  <b>time</b></td>
         <td>最迟</td>
@@ -425,6 +450,13 @@
         <td>→ <b>in the afternoon</b></td>
         <td>下午的时候</td>
         <td>I usually have it<b>in the afternoon</b></td>
+    </tr>
+    <tr>
+        <td rowspan="3">持续时间</td>
+        <td>短期</td>
+        <td><b>for a bit</b></td>
+        <td>一小会儿</td>
+        <td>I'm gonna lie down<b>for a bit</b></td>
     </tr>
     <tr>
         <td></td>
@@ -1046,7 +1078,7 @@
         <td>|</td>
         <td>熬夜</td><td><b>stay up</b></td><td>I stayed up until 3 a.m.</td>
         <td>|</td>
-        <td>摸鱼</td><td><b>slack of</b></td><td>Don't slack off now</td>
+        <td>摸鱼</td><td><b>slack off</b></td><td>Don't slack off now</td>
     </tr>
         <td>上厕所</td><td><b>use the bathroom</b></td><td>Do you need to use the bathroom?</td>
         <td>|</td>
@@ -1057,9 +1089,9 @@
     </tr>
         <td>出门散步</td><td><b>go out for a walk</b></td><td></td>
         <td>|</td>
-        <td></td><td><b></b></td><td></td>
+        <td>加班</td><td><b>work overtime</b></td><td>I have to work overtime</td>
         <td>|</td>
-        <td></td><td><b></b></td><td></td>
+        <td>到（哪儿了）</td><td><b>get to the</b></td><td>I finally got to the station</td>
     </tr>
     </tr>
         <td></td><td><b></b></td><td></td>
@@ -1262,6 +1294,13 @@
         <td>好多了的（非人）</td><td><b>much better</b></td><td>The weather is much better now</td>
         <td>|</td>
         <td>好多了的（人）</td><td><b>feeling butter</b></td><td>She's feeling better</td>
+    </tr>
+    <tr>
+        <td>感觉状态好多了的</td><td><b>feeling better</b></td><td>I'm feeling better</td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
         <td></td><td><b></b></td><td></td>
