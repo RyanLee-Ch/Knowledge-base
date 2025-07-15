@@ -61,7 +61,7 @@
         <td>我不急</td><td>I'm not in a hurry</td><td>-</td>
         <td>我不想（做某事）</td><td>I don't really feel like ...ing</td><td>-</td>
         <td>我估计要</td><td>I'll probably</td><td>-</td>
-        <td></td><td></td><td>-</td>
+        <td>我们之后再（做什么）吧</td><td>let's do. again time.</td><td>-</td>
     </tr>
     <tr>
         <td>我什么都不想做</td><td>I don't feel like doing anything</td><td>-</td>
@@ -1169,6 +1169,12 @@
         <td>抬头（看）</td><td><b>look up</b></td><td>|</td>
         <td>整理文件</td><td><b>sort files</b></td><td>|</td>
         <td>去睡觉</td><td><b>go to bed</b></td><td>|</td>
+        <td>给你看</td><td><b>show you</b></td><td>|</td>
+    </tr>
+    <tr>
+        <td>找</td><td><b>looking for</b></td><td>|</td>
+        <td></td><td><b></b></td><td>|</td>
+        <td></td><td><b></b></td><td>|</td>
         <td></td><td><b></b></td><td>|</td>
     </tr>
     <tr>
@@ -1187,21 +1193,11 @@
 
 <table style="text-align: center;">
     <tr>
-        <th>格式</th>
         <th>状态</th><th>核心词</th><th>应用范围</th>
         <th>|</th>
         <th>状态</th><th>核心词</th><th>应用范围</th>
         <th>|</th>
         <th>状态</th><th>核心词</th><th>应用范围</th>
-    </tr>
-    <tr>
-        <td rowspan="7">
-            <b>adv.</b>  <b>do.</b>
-            <br>
-            or
-            <br>
-            <b>do.</b>  <b>adv.</b>
-        </td>
     </tr>
     <tr>
         <td>轻轻地</td><td><b>gently</b></td><td>行为动作程度</td>
@@ -1239,7 +1235,7 @@
         <td>几乎没有</td><td><b>barely</b></td><td>I barely ate anything</td>
     </tr>
     <tr>
-        <td></td><td><b></b></td><td></td>
+        <td>总是</td><td><b>always</b></td><td>频次</td>
         <td>|</td>
         <td></td><td><b></b></td><td></td>
         <td>|</td>
@@ -1257,24 +1253,15 @@
 
 <h2 style="text-align: center;">对象描述补充</h2>
 
+#### 单词表达
 
 <table style="text-align: center;">
     <tr>
-        <th>格式</th>
         <th>描述</th><th>核心词</th><th>示例</th>
         <th>|</th>
         <th>状态</th><th>核心词</th><th>示例</th>
         <th>|</th>
         <th>状态</th><th>核心词</th><th>示例</th>
-    </tr>
-    <tr>
-        <td rowspan="20">
-            <b>adj. noun.</b>
-            <br>
-            or
-            <br>
-            <b>be. adj.</b>
-        </td>
     </tr>
     <tr>
         <td>困的</td><td><b>sleepy</b></td><td>sleepy face</td>
@@ -1321,7 +1308,7 @@
     <tr>
         <td>宽的</td><td><b>wide</b></td><td>wide sidewalk</td>
         <td>|</td>
-        <td>被标记的</td><td><b>marked with ... sign</b></td><td>/</td>
+        <td>很多的</td><td><b>a lot of</b></td><td>a lot of time</td>
         <td>|</td>
         <td>附近的</td><td><b>nearby</b></td><td>nearby shop</td>
     </tr>
@@ -1330,12 +1317,12 @@
         <td>|</td>
         <td>熟悉的</td><td><b>familiar</b></td><td>familiar tone</td>
         <td>|</td>
-        <td>充满生机的</td><td><b>full of life</b></td><td>The city is full of life</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
         <td>更加安静的</td><td><b>quieter</b></td><td>quieter street</td>
         <td>|</td>
-        <td>盛开着的</td><td><b>a blooming with daisis</b></td><td></td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td>小的</td><td><b>small</b></td><td>small vailion</td>
     </tr>
@@ -1349,9 +1336,9 @@
     <tr>
         <td>凉爽的</td><td><b>cool</b></td><td>It's cool outside</td>
         <td>|</td>
-        <td>装有空调的</td><td><b>air-conditioned</b></td><td>air-conditioned hotel</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
-        <td>有视觉障碍的</td><td><b>visually impaired</b></td><td>The designed for the visually impaired</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
         <td>结构清晰的</td><td><b>structured</b></td><td>strutured system</td>
@@ -1372,19 +1359,73 @@
         <td>|</td>
         <td>冰冷的</td><td><b>ice</b></td><td>ice stare</td>
         <td>|</td>
-        <td>身边都是（什么东西）的</td><td><b>surrounded by</b></td><td>surrounded by book</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
         <td>生病了的</td><td><b>sick</b></td><td>I'm sick</td>
         <td>|</td>
-        <td>好多了的（非人）</td><td><b>much better</b></td><td>The weather is much better now</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
-        <td>好多了的（人）</td><td><b>feeling butter</b></td><td>She's feeling better</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+    </tr>
+    <tr>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+    </tr>
+</table>
+
+#### 词组表达
+
+<table style="text-align: center;">
+    <tr>
+        <th>描述</th><th>核心词</th><th>示例</th>
+        <th>|</th>
+        <th>状态</th><th>核心词</th><th>示例</th>
+        <th>|</th>
+        <th>状态</th><th>核心词</th><th>示例</th>
+    </tr>
+    <tr>
+        <td>被（什么东西）标记的</td><td><b>marked with ... sign</b></td><td>/</td>
+        <td>|</td>
         <td>感觉状态好多了的</td><td><b>feeling better</b></td><td>I'm feeling better</td>
         <td>|</td>
         <td>顺利的</td><td><b>pretty well</b></td><td>The event went pretty well</td>
+    </tr>
+    <tr>
+        <td>好多了的（人）</td><td><b>feeling butter</b></td><td>She's feeling better</td>
+        <td>|</td>
+        <td>好多了的（非人）</td><td><b>much better</b></td><td>The weather is much better now</td>
+        <td>|</td>
+        <td>我大部分的</td><td><b>most of my</b></td><td>I wasted most of my time watching videos</td>
+    </tr>
+    <tr>
+        <td>身边都是（什么东西）的</td><td><b>surrounded by</b></td><td>surrounded by book</td>
+        <td>|</td>
+        <td>有视觉障碍的</td><td><b>visually impaired</b></td><td>The designed for the visually impaired</td>
+        <td>|</td>
+        <td>盛开着的</td><td><b>a blooming with daisis</b></td><td>/</td>
+    </tr>
+    <tr>
+        <td>充满生机的</td><td><b>full of life</b></td><td>The city is full of life</td>
+        <td>|</td>
+        <td>装有空调的</td><td><b>air-conditioned</b></td><td>air-conditioned hotel</td>
+        <td>|</td>
+        <td>那种（什么）的（怎么样的）</td><td><b>the kind of...who...</b></td><td></td>
+    </tr>·
+    <tr>
+        <td>各种各样的</td><td><b>all kinds of</b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td></td><td><b></b></td><td></td>
     </tr>
