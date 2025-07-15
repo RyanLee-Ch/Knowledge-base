@@ -40,10 +40,10 @@
         <td>去到、回到</td><td>get</td><td>-</td>
     </tr>
     <tr>
-        <td></td><td></td><td>-</td>
+        <td>我之前一直在做什么（已经做完了）</td><td>I was do.ing</td><td>-</td>
         <td>大概</td><td>It takes about</td><td>-</td>
         <td>先（做什么）</td><td>'ll take ... first</td><td>-</td>
-        <td>我一直（动作）</td><td>I've been do.ing</td><td>-</td>
+        <td>我一直在做什么（直到现在）</td><td>I've been do.ing</td><td>-</td>
     </tr>
     <tr>
         <td>放心吧、别担心</td><td>don't worry</td><td>-</td>
@@ -173,15 +173,21 @@
     </tr>
     <tr>
         <td>我真的很想（做某事）</td><td>I'd really wanna</td><td>-</td>
-        <td></td><td></td><td>-</td>
+        <td>不仅，还</td><td>I've not only .., but I've also</td><td>-</td>
         <td>午休</td><td>take a noon break</td><td>-</td>
         <td>我不喜欢（做某事）</td><td>I don't like do.ing</td><td>-</td>
     </tr>
     <tr>
-        <td>没法得到</td><td>don't get</td><td>-</td>
+        <td>至今为止，还（怎么样）</td><td>It's been going ... so far</td><td>-</td>
         <td>我有（属于自己的）</td><td>I have</td><td>-</td>
         <td>我有（被赋予的）</td><td>I get</td><td>-</td>
-        <td>感觉有点（怎么样）</td><td>feel kind of</td><td>-</td>
+        <td>我和你说</td><td>let me tell you</td><td>-</td>
+    </tr>
+    <tr>
+        <td></td><td></td><td>-</td>
+        <td></td><td></td><td>-</td>
+        <td></td><td></td><td>-</td>
+        <td></td><td></td><td>-</td>
     </tr>
     <tr>
         <td></td><td></td><td>-</td>
@@ -388,6 +394,13 @@
         <td><b>Where's det.</b></td>
         <td>在哪儿</td>
         <td>Where's the my bag?</td>
+    </tr>
+    <tr>
+        <td>要不要（做某事）</td>
+        <td>应不应该做某件事</td>
+        <td><b>whether I should</b></td>
+        <td>/</td>
+        <td>Whether I should go to the party</td>
     </tr>
 </table>
 
@@ -806,6 +819,7 @@
 
 <h2 style="text-align: center;">行为表达</h2>
 
+#### 单词表达
 <table style="text-align: center;">
     <tr>
         <th>行为</th><th>核心词</th><th>示例</th>
@@ -815,7 +829,7 @@
         <th>行为</th><th>核心词</th><th>示例</th>
     </tr>
     <tr>
-        <td>让（什么）醒来</td><td><b>wake ... up</b></td><td>wake me up</td>
+        <td>驾驶（飞行工具）</td><td><b>fly</b></td><td>fly my ship</td>
         <td>|</td>
         <td>伸展</td><td><b>stretch</b></td><td>stretch your muscles</td>
         <td>|</td>
@@ -840,7 +854,7 @@
         <td>|</td>
         <td>拿</td><td><b>grab</b></td><td>grab the ball</td>
         <td>|</td>
-        <td>打开（电器）</td><td><b>turn on</b></td><td>turned on the cooker</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
         <td>发出嗡嗡声</td><td><b>hum</b></td><td>The machine will hum</td>
@@ -850,7 +864,7 @@
         <td>播放</td><td><b>play</b></td><td>plays music</td>
     </tr>
     <tr>
-        <td>被（什么）绊倒</td><td><b>trip over</b></td><td>tripping over the cable</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td>检查</td><td><b>check</b></td><td>check your email</td>
         <td>|</td>
@@ -861,7 +875,7 @@
         <td>|</td>
         <td>弯腰蹲下</td><td><b>crouch</b></td><td>crouched under the table</td>
         <td>|</td>
-        <td>摆弄</td><td><b>fiddle with</b></td><td>fiddling with the PC</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
         <td>插</td><td><b>plug</b></td><td>plug into the socket</td>
@@ -901,12 +915,12 @@
     <tr>
         <td>煮</td><td><b>cook</b></td><td>cook Italian food</td>
         <td>|</td>
-        <td>（加）调料</td><td><b>season with</b></td><td>seasoned with salt</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td>争吵</td><td><b>argue</b></td><td>argue for the climate</td>
     </tr>
     <tr>
-        <td>take out</td><td><b>带走</b></td><td>take out the trash</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td>（因疲惫）倒下</td><td><b>collapse</b></td><td>collapsed from a heart attack</td>
         <td>|</td>
@@ -966,7 +980,7 @@
         <td>|</td>
         <td>整理</td><td><b>organize</b></td><td>organize her files</td>
         <td>|</td>
-        <td>让...变成</td><td><b>turn the ... into</b></td><td>turned the prince into a frog</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
         <td>从离开（走）</td><td><b>step out of</b></td><td>stepped out of the room</td>
@@ -976,7 +990,7 @@
         <td>听到</td><td><b>hear</b></td><td>I heared a strange noise</td>
     </tr>
     <tr>
-        <td>呈拱形排列</td><td><b>arch over</b></td><td>streetlamps arched over the street</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td>投影</td><td><b>cast</b></td><td>cast a long shadow</td>
         <td>|</td>
@@ -1060,38 +1074,31 @@
         <td>读</td><td><b>read</b></td><td>I read a great book</td>
     </tr>
     <tr>
-        <td>继续（忙什么）</td><td><b>carry on</b></td><td>She carried on talking</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td>微笑</td><td><b>smile</b></td><td>She smiled warmly</td>
         <td>|</td>
-        <td>考虑</td><td><b>think about</b></td><td>I need to think about it</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     <tr>
-        <td>等同于</td><td><b>be the equivalent of</b></td><td>One mile is the equivalent of about 1.6 kilometers</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
-        <td>视频通话</td><td><b>video-call</b></td><td>They often video-call</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
         <td>轻笑</td><td><b>chuckle</b></td><td>she chuckled</td>
     </tr>
     <tr>
         <td>发出微光</td><td><b>glow</b></td><td>The firefiles glowed in the dark</td>
         <td>|</td>
-        <td>熬夜</td><td><b>stay up</b></td><td>I stayed up until 3 a.m.</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
-        <td>摸鱼</td><td><b>slack off</b></td><td>Don't slack off now</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
-        <td>上厕所</td><td><b>use the bathroom</b></td><td>Do you need to use the bathroom?</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
-        <td>上号</td><td><b>got online</b></td><td>I just got online</td>
+        <td></td><td><b></b></td><td></td>
         <td>|</td>
-        <td>除了</td><td><b>except for</b></td><td>Everyone came to the party except for Tom</td>
-    </tr>
-    </tr>
-        <td>出门散步</td><td><b>go out for a walk</b></td><td></td>
-        <td>|</td>
-        <td>加班</td><td><b>work overtime</b></td><td>I have to work overtime</td>
-        <td>|</td>
-        <td>到（哪儿了）</td><td><b>get to the</b></td><td>I finally got to the station</td>
+        <td></td><td><b></b></td><td></td>
     </tr>
     </tr>
         <td></td><td><b></b></td><td></td>
@@ -1100,6 +1107,77 @@
         <td>|</td>
         <td></td><td><b></b></td><td></td>
     </tr>
+    </tr>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+    </tr>
+</table>
+
+#### 组词表达
+
+<table style="text-align: center;">
+    <tr>
+        <th>行为</th><th>核心词</th>
+        <th>|</th>
+        <th>行为</th><th>核心词</th>
+        <th>|</th>
+        <th>行为</th><th>核心词</th>
+        <th>|</th>
+        <th>行为</th><th>核心词</th>
+        <th>|</th>
+    </tr>
+    <tr>
+        <td>下班</td><td><b>get off work</b></td><td>|</td>
+        <td>上厕所</td><td><b>use the bathroom</b></td><td>|</td>
+        <td>出门散步</td><td><b>go out for a walk</b></td><td>|</td>
+        <td>上号</td><td><b>got online</b></td><td>|</td>
+    </tr>
+    <tr>
+        <td>加班</td><td><b>work overtime</b></td><td>|</td>
+        <td>熬夜</td><td><b>stay up</b></td><td>|</td>
+        <td>摸鱼</td><td><b>slack off</b></td><td>|</td>
+        <td>除了</td><td><b>except for</b></td><td>|</td>
+    </tr>
+    <tr>
+        <td>到哪里</td><td><b>get to the</b></td><td>|</td>
+        <td>等同于、相当于</td><td><b>be the equivalent</b></td><td>|</td>
+        <td>考虑</td><td><b>think about</b></td><td>|</td>
+        <td>视频电话</td><td><b>video-call</b></td><td>|</td>
+    </tr>
+    <tr>
+        <td>继续（忙什么）</td><td><b>carry on</b></td><td>|</td>
+        <td>呈拱形排列在（什么地方）</td><td><b>arch over the</b></td><td>|</td>
+        <td>带走（什么东西）</td><td><b>take out the</b></td><td>|</td>
+        <td>让（什么）变成（什么）</td><td><b>turn the ... into</b></td><td>|</td>
+    </tr>
+    <tr>
+        <td>加（什么）调料</td><td><b>season with</b></td><td>|</td>
+        <td>被（什么）绊倒</td><td><b>trip over the</b></td><td>|</td>
+        <td>摆弄（什么东西）</td><td><b>fiddle with the</b></td><td>|</td>
+        <td>让（谁）醒来</td><td><b>wake ... up</b></td><td>|</td>
+    </tr>
+    <tr>
+        <td>打开（什么电器）</td><td><b>turn on the</b></td><td>|</td>
+        <td>感觉有点（怎么样）</td><td><b>feel kind of</b></td><td>|</td>
+        <td>只想要（做什么）</td><td><b>'d rather just</b></td><td>|</td>
+        <td>没法得到</td><td><b>don't get</b></td><td>|</td>
+    </tr>
+    <tr>
+        <td>抬头（看）</td><td><b>look up</b></td><td>|</td>
+        <td>整理文件</td><td><b>sort files</b></td><td>|</td>
+        <td>去睡觉</td><td><b>go to bed</b></td><td>|</td>
+        <td></td><td><b></b></td><td>|</td>
+    </tr>
+    <tr>
+        <td></td><td><b></b></td><td>|</td>
+        <td></td><td><b></b></td><td>|</td>
+        <td></td><td><b></b></td><td>|</td>
+        <td></td><td><b></b></td><td>|</td>
+    </tr>
+
 </table>
 
 ---
@@ -1167,7 +1245,15 @@
         <td>|</td>
         <td></td><td><b></b></td><td></td>
     </tr>
+    <tr>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+        <td>|</td>
+        <td></td><td><b></b></td><td></td>
+    </tr>
 </table>
+
 
 <h2 style="text-align: center;">对象描述补充</h2>
 
@@ -1298,7 +1384,7 @@
     <tr>
         <td>感觉状态好多了的</td><td><b>feeling better</b></td><td>I'm feeling better</td>
         <td>|</td>
-        <td></td><td><b></b></td><td></td>
+        <td>顺利的</td><td><b>pretty well</b></td><td>The event went pretty well</td>
         <td>|</td>
         <td></td><td><b></b></td><td></td>
     </tr>
