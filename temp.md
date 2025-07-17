@@ -43,6 +43,51 @@
         <td><b>我总是没法、我总是做不到（某件事）</b></td><td>I can never</td><td>|</td>
     </tr>
     <tr>
+        <td><b>我已经来到（什么地方）了</b></td><td>I've gotten to the</td><td>|</td>
+        <td><b>我本来想（做什么）</b></td><td>I was supposed to</td><td>|</td>
+        <td><b>我一直在（忙什么事情）</b></td><td>I've been working on</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>如果我不用（做某事）</b></td><td>If I didn't have to</td><td>|</td>
+        <td><b>我绝对要、我一定要（做某事）</b></td><td>I'd probably</td><td>|</td>
+        <td><b>我就只是说说</b></td><td>I'm just saying</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我一直在（做什么，已经做完了）</b></td><td>I was</td><td>|</td>
+        <td><b>（搞得）我最后(总是)（做什么、怎么样）</b></td><td>I (always) end up</td><td>|</td>
+        <td><b>我之前没有、我一直没有（做什么事情）</b></td><td>I didn't</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我有点（怎么样）</b></td><td>I'm kinda</td><td>|</td>
+        <td><b>我只想（做什么）</b></td><td>I just wanna do.</td><td>|</td>
+        <td><b>导致我（做什么）</b></td><td>It caused me to</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我有（完全属于自己的什么东西）</b></td><td>I have</td><td>|</td>
+        <td><b>我有（被赋予的什么东西）</b></td><td>I get</td><td>|</td>
+        <td><b>我真的很想（做某事）</b></td><td>I'd really wanna</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>也不知道是不是我</b></td><td>Not sure if I</td><td>|</td>
+        <td><b>我一直没能（做某事）</b></td><td>I haven't been able to</td><td>|</td>
+        <td><b>我刚刚（做了什么事情）</b></td><td>I just</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我不是很想（做某事）</b></td><td>I'm not really in the mood to</td><td>|</td>
+        <td><b>我去过（什么地方）</b></td><td>I got to the ... time.</td><td>|</td>
+        <td><b>我没法接受、我受不了</b></td><td>I can't handle</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我和你说</b></td><td>let me tell you</td><td>|</td>
+        <td><b>我准备要（做某事）</b></td><td>I'm ready to</td><td>|</td>
+        <td><b>我不喜欢（做某事）</b></td><td>I don't like do.ing</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我还没（做某事）</b></td><td>I still haven't</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
@@ -58,6 +103,11 @@
     </tr>
     <tr>
         <td><b>你懂的</b></td><td>you know</td><td>|</td>
+        <td><b>你要（做什么吗）？</b></td><td>You're gonna</td><td>|</td>
+        <td><b>你不需要（做某事）</b></td><td>You don't need to</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我不仅（做什），还（做什）</b></td><td>I've not only do., but I've also do.</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
@@ -68,6 +118,58 @@
     </tr>
 </table>
 
+#### 我们
+<table style="text-align: center;">
+    <tr>
+        <td><b>我们之后（在做什么）吧</b></td><td>Let's do. again time.</td><td>|</td>
+        <td><b>我们通常、我们一般</b></td><td>We usually</td><td>|</td>
+        <td><b>别担心</b></td><td>Don't worry</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>全部都是、全都是</b></td><td>It's all like that</td><td>|</td>
+        <td><b>就这样吧</b></td><td>Alright then</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+#### 非主语陈述
+<table style="text-align: center;">
+    <tr>
+        <td><b>都准备好了</b></td><td>All set</td><td>|</td>
+        <td><b>（独立的）大概</b></td><td>It takes about</td><td>|</td>
+        <td><b>那时候</b></td><td>That when</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>不太顺利</b></td><td>It didn't go very well</td><td>|</td>
+        <td><b>虽然不是</b></td><td>It wasn't</td><td>|</td>
+        <td><b>那边就是，到那里就是（什么）</b></td><td>There's the</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>轮到谁去（做什么）了？</b></td><td>Whose turn is it to do. ?</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
 
 <table style="text-align: center;">
     <tr>
@@ -83,27 +185,22 @@
         <td>最好</td><td>'d better</td><td>-</td>
         <td>要不</td><td>how about</td><td>-</td>
         <td>全都</td><td>everything's</td><td>-</td>
-        <td>那边就是、那哪里就是</td><td>there's the</td><td>-</td>
     </tr>
     <tr>
         <td>确实是...</td><td>It's indeed this</td><td>-</td>
         <td>慢点</td><td>slow down</td><td>-</td>
     </tr>
     <tr>
-        <td>都准备好了</td><td>all set</td><td>-</td>
         <td>就</td><td>just</td><td>-</td>
     </tr>
     <tr>
-        <td>还没（做某事）</td><td>still haven't</td><td>-</td>
         <td>还没（怎么样）</td><td>be still not</td><td>-</td>
         <td>去到、回到</td><td>get</td><td>-</td>
     </tr>
     <tr>
-        <td>（独立）大概</td><td>It takes about</td><td>-</td>
         <td>先（做什么）</td><td>'ll take ... first</td><td>-</td>
     </tr>
     <tr>
-        <td>放心吧、别担心</td><td>don't worry</td><td>-</td>
         <td>当</td><td>As ...</td><td>-</td>
     </tr>
     <tr>
@@ -111,15 +208,7 @@
         <td>不着急</td><td>take your time</td><td>-</td>
     </tr>
     <tr>
-        <td>我们之后再（做什么）吧</td><td>let's do. again time.</td><td>-</td>
-    </tr>
-    <tr>
         <td>一直都是</td><td>It's always full of</td><td>-</td>
-        <td>全都是</td><td>It's all like that</td><td>-</td>
-    </tr>
-    <tr>
-        <td>全都是</td><td>It's all like that </td><td>-</td>
-        <td>就这样吧</td><td>alright then</td><td>-</td>
     </tr>
     <tr>
         <td>小心</td><td>careful</td><td>-</td>
@@ -135,15 +224,7 @@
         <td>却又</td><td>yet</td><td>-</td>
     </tr>
     <tr>
-        <td>不太顺利</td><td>it didn't go very well</td><td>-</td>
         <td>主要是</td><td>The main thing is</td><td>-</td>
-        <td>我有没有</td><td>if I</td><td>-</td>
-    </tr>
-    <tr>
-        <td>那时</td><td>that when</td><td>-</td>
-        <td>我还（在做什么）</td><td>I was</td><td>-</td>
-        <td>虽然不是</td><td>It wasn't</td><td>-</td>
-        <td>我只想</td><td>I just wanna do.</td><td>-</td>
     </tr>
     <tr>
         <td>似乎</td><td>It feels like</td><td>-</td>
@@ -151,32 +232,21 @@
     </tr>
     <tr>
         <td>又是</td><td>another</td><td>-</td>
-        <td>轮到谁去（做什么）？</td><td>Whose turn is it to</td><td>-</td>
-        <td>我一直没有（做某事）</td><td>I didn't</td><td>-</td>
     </tr>
     <tr>
-        <td>我已经到了（什么地方）</td><td>I've gotten to the</td><td>-</td>
         <td>能不能（做某事）</td><td>can do.</td><td>-</td>
         <td>保持</td><td>keep it like</td><td>-</td>
-        <td>导致我</td><td>It caused me to</td><td>-</td>
     </tr>
     <tr>
-        <td>我本来想</td><td>I was supposed to</td><td>-</td>
-        <td>我一直在（忙什么事情）</td><td>I've been working on</td><td>-</td>
         <td>费脑子</td><td>took a lot of brainpower</td><td>-</td>
-        <td>从...到</td><td>from...until</td><td>-</td>
     </tr>
     <tr>
-        <td>我们通常、我们一般</td><td>We usually</td><td>-</td>
-        <td>我就只是说说</td><td>I'm just saying</td><td>-</td>
-        <td>你不需要（做某事）</td><td>you don't need to</td><td>-</td>
         <td>除非</td><td>unless</td><td>-</td>
     </tr>
     <tr>
         <td>还是（怎么样）</td><td>be still</td><td>-</td>
         <td>有</td><td>'ve got</td><td>-</td>
         <td>一个个来吧</td><td>one thing at a time</td><td>-</td>
-        <td>我不是很想（做某事）</td><td>I'm not really in the mood to</td><td>-</td>
     </tr>
     <tr>
         <td>做事</td><td>take things</td><td>-</td>
@@ -185,13 +255,9 @@
         <td>不（怎样）也不（怎样）</td><td>neither ... nor ...</td><td>-</td>
     </tr>
     <tr>
-        <td>你要（做什么）吗？</td><td>You're gonna</td><td>-</td>
-        <td>我之前没做（什么事情）</td><td>I didn't</td><td>-</td>
         <td>把</td><td>get</td><td>-</td>
-        <td>也不知道是不是我（做了什么）</td><td>Not sure if I</td><td>-</td>
     </tr>
     <tr>
-        <td>我有点（怎么样）</td><td>I'm kinda</td><td>-</td>
         <td>主要是（做什么）</td><td>Mainly just</td><td>-</td>
         <td>做</td><td>get</td><td>-</td>
         <td>吃（不能作为补充）</td><td>have</td><td>-</td>
@@ -203,34 +269,19 @@
         <td>说实话、讲真的</td><td>Honestly</td><td>-</td>
     </tr>
     <tr>
-        <td>不能接受、受不了</td><td>can't handle</td><td>-</td>
-        <td>我到（哪）了</td><td>I got to the</td><td>-</td>
-        <td>导致我（怎么样）</td><td>I ended up do.ing</td><td>-</td>
         <td>纯粹是因为</td><td>It's just because</td><td>-</td>
     </tr>
     <tr>
-        <td>我真的很想（做某事）</td><td>I'd really wanna</td><td>-</td>
-        <td>不仅，还</td><td>I've not only .., but I've also</td><td>-</td>
         <td>午休</td><td>take a noon break</td><td>-</td>
-        <td>我不喜欢（做某事）</td><td>I don't like do.ing</td><td>-</td>
     </tr>
     <tr>
         <td>至今为止，还（怎么样）</td><td>It's been going ... so far</td><td>-</td>
-        <td>我有（属于自己的）</td><td>I have</td><td>-</td>
-        <td>我有（被赋予的）</td><td>I get</td><td>-</td>
-        <td>我和你说</td><td>let me tell you</td><td>-</td>
     </tr>
     <tr>
-        <td>如果我不用（做某事）</td><td>If I didn't have to</td><td>-</td>
-        <td>我绝对要、我一定要（做某事）</td><td>I'd probably</td><td>-</td>
         <td>（补充）大概</td><td>which takes about</td><td>-</td>
-        <td>我一直没能（做某事）</td><td>I haven't been able to</td><td>-</td>
     </tr>
     <tr>
-        <td>（搞得）我最后总是（做什么）</td><td>I always end up</td><td>-</td>
         <td>可能是因为（什么）</td><td>Maybe because</td><td>-</td>
-        <td>我刚刚做了（某事）</td><td>I just</td><td>-</td>
-        <td>我准备要（做某事）</td><td>I'm ready to</td><td>-</td>
     </tr>
     <tr>
         <td></td><td></td><td>-</td>
