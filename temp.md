@@ -84,6 +84,21 @@
     </tr>
     <tr>
         <td><b>我还没（做某事）</b></td><td>I still haven't</td><td>|</td>
+        <td><b>我已经（怎么样）了的</b></td><td>I've already been</td><td>|</td>
+        <td><b>我突然想起来（某件事）</b></td><td>I just forgot</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>无论我做什么</b></td><td>No matter what I do</td><td>|</td>
+        <td><b>没人能说我、没人能批评我</b></td><td>Nobody's gonna say anything to me</td><td>|</td>
+        <td><b>我已经在（什么地方）了</b></td><td>I'm already at the pst.</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>今天真的太他妈（怎么样）了</b></td><td>It's way too fucking</td><td>|</td>
+        <td><b>至少我没感觉到、至少我不觉得</b></td><td>At least I don't feel</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
@@ -161,6 +176,21 @@
     </tr>
     <tr>
         <td><b>轮到谁去（做什么）了？</b></td><td>Whose turn is it to do. ?</td><td>|</td>
+        <td><b>重要的是（某件事）</b></td><td>The important thing is</td><td>|</td>
+        <td><b>谁不在哪</b></td><td>isn't at</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>这也就代表着</b></td><td>That also means</td><td>|</td>
+        <td><b>还要多久就到什么时候、举例什么时候还有多久</b></td><td>There are still ... more days(/weeks...) until...</td><td>|</td>
+        <td><b>这里有（什么东西）</b></td><td>There is ... in here</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>还不错</b></td><td>not bad</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
@@ -1277,6 +1307,12 @@
         <td>休息一会儿</td><td><b>get some rest</b></td><td>|</td>
         <td>处理（做某事）</td><td><b>deal with</b></td><td>|</td>
         <td>需要被处理（做某事）</td><td><b>noun. to deal with</b></td><td>|</td>
+        <td>抓住扶手</td><td><b>hold the handrail</b></td><td>|</td>
+    </tr>
+    <tr>
+        <td>出很多汗</td><td><b>sweat a lot</b></td><td>|</td>
+        <td></td><td><b></b></td><td>|</td>
+        <td></td><td><b></b></td><td>|</td>
         <td></td><td><b></b></td><td>|</td>
     </tr>
     <tr>
@@ -1423,7 +1459,7 @@
     <tr>
         <td>更加安静的</td><td><b>quieter</b></td><td>quieter street</td>
         <td>|</td>
-        <td></td><td><b></b></td><td></td>
+        <td>睡醒了的</td><td><b>awake</b></td><td></td>
         <td>|</td>
         <td>小的</td><td><b>small</b></td><td>small vailion</td>
     </tr>
@@ -1465,7 +1501,7 @@
     <tr>
         <td>生病了的</td><td><b>sick</b></td><td>I'm sick</td>
         <td>|</td>
-        <td></td><td><b></b></td><td></td>
+        <td>出差了的</td><td><b>on a business trip</b></td><td></td>
         <td>|</td>
         <td></td><td><b></b></td><td></td>
     </tr>
