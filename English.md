@@ -1,327 +1,1267 @@
-<h1 style="text-align: center;">English</h1>
-
-> 动词形容表达：verb. of ：什么的什么
-动词的 -ing 形式可当形容词用
-river = 河
-sea = 海
-garden = 花园
-使用动词去关联其他事情（动词性）：started to fall
-
-<h2 style="text-align: center;">小说集</>
-
-#### A Day In the Little House:
-The morning sunlight spilled through the window onto the bed, gently waking Mia. She stretched and adjusted her pillow, then glanced at the nightstand where her laptop sat beside a piture frame. After slipping into her slippers, she walked to the bathroom sink to brush her teeth with a toothbrush and toothpaste. The mirror reflected her sleepy face as she reached for the face wash.
-
-In the kitchen, Mia turned on the induction cooker to boil water in a kettle. She grabbed a bowl and chopsticks from the drawer, then stirred oatmeal with a spoon. The range hood hummed softly as she opened the fridge for milk. Suddenly, her wireless speaker played a notification——her roomate Lily was video-calling. Mia hurried to the living room, nearly tripping over the charging cable on the computer desk.
-
-“Mia! Can you check the USB port? My mouse isn’t working!” Lily’s voice echoed through the monitor. Mia sighed and crouched under the table, fiddling with the PC case. A USB drive was plugged into the wrong port. “Fixed it!” she said, wiping dust off the keyboard.
-
-By afternoon, rain tapped against the balcony’s curtain. Mia grabbed an umbrella and stepped outside to rescue clothes from the drying rack. Back inside, she lit an incense stick to calm herself, then flopped onto the sofa with a remote to watch TV. The AC hummed faintly as she dozed off.
-
-Evening arrived. Lily returned, tossing her backpack onto the stool. They cooked stir-fry in a wok, seasoned with salt and soy sauce, while arguing over whose turn it was to take out the trash can. After dinner, Mia plugged her phone into the charger and collapsed onto the mattress, staring at the ceiling light.
-
-“Another ordinary day,” she whispered, as the switch clicked off.
-
-
-#### The Humming Apartment:
-As dawn light filtered through the keyhole of her bedroom door, Mia stumbled toward the wardrobe, her quilt still draped over her shoulders. The washing machine's rhythmic thumps downstairs vibrated through the clothes pole mounted on the ceiling. "Need to fix that door handle someday," she mumbled, nearly tripping over her mouse pad left carelessly on the floor.
-
-In the kitchen, the rice cooker chirped completion beside a stack of plates. She plugged her nasal irrigator into the socket below the microwave, its blue LED reflecting in the stainless steel dustpan leaning against the wall. A forgotten hanger swayed on the refrigerator handle like a metallic pendulum.
-
-Her gaming PC hummed awake in the study, graphics card fans whirring to life. "Where's the damn data cable?" she muttered, moving shampoo bottles and body wash containers on the desk. A towel draped over the water heater rippled as the hair dryer on the shelf suddenly tipped over.
-
-By twilight, Mia sat cross-legged on the cooler, mop leaning against the wardrobe as she wiped sweat with tissue. The microphone on her headset caught her exhausted chuckle: "Tomorrow I'll organize... maybe." Outside, the streetlamp's glow turned the window into a golden plate against the deepening blue.
-
-
-
-#### The Coxistence of Busyness and Tranquility
-
-It was a bright Saturday morning, and Mei stepped out of her apartment gate into the quiet residential area. A gentle breeze rustled the leaves in the greenbelt beside the sidewalk, and she could already hear the distant hum of traffic on the main road. Ahead, a line of streetlamps arched over the street, their tall poles casting delicate shadows even under the morning sunlight.
-
-She locked her bike in the bike shed behind the guardhouse, then crossed the street at the crosswalk toward the corner café. The signpost pointed the way: “Café Lumière →”. Inside, the warm indoor lighting and the soft glow of a pendant light over each table welcomed her. Mei ordered a latte and found a seat by the window, where she could watch the people outside strolling along the wide sidewalk.
-
-After finishing her coffee, she passed McDonald’s and KFC—both fast food restaurants marked with warning signs reminding customers to "Mind the Step". A fire hydrant stood near the curb, while a surveillance camera hung silently from a nearby signal tower. The everyday city scenes surrounded her—familiar, yet full of life.
-
-Turning onto a quieter street, Mei saw a flower bed blooming with daisies beside a small pavilion. A few elderly people were resting under it, chatting. Further ahead, a distribution box was fixed on the wall of an office building, its sleek design blending into the modern surroundings.
-
-Eventually, she arrived at the subway station. Holding the handrail, she took the escalator down into the cool, air‑conditioned interior. She passed the stairs, elevators, and tactile paving designed for the visually impaired. It was a different world underground—structured, efficient, yet quiet.
-
-After exiting the next station, rain had started to fall lightly. Clouds rolled overhead, and she walked briskly past a shopping mall where a grand chandelier lit the entrance. Reflections shimmered on manhole covers, warning lights blinked near a charging station, and the city pulsed with a quiet energy.
-
-Finally, she arrived at the library—a landmark building with a tall clock tower. The indoor warmth and soft lighting felt comforting. As she settled into a reading nook, surrounded by books and silence, she smiled. Outside, the city carried on—busy and bright. But here, she found her quiet place.
+<h1 style="text-align: center;">高频口语</h1>
 
 ---
 
-<h2 style="text-align: center;">对话集</>
+<h4 style="text-align: center;">我（第一视角）</h4>
 
-### Fried Chicken and Sunday Night Feels
+<table style="text-align: center;">
+    <tr>
+        <td><b>让我来吧</b></td><td>Let me do it</td><td>|</td>
+        <td><b>我之前一直在（做什么，已经做完了）</b></td><td>I was do.ing</td><td>|</td>
+        <td><b>我要（做某事）</b></td><td>I'm gonna</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>等我一会儿</b></td><td>wait for me</td><td>|</td>
+        <td><b>我感觉（怎么样）</b></td><td>I'm feeling</td><td>|</td>
+        <td><b>我估计要（做什么）</b></td><td>I'll probably</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我一直在（做什么，直到现在）</b></td><td>I've been do.</td><td>|</td>
+        <td><b>我已经受够了（做某事）</b></td><td>I've had enough of</td><td>|</td>
+        <td><b>我不着急</b></td><td>I'm not in a hurry</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我发现</b></td><td>I realized that</td><td>|</td>
+        <td><b>我更想（做某事）</b></td><td>I'd rather</td><td>|</td>
+        <td><b>我是不是应该（做某事）</b></td><td>Should I</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我希望你能（做某事）</b></td><td>I hope you can be</td><td>|</td>
+        <td><b>我刚做完了（某件事）</b></td><td>I just had</td><td>|</td>
+        <td><b>我也有（什么东西）</b></td><td>I've also had</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我不要（做什么）了</b></td><td>I'm done do.ing</td><td>|</td>
+        <td><b>我什么都不想做</b></td><td>I don't feel like doing anything</td><td>|</td>
+        <td><b>我真的很不想（做某事）</b></td><td>I don't really feel like do.ing</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我为什么不能（做某事）</b></td><td>Why can't I </td><td>|</td>
+        <td><b>我已经（做什么了）</b></td><td>I've already</td><td>|</td>
+        <td><b>我总是没法、我总是做不到（某件事）</b></td><td>I can never</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我已经来到（什么地方）了</b></td><td>I've gotten to the</td><td>|</td>
+        <td><b>我本来想（做什么）</b></td><td>I was supposed to</td><td>|</td>
+        <td><b>我一直在（忙什么事情）</b></td><td>I've been working on</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>如果我不用（做某事）</b></td><td>If I didn't have to</td><td>|</td>
+        <td><b>我绝对要、我一定要（做某事）</b></td><td>I'd probably</td><td>|</td>
+        <td><b>我就只是说说</b></td><td>I'm just saying</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我一直在（做什么，已经做完了）</b></td><td>I was</td><td>|</td>
+        <td><b>（搞得）我最后(总是)（做什么、怎么样）</b></td><td>I (always) end up</td><td>|</td>
+        <td><b>我之前没有、我一直没有（做什么事情）</b></td><td>I didn't</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我有点（怎么样）</b></td><td>I'm kinda</td><td>|</td>
+        <td><b>我只想（做什么）</b></td><td>I just wanna do.</td><td>|</td>
+        <td><b>导致我（做什么）</b></td><td>It caused me to</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我有（完全属于自己的什么东西）</b></td><td>I have</td><td>|</td>
+        <td><b>我有（被赋予的什么东西）</b></td><td>I get</td><td>|</td>
+        <td><b>我真的很想（做某事）</b></td><td>I'd really wanna</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>也不知道是不是我</b></td><td>Not sure if I</td><td>|</td>
+        <td><b>我一直没能（做某事）</b></td><td>I haven't been able to</td><td>|</td>
+        <td><b>我刚刚（做了什么事情）</b></td><td>I just</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我不是很想（做某事）</b></td><td>I'm not really in the mood to</td><td>|</td>
+        <td><b>我去过（什么地方）</b></td><td>I got to the ... time.</td><td>|</td>
+        <td><b>我没法接受、我受不了</b></td><td>I can't handle</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我和你说</b></td><td>let me tell you</td><td>|</td>
+        <td><b>我准备要（做某事）</b></td><td>I'm ready to</td><td>|</td>
+        <td><b>我不喜欢（做某事）</b></td><td>I don't like do.ing</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我还没（做某事）</b></td><td>I still haven't</td><td>|</td>
+        <td><b>我已经（怎么样）了的</b></td><td>I've already been</td><td>|</td>
+        <td><b>我突然想起来（某件事）</b></td><td>I just forgot</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>无论我做什么</b></td><td>No matter what I do</td><td>|</td>
+        <td><b>没人能说我、没人能批评我</b></td><td>Nobody's gonna say anything to me</td><td>|</td>
+        <td><b>我已经在（什么地方）了</b></td><td>I'm already at the pst.</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>今天真的太他妈（怎么样）了</b></td><td>It's way too fucking</td><td>|</td>
+        <td><b>至少我没感觉到、至少我不觉得</b></td><td>At least I don't feel</td><td>|</td>
+        <td><b>我可能要迟到了</b></td><td>I'm probably gonna be late</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我刚刚看了看（什么东西）</b></td><td>I just checked</td><td>|</td>
+        <td><b>我还没、我还不（怎么样）</b></td><td>I'm still not</td><td>|</td>
+        <td><b>我不仅（做什），还（做什）</b></td><td>I've not only do., but I've also do.</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我做过（这件事）</b></td><td>I did it</td><td>|</td>
+        <td><b>我到了、我已经到了</b></td><td>I'm here</td><td>|</td>
+        <td><b>我只想要（做什么）</b></td><td>I'd rather just</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我（什么时候）想要（做什么）</b></td><td>I'm going to ... time.</td><td>|</td>
+        <td><b>我得了、我生了（什么病）</b></td><td>I had a</td><td>|</td>
+        <td><b>我大部分的（什么东西）</b></td><td>most of my</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我是不是应该（做某事）</b></td><td>Whether I should</td><td>|</td>
+        <td><b>我为什么不能、我为什么不可以（做某事）</b></td><td>Why can't I ... ?</td><td>|</td>
+        <td><b>你能（做某事）吗</b></td><td>Can you ... ?</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我还在（做什么）</b></td><td>I'm still do.ing</td><td>|</td>
+        <td><b>我先（做什么）</b></td><td>I'll take ... first</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
 
-**1- Ryan**:  Why can’t I say “instant noodles”
-**1- Max**: Because instant noodles are the food equivalent of texting your ex. Easy, salty, kinda satisfying, but you always regret it after. 😤
+---
 
-**2- Ryan**: let me see....ha, there are some ice rice
-**2- Max**: You mean iced rice like cold rice straight from the fridge?
+<h4 style="text-align: center;">你（第二视角）</h4>
 
-**3- Ryan**: actually，it's indeed this 'ice' rice, maybe you should try using your teeth directly...
-**3- Max**: Just chomping on frozen rice like it’s some crunchy snack? That’s hardcore.
+<table style="text-align: center;">
+    <tr>
+        <td><b>换你来（做）</b></td><td>your turn</td><td>|</td>
+        <td><b>你就不能（做某事）吗</b></td><td>Can't you just...?</td><td>|</td>
+        <td><b>你有没有（做某事）</b></td><td>Don't you</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>你懂的</b></td><td>you know</td><td>|</td>
+        <td><b>你要（做什么吗）？</b></td><td>You're gonna</td><td>|</td>
+        <td><b>你不需要（做某事）</b></td><td>You don't need to</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>你能不能（做什么）</b></td><td>Can you <i>do.</i></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
 
-**4- Ryan**: Hahahaha, no, maybe we can thinking about going out
-**4- Max**: Where we thinking?
+---
 
-**5- Ryan**: How about fast food restaurant?
-**5- Max**: Solid choice.
+<h4 style="text-align: center;">我们</h4>
 
-**6- Ryan**: I wanna go eat some Chinese food
-**6- Max**: Chinese food? Now you’re talking.
+<table style="text-align: center;">
+    <tr>
+        <td><b>我们之后（在做什么）吧</b></td><td>Let's do. again time.</td><td>|</td>
+        <td><b>我们通常、我们一般</b></td><td>We usually</td><td>|</td>
+        <td><b>别担心</b></td><td>Don't worry</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>全部都是、全都是</b></td><td>It's all like that</td><td>|</td>
+        <td><b>就这样吧</b></td><td>Alright then</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
 
-**7- Ryan**: Ahahahha, I wanna eat fry chicken
-**7- Max**: Fried chicken? Classic move
+---
 
-**8- Ryan**: then...you pick
-**8- Max**: Let’s ditch the usual and hit up that small joint downtown
+<h4 style="text-align: center;">陈述表达（第三视角）</h4>
 
-**9- Ryan**: That's sound good, gogogogo
-**9- Max**: Let’s roll
-
-**10- Ryan**: wait..., I forgot where my keys are
-**10- Max**: Check your jacket pocket, or under a pile of laundry
-
-**11- Ryan**: I found them, they were in my pocket
-**11- Max**: Knew it. Classic move
-
-**12- Ryan**: It's really hot outside today, we'd better drive
-**12- Max**: Let’s take the car—AC on full blast
-
-**13- Ryan**: Let me do it, I just got my driver's license
-**13- Max**: No way—congrats, man!
-
-**14- Ryan**: on the way...". Hey bro, how about we pick a song?
-**14- Max**: What vibe you feeling?
-
-**15- Ryan**: pick your favorite song
-**15- Max**: “Electric Feel” by MGMT.
-
-**16- Ryan**: Your taste is terrible. Let me pick! ... love story
-**16- Max**: “Love Story” it is.
-
-**17- Ryan**: come on!! "We were both young when I first saw you", your turn
-**17- Max**: “I close my eyes and the flashback starts...”
-
-**18- Ryan**: "I'm standing there on a balcony in summer air"!! your turn!
-**18- Max**: “See the lights, see the party, the ball gowns...”
-
-**19- Ryan**: careful! Slow down bro, you were going over 120 km/h just now
-**19- Max**: Whoa, my bad! Slowing down
-
-**20- Ryan**: I'm good. Just hungrier now
-**20- Max**: Same here
-
-**21- Ryan**: Gotta have something spicy bro
-**21- Max**: Spicy it is.
-
-**22- Ryan**: I wanna get a coke
-**22- Max**: Classic combo.
-
-**23- Ryan**: just park here, put the stuff in the car first, and we'll grab it after we eat
-**23- Max**: Quick drop-off, then we can chill.
-
-**24- server**: (server scene): What can I get for you?
-**24- Max**: I’ll take a spicy fried chicken combo with a Coke.
-
-**25- Ryan**: me too bro
-**25- Max**: Two spicy fried chicken combos with Cokes.
-
-**26- Ryan**: There's a seat by the window. Let's sit there
-**26- Max**: Good call
-
-**27- Ryan**: How about we go back and play game after we finish eating? We still haven't beaten "A Way Out" from last time
-**27- Max**: Time to head back, boot up the game
-
-**28- Ryan**: I'm full, wanna go back now?
-**28- Max**: Let’s bounce
-
-**29- Ryan**: bro Don't you think It's hot today?
-**29- Max**: For sure
-
-**30- Ryan**: I‘m still not ready, bro. Can't you just turn on the AC? I need the cold air to survive, bro
-**30- Max**: AC’s blasting now
-
-**31- Ryan**: I'm feeling much better now. It takes about 10 minutes to get back from here. I'll take a quick nap first
-**31- Max**: Catch those z’s—10 minutes is prime power-nap time
-
-**32- Ryan**: I hope I can fall asleep. I've been staying up these few days and haven't really rested
-**32- Max**: Even just shutting down for a few minutes helps
-
-**33- Ryan**: Don't worry, I'm feeling much better after having that fried chicken. It works way better than seeing a doctor or taking medicine
-**33- Max**: Fried chicken: the real MVP of healthcare.
-
-**34- Ryan**: We're here. I'll turn on the AC first. Then wait for me, I'll use the bathroom real quick, and we can boot up the PC and start gaming
-**34- Max**: I’ll get the setup ready
-
-**35- Ryan**: In two hours... I'm so tired, bro. I'm done playing. I'm gonna take a shower and go to bed
-**35- Max**: Sleep tight, don’t let Monday bite
-
-**36- Ryan**: I'm not in a hurry, bro. I don't really feel like sleeping tonight. Tomorrow is Monday and I have to work, so I'll probably stay up for a bit
-**36- Max**: That weird Sunday night mood—too tired to do anything, too stubborn to sleep
-
-**37- Ryan**: Thank, bro. but no, I don't feel like doing anything. every sunday night, I just wanna chill alone on the couch and scroll TikTok
-**37- Max**: Sometimes doing nothing is exactly what you need
-
-**38- Ryan**: No, you know bro, my TikTok is always full of cats, dogs, and other pets
-**38- Max**: Animals are the ultimate mood boosters
-
-**39- Ryan**: Yeah, it's all like that. Actually, I'd rather watch those cute pretty girls' videos, oh, bro, what time is it? Should I go to bed?
-**39- Max**: It’s getting late, bro. If you gotta be up early tomorrow, might be a good move to start winding down
-
-**40- Ryan**: alright then, bro, good night
-**40- Max**: Sleep well, bro. Good night
-
-
-<h2 style="text-align: center;">名词表</h2>
-
-#### 家居布局
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|room|房间|/|living room|客厅|/|bed room|卧室|/|
-|bathroom / toilet|卫生间|/|kitchen|厨房|/|balcony|阳台|/|
-|computer|电脑|/|laptop|笔记本电脑|/|tablet|平板电脑|/|
-|pc case|电脑主机|/|keyboard|键盘|/|mouse|鼠标|/|
-|monitor|显示器|/|monitor stand|显示器支架|/|screen|屏幕|/|
-|speaker|音响|/|microphone/mic|麦克风|/|USB/thumb drive|U盘|/|
-|USB port|USB接口|/|power button|开机键|/|RAM|内存|/|
-|Cooler|散热器|/|Graphics Card|显卡|/|Mainboard|主板|/|
-|Power Supply|电源|/|CPU|中央处理器|/|Hard Drive|硬盘|/|
-|Wireless Mouse|无线鼠标|/|Wireless Keyboard|无线键盘|/|Wireless Speaker|无线音响|/|
-|Table|桌子|/|Computer Desk|电脑桌|/|Laptop Stand|笔记本支架|
-|Computer Stand|显示器支架|/|Mouse Pad|鼠标垫|/|Charger|充电器|/|
-|Socket|插座|/|wire|电线|/|Charging Cable|充电线|/|
-|Power Cable|电源线|/|Data Cable|数据线|/|Pillow|枕头|/|
-|Bed|床|/|Mattress|床垫|ˈmætrəs|Quilt|被子|kroult|
-|Nightstand|床头柜|/|Drawer|抽屉|/|Bookshelf|书架|/|
-|Door|门|/|Door Handle|门把手|/|Keyhole|钥匙孔|/|
-|Light|灯|/|Switch|开关|/|AC|空调|/|
-|Wardrobe|衣柜|/|fridge(refrigerator)|冰箱|/|Sofa|沙发|\|
-|Window|窗户|/|Curtain|窗帘|/|Drying Rack|晾衣架|/|
-|Clothes pole|撑衣杆|/|Washing Machine|洗衣机|/|Stool|凳子|/|
-|hanger|衣架|/|Induction Cooker|电磁炉|/|Bowl|碗|/|
-|Plate|碟子|/|Rice Cooker|电饭锅|/|Range Hood|抽油烟机|/|
-|Wok|炒锅|/|Hair Dryer|电吹风|/|Kettle|热水壶|/|Faucet/Tap|水龙头|/|
-|Nasal Irrigator|洗鼻器|ˈneɪzl ˈɪrəˌgeɪtər|Water Heater|电热水器|/|Bathroom Sink|洗漱台|/|
-|Mirror|镜子|/|Sink|水槽|/|Shelf|置物架|/|
-|Toothbrush|牙刷|/|Toothpaste|牙膏|/|Cup|杯子|/|
-|Face Wash|洗面奶|/|Body Wash|沐浴露|/|shampoo|洗发水|/|
-|Razor|手动剃须刀|/|Electric Shaver|电动剃须刀|/|Shaving Cream|剃须膏|/|
-|Towel|毛巾|/|Showerhead|花洒头|/|Squat Toilet|蹲厕|/|
-|Pipe|管|/|Water Pipe|水管|/|Tissue|抽纸|/|
-|windowsill|窗台|/|Trash Can|垃圾桶|/|Broom|扫把|/|
-|Mop|拖把|/|Dustpan|垃圾铲|/|Peanut Oil|花生油|/|
-|Salt|盐|/|Soy Sauce|酱油|/|Oyster Sauce|耗油|/|
-|White Sugar|白糖|/|Chicken Bouillon|鸡精|/|Spatula|锅铲|/|
-|Spoon|勺子|/|Chopsticks|筷子|/|Fork|叉子|/|
-|Lid|盖子|/|Knife|刀|/|Chef's Knife|菜刀|/|
-|Fruit Knife|水果刀|/|Slotted Spoon|漏勺|/|Gloves|手套|/|
-|Seasoning|调味料|/|Incense|香薰|ˈɪnsens|Remote|遥控器|/|
-|Yoga Mat|瑜伽垫|/|Chair|椅子|/|Picture frame|相框|/|
-|Trash back|垃圾袋|/|Umbrella|雨伞|/|Bottle opener|开瓶器|/|
-|backpack|背包|/|dust|灰尘|/|incense stick|（线型的）香薰|
-|TV|电视|/|ceiling|天花板|/|pendulum|摆钟|ˈpendʒələm|
-|study|书房|/|fan|风扇|/|bottle|瓶子|/|
-|headset|耳麦（老式的有麦克风的耳机）|/|step|台阶|/|clock|钟|/|
-
-#### 外部
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|streetlamp|路灯|/|Café、Coffee shop|咖啡厅|/|shop|商店|/|
-|library|图书馆|/|road|马路|/|Crosswalk|斑马线|/|
-|street|街道|/|wall|墙|/|signpost、road sign|指路牌|/|
-|building|大楼|/|tower|超高的楼或塔|/|office building|写字楼|
-|guardhouse、security booth|门卫厅|/|fence|护栏|/|subway station|地铁站|/|
-|bus stop|工作站|/|sidewalk|人行道|/|residential area|小区|ˌrezɪˈdenʃəl ˈeəriə|
-|village|村子|ˈvɪlɪdʒ|bike shed|停车棚|baɪk ʃed|parking lot|停车场|/|
-|park|公园|/|signal tower|信号塔|/|flower bed|花圃|/|
-|greenbelt|绿化带|/|shopping mall|商场|fast food restaurant|快餐店|
-|McDonald's|麦当劳|məkˈdɒnəldz|KFC|肯德基|/|Pavilion|亭子|pəˈvɪliən|
-|surveillance camera|监控摄像头|sɜːrˈveɪləns ˈkæmərə|fire hydrant|消防栓|/|warning sign|警示牌|/|
-|manhole cover|井盖|/|Guardrail|马路围栏|ˈɡɑːrdreɪl|elevator|电梯|/|
-|escalator|电扶梯|/|stairs|楼梯|/|bubble tea shop|奶茶|/|
-|restaurant|饭店|/|food street|小吃街|/|indoor|室内|/|
-|outdoor|室外|/|sunlight|阳光|/|moonlight|月光|/|
-|sky|天空|/|night|黑夜|/|pendant light|（简约的）吊灯|/|
-|chandelier|（华丽的）吊灯|ˌʃændəˈlɪər|handrail|（扶手式）护栏|/|guardrail|（完全遮挡的）护栏|/|
-|substation|变电站|/|distribution box|配电箱|/|cloud|云|/|
-|rain|雨|/|snow|雪|/|hail|冰雹|/|
-|Central AC|中央空调|/|lantern|灯笼|/|lighting|灯光|/|
-|reflection|反光|/|police station|警察局|/|warning light|警示灯|/|
-|fire extinguisher cabinet|灭火器箱|/|lawn|草地|/|landmark|地标|/|
-|charging station|充电站|/|tactile paving|盲道|/|gate（barrier）|闸门|/|
-|leaves|树叶、叶子|/|traffic|交通|/|hum of traffic|车流声|/|
-|pole|柱子|/|shadow|影子、阴影|/|corner|（墙和墙之间的）角落|/|
-|way|路|/|seat|座位|/|warning|警告|/|
-|sign|牌子|/|curb|边边|/|city|城市|/|
-|scene|景象、场景|siːn|flower|花|/|modern surroundings|现代建筑|/|
-|interior|内部|ɪnˈtɪriə(r)|entrance|入口|/|landmark building|地标性建筑|/|
-|clock tower|钟楼|/|nook|（安静隐蔽的）角落|nʊk|place|地方|/|
+<table style="text-align: center;">
+    <tr>
+        <td><b>都准备好了</b></td><td>All set</td><td>|</td>
+        <td><b>（独立的）大概</b></td><td>It takes about</td><td>|</td>
+        <td><b>那时候</b></td><td>That when</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>不太顺利</b></td><td>It didn't go very well</td><td>|</td>
+        <td><b>虽然不是</b></td><td>It wasn't</td><td>|</td>
+        <td><b>那边就是，到那里就是（什么）</b></td><td>There's the</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>轮到谁去（做什么）了？</b></td><td>Whose turn is it to do. ?</td><td>|</td>
+        <td><b>重要的是（某件事）</b></td><td>The important thing is</td><td>|</td>
+        <td><b>谁不在哪</b></td><td>isn't at</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>这也就代表着</b></td><td>That also means</td><td>|</td>
+        <td><b>还要多久就到什么时候、举例什么时候还有多久</b></td><td>There are still ... more days(/weeks...) until...</td><td>|</td>
+        <td><b>这里有（什么东西）</b></td><td>There is ... in here</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>还不错</b></td><td>not bad</td><td>|</td>
+        <td><b>现在已经差不多</b></td><td>It's already almost</td><td>|</td>
+        <td><b>只是因为（事件）</b></td><td>It's just that</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>每天都这样</b></td><td>It's like this every day</td><td>|</td>
+        <td><b>要不...</b></td><td>How about</td><td>|</td>
+        <td><b>似乎</b></td><td>It feel like</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>主要是</b></td><td>Mainly just</td><td>|</td>
+        <td><b>纯粹是因为</b></td><td>It's just because</td><td>|</td>
+        <td><b>可能是因为</b></td><td>Maybe because</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>至今为止，还</b></td><td>It's been going ... so far</td><td>|</td>
+        <td><b>主要是</b></td><td>The main thing is</td><td>|</td>
+        <td><b>全都是（什么东西）</b></td><td>It's always full of</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>不着急</b></td><td>take your time</td><td>|</td>
+        <td><b>这是（什么）</b></td><td>Here's</td><td>|</td>
+        <td><b>全部都、全都（怎么样了）</b></td><td>everything's</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>确实是这样</b></td><td>It's indeed this</td><td>|</td>
+        <td><b>就是这（什么）</b></td><td>It's this</td><td>|</td>
+        <td><b>不（怎样），也不（怎样）</b></td><td>neither ... nor ...</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>一个个来把</b></td><td>One thing at a time</td><td>|</td>
+        <td><b>身边都是（什么东西）</b></td><td>surrounded by</td><td>|</td>
+        <td><b>那种什么样的什么</b></td><td>the kind of ... who ...</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>比如</b></td><td>just like</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
 
 
-#### 可食用产品
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|oatmeal|燕麦|ˈoʊtmiːl|stir-fry|炒菜|/|dinner|晚饭|/|
-|latte|拿铁|/|coffee|咖啡|/|instant noodles|方便面|/|
-|Chinese food|中国菜|/|fast food|快餐|/|fried chicken|炸鸡|/|
+---
 
-#### 电子产品
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|notification|提示声（如微信、QQ的声音）|/|port|接口|/|
+<h4 style="text-align: center;">陈述疑问</h4>
 
-#### 人物关系
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|roomate|室友|/|customer|客人|/|
+<table style="text-align: center;">
+    <tr>
+        <th>疑问</th><th>表达句</th><th>例句</th><th>|</th>
+        <th>疑问</th><th>表达句</th><th>例句</th><th>|</th>
+        <th>疑问</th><th>表达句</th><th>例句</th><th>|</th>
+    </tr>
+    <tr>
+        <td><b>（某个东西）在哪里</b></td><td>Where's the</td><td>Where's the my bag?</td><td>|</td></td>
+        <td><b>谁的（什么东西）</b></td><td>Whose</td><td>Whose bag is this?</td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+    </tr>
+</table>
 
-#### 器官组织
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|shoulder|肩膀|ˈʃoʊldər|
+---
 
-#### 生命集
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|voice|声音|/|sweat|汗|/|people|人|/|
-|daisy|雏菊|ˈdeɪzi|elderly people|老年人|/|old man|老家伙|/|
+<h4 style="text-align: center;">高频口语用词</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>就</b></td><td>just</td><td>|</td>
+        <td><b>而</b></td><td>while</td><td>|</td>
+        <td><b>当</b></td><td>As</td><td>|</td>
+        <td><b>然后</b></td><td>then</td><td>|</td>
+        <td><b>又是</b></td><td>another</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>说实话、讲真的</b></td><td>Honestly</td><td>|</td>
+        <td><b>连</b></td><td>that even</td><td>|</td>
+        <td><b>也许、可能</b></td><td>maybe</td><td>|</td>
+        <td><b>实际上、确实</b></td><td>actually</td><td>|</td>
+        <td><b>除了</b></td><td>except for</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>除非</b></td><td>unless</td><td>|</td>
+        <td><b>却又</b></td><td>yet</td><td>|</td>
+        <td><b>为了（谁）</b></td><td>for</td><td>|</td>
+        <td><b>（把什么东西）给（谁）</b></td><td>for</td><td>|</td>
+        <td><b>（我）能</b></td><td>can</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>（谁）最好（做什么）</b></td><td>'d better</td><td>|</td>
+        <td><b>（三方）被怎样</b></td><td>was</td><td>|</td></td>
+    </tr>
+</table>
+
+---
+
+<h1 style="text-align: center;">核心语法</h1>
+
+---
+
+<h3 style="text-align: center;">表达</h3>
+
+---
+
+<h4 style="text-align: center;">行为动作表达</h4>
+
+#### 单动词
+
+<table style="text-align: center;">
+    <tr>
+        <th>行为</th><th>核心词</th><th>|</th>
+        <th>行为</th><th>核心词</th><th>|</th>
+        <th>行为</th><th>核心词</th><th>|</th>
+        <th>行为</th><th>核心词</th><th>|</th>
+    </tr>
+    <tr>
+        <td><b>驾驶（飞行工具）</b></td><td>fly</td><td>|</td>
+        <td><b>拉伸</b></td><td>stretch</td><td>|</td>
+        <td><b>调整</b></td><td>adjust</td><td>|</td>
+        <td><b>看了看</b></td><td>glance</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>（迅速的）穿</b></td><td>slip</td><td>|</td>
+        <td><b>走</b></td><td>walk</td><td>|</td>
+        <td><b>（大迈步的）走</b></td><td>step</td><td>|</td>
+        <td><b>刷</b></td><td>brush</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>（镜面）照出、反射出</b></td><td>reflect</td><td>|</td>
+        <td><b>伸手</b></td><td>reach</td><td>|</td>
+        <td><b>拿</b></td><td>grab</td><td>|</td>
+        <td><b>发出嗡嗡声</b></td><td>hum</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>打开</b></td><td>open</td><td>|</td>
+        <td><b>播放</b></td><td>play</td><td>|</td>
+        <td><b>检查、简单看了看</b></td><td>check</td><td>|</td>
+        <td><b>（声音）传来</b></td><td>echo</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>叹气</b></td><td>sign</td><td>|</td>
+        <td><b>弯腰蹲下</b></td><td>crouch</td><td>|</td>
+        <td><b>插</b></td><td>plug</td><td>|</td>
+        <td><b>维修</b></td><td>fix</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>说</b></td><td>say</td><td>|</td>
+        <td><b>擦</b></td><td>wipe</td><td>|</td>
+        <td><b>拍打</b></td><td>tap</td><td>|</td>
+        <td><b>抢救</b></td><td>rescue</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>回到（什么东西）</b></td><td>back</td><td>|</td>
+        <td><b>点（燃）</b></td><td>lit</td><td>|</td>
+        <td><b>冷静</b></td><td>calm</td><td>|</td>
+        <td><b>（累得）瘫倒</b></td><td>flop</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>看</b></td><td>watch</td><td>|</td>
+        <td><b>打瞌睡</b></td><td>doze</td><td>|</td>
+        <td><b>到达</b></td><td>arrive</td><td>|</td>
+        <td><b>回来</b></td><td>return</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>扔</b></td><td>toss</td><td>|</td>
+        <td><b>煮（东西）、烧（水）</b></td><td>cook</td><td>|</td>
+        <td><b>争吵、吵架</b></td><td>argue</td><td>|</td>
+        <td><b>（因为疲惫的）倒下</b></td><td>collapse</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>盯着</b></td><td>stare</td><td>|</td>
+        <td><b>低声细语</b></td><td>whisper</td><td>|</td>
+        <td><b>按下、点击</b></td><td>click</td><td>|</td>
+        <td><b>过滤</b></td><td>filter</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>（跌跌撞撞的）走</b></td><td>stumble</td><td>|</td>
+        <td><b>挂</b></td><td>drape</td><td>|</td>
+        <td><b>震动</b></td><td>vibrate</td><td>|</td>
+        <td><b>装</b></td><td>mount</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>嘟囔</b></td><td>mumble</td><td>|</td>
+        <td><b>发出（提示性的）声音</b></td><td>chirp</td><td>|</td>
+        <td><b>完成、做完（某件事）</b></td><td>complete</td><td>|</td>
+        <td><b>整理</b></td><td>stack</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>靠（在什么地方）</b></td><td>lean</td><td>|</td>
+        <td><b>忘记</b></td><td>forget</td><td>|</td>
+        <td><b>（轻微的）摇摆</b></td><td>sway</td><td>|</td>
+        <td><b>唤醒、醒来</b></td><td>awake</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>发出呼呼声</b></td><td>whir</td><td>|</td>
+        <td><b>抱怨</b></td><td>mutter</td><td>|</td>
+        <td><b>挪动</b></td><td>move</td><td>|</td>
+        <td><b>飘动</b></td><td>ripple</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>坐</b></td><td>sit</td><td>|</td>
+        <td><b>听到</b></td><td>hear</td><td>|</td>
+        <td><b>投影、投射</b></td><td>cast</td><td>|</td>
+        <td><b>沙沙作响</b></td><td>rustle</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>锁</b></td><td>lock</td><td>|</td>
+        <td><b>穿过</b></td><td>cross</td><td>|</td>
+        <td><b>指向</b></td><td>point</td><td>|</td>
+        <td><b>找</b></td><td>find</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>欢迎</b></td><td>welcome</td><td>|</td>
+        <td><b>点（餐）</b></td><td>order</td><td>|</td>
+        <td><b>散步</b></td><td>stroll</td><td>|</td>
+        <td><b>完成</b></td><td>finish</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>路过</b></td><td>pass</td><td>|</td>
+        <td><b>提醒</b></td><td>remind</td><td>|</td>
+        <td><b>注意</b></td><td>mind</td><td>|</td>
+        <td><b>立</b></td><td>stand</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>挂</b></td><td>hung</td><td>|</td>
+        <td><b>围绕</b></td><td>surround</td><td>|</td>
+        <td><b>（向哪个方向）转</b></td><td>turn</td><td>|</td>
+        <td><b>看见</b></td><td>see</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>盛开</b></td><td>bloom</td><td>|</td>
+        <td><b>休息</b></td><td>rest</td><td>|</td>
+        <td><b>聊天</b></td><td>chat</td><td>|</td>
+        <td><b>固定</b></td><td>fix</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>混合</b></td><td>blend</td><td>|</td>
+        <td><b>扶着、抓住</b></td><td>hold</td><td>|</td>
+        <td><b>乘坐</b></td><td>take</td><td>|</td>
+        <td><b>离开</b></td><td>exit</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>开始</b></td><td>start</td><td>|</td>
+        <td><b>下落</b></td><td>fall</td><td>|</td>
+        <td><b>滚（动）</b></td><td>roll</td><td>|</td>
+        <td><b>闪闪发光</b></td><td>shimmer</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>闪烁</b></td><td>blink</td><td>|</td>
+        <td><b>跳动</b></td><td>pulse</td><td>|</td>
+        <td><b>感觉</b></td><td>feel</td><td>|</td>
+        <td><b>适应</b></td><td>settle</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>读</b></td><td>read</td><td>|</td>
+        <td><b>微笑</b></td><td>smile</td><td>|</td>
+        <td><b>轻笑</b></td><td>chuckle</td><td>|</td>
+        <td><b>发出微光</b></td><td>glow</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>捕获、抓取</b></td><td>catch</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+
+</table>
+
+#### 高频组词
+
+<table style="text-align: center;">
+    <tr>
+        <th>行为</th><th>核心词</th>
+        <th>|</th>
+        <th>行为</th><th>核心词</th>
+        <th>|</th>
+        <th>行为</th><th>核心词</th>
+        <th>|</th>
+        <th>行为</th><th>核心词</th>
+        <th>|</th>
+    </tr>
+    <tr>
+        <td><b>下班</b></td><td>get off work</td><td>|</td>
+        <td><b>上厕所</b></td><td>use the bathroom</td><td>|</td>
+        <td><b>出门散步</b></td><td>go out for a walk</td><td>|</td>
+        <td><b>上号</b></td><td>got online</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>加班</b></td><td>work overtime</td><td>|</td>
+        <td><b>熬夜</b></td><td>stay up</td><td>|</td>
+        <td><b>摸鱼</b></td><td>slack off</td><td>|</td>
+        <td><b>做事情</b></td><td>take things</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>到哪里</b></td><td>get to the</td><td>|</td>
+        <td><b>等同于、相当于</b></td><td>be the equivalent</td><td>|</td>
+        <td><b>考虑</b></td><td>think about</td><td>|</td>
+        <td><b>视频电话</b></td><td>video-call</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>继续（忙什么）</b></td><td>carry on</td><td>|</td>
+        <td><b>呈拱形排列在（什么地方）</b></td><td>arch over the</td><td>|</td>
+        <td><b>带走（什么东西）</b></td><td>take out the</td><td>|</td>
+        <td><b>让（什么）变成（什么）</b></td><td>turn the ... into</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>加（什么）调料</b></td><td>season with</td><td>|</td>
+        <td><b>被（什么）绊倒</b></td><td>trip over the</td><td>|</td>
+        <td><b>摆弄（什么东西）</b></td><td>fiddle with the</td><td>|</td>
+        <td><b>让（谁）醒来</b></td><td>wake ... up</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>打开（什么电器）</b></td><td>turn on the</td><td>|</td>
+        <td><b>感觉有点（怎么样）</b></td><td>feel kind of</td><td>|</td>
+        <td><b>没法得到</b></td><td>don't get</td><td>|</td>
+        <td><b>选择</b></td><td>go for</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>抬头（看）</b></td><td>look up</td><td>|</td>
+        <td><b>整理文件</b></td><td>sort files</td><td>|</td>
+        <td><b>睡觉</b></td><td>go to bed</td><td>|</td>
+        <td><b>给你看</b></td><td>show you</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>找（什么东西）</b></td><td>looking for</td><td>|</td>
+        <td><b>感觉有点（怎么样）</b></td><td>feeling kinda</td><td>|</td>
+        <td><b>（三方）让我去（做某事）</b></td><td>tells me to</td><td>|</td>
+        <td><b>休息一会儿</b></td><td>get some rest</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>处理（做某事）</b></td><td>deal with</td><td>|</td>
+        <td><b>（某事）需要被处理</b></td><td>noun. to deal with</td><td>|</td>
+        <td><b>抓住扶手</b></td><td>hold the handrail</td><td>|</td>
+        <td><b>就像是（什么）一样</b></td><td>keep it like</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>出很多汗</b></td><td>sweat a lot</td><td>|</td>
+        <td><b>吐槽</b></td><td>complain about</td><td>|</td>
+        <td><b>午休</b></td><td>take a noon break</td><td>|</td>
+        <td><b>伸手去拿（什么东西）</b></td><td>reach for</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>（因为什么而）吵架</b></td><td>argue for the</td><td>|</td>
+        <td><b>打翻（什么东西）</b></td><td>tip over the</td><td>|</td>
+        <td><b>整理</b></td><td>organize</td><td>|</td>
+        <td><b>慢下来、慢一点</b></td><td>slow down</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>烧水</b></td><td>boil water</td><td>|</td>
+        <td><b>总是没办法、从来都没能<br>（做到某事）</br></b></td><td>never manage to</td><td>|</td>
+        <td><b>回家</b></td><td>get home</td><td>|</td>
+        <td><b>get to the</b></td><td>去到（什么地方）</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>吃早餐、吃早饭</b></td><td>have breakfast</td><td>|</td>
+        <td><b>吃午餐、吃午饭</b></td><td>have lunch</td><td>|</td>
+        <td><b>吃晚餐、吃晚饭</b></td><td>have dinner</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h4 style="text-align: center;">形容描述表达</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <th>描述</th><th>核心词</th>
+        <th>|</th>
+        <th>描述</th><th>核心词</th>
+        <th>|</th>
+        <th>描述</th><th>核心词</th>
+        <th>|</th>
+        <th>描述</th><th>核心词</th>
+        <th>|</th>
+    </tr>
+    <tr>
+        <td><b>困的</b></td><td>sleepy</td><td>|</td>
+        <td><b>错的</b></td><td>wrong</td><td>|</td>
+        <td><b>普通的、平凡的</b></td><td>orginary</td><td>|</td>
+        <td><b>有规律的</b></td><td>rhythmic</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>金属的</b></td><td>metallic</td><td>|</td>
+        <td><b>该死的</b></td><td>damn</td><td>|</td>
+        <td><b>精疲力尽的、很累了的</b></td><td>exhausted</td><td>|</td>
+        <td><b>金色的</b></td><td>golden</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>逐渐变深的</b></td><td>deepening</td><td>|</td>
+        <td><b>明亮的、亮的</b></td><td>bright</td><td>|</td>
+        <td><b>安静的</b></td><td>quiet</td><td>|</td>
+        <td><b>轻轻的、轻柔的</b></td><td>gentle</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>远处的、远方的</b></td><td>distant</td><td>|</td>
+        <td><b>主要的</b></td><td>main</td><td>|</td>
+        <td><b>高的</b></td><td>tall</td><td>|</td>
+        <td><b>暗淡的</b></td><td>delicate</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>精致的</b></td><td>delicate</td><td>|</td>
+        <td><b>温暖的</b></td><td>warm</td><td>|</td>
+        <td><b>宽的</b></td><td>wide</td><td>|</td>
+        <td><b>很多的</b></td><td>a lot of</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>附近的</b></td><td>nearby</td><td>|</td>
+        <td><b>日常的</b></td><td>everyday</td><td>|</td>
+        <td><b>熟悉的</b></td><td>familiar</td><td>|</td>
+        <td><b>更安静的</b></td><td>quieter</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>睡醒了的</b></td><td>awake</td><td>|</td>
+        <td><b>年纪大的、老的</b></td><td>eldderly</td><td>|</td>
+        <td><b>流畅的、顺畅的</b></td><td>sleek</td><td>|</td>
+        <td><b>现代的</b></td><td>modern</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>凉爽的</b></td><td>cool</td><td>|</td>
+        <td><b>结构清晰的</b></td><td>structured</td><td>|</td>
+        <td><b>高效率的</b></td><td>efficient</td><td>|</td>
+        <td><b>下一个的</b></td><td>next</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>华丽的</b></td><td>grand</td><td>|</td>
+        <td><b>柔和的</b></td><td>soft</td><td>|</td>
+        <td><b>令人心安的</b></td><td>comforting</td><td>|</td>
+        <td><b>经典的、古典的</b></td><td>classic</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>冰冻的、冰的、冰冷的</b></td><td>ice</td><td>|</td>
+        <td><b>生病了的</b></td><td>sick</td><td>|</td>
+        <td><b>出差了的</b></td><td>on a businesss trip</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>被（什么东西）标记的</b></td><td>marked with ... sign</td><td>|</td>
+        <td><b>感觉状态好多了的（人）</b></td><td>feeling better</td><td>|</td>
+        <td><b>顺利的</b></td><td>pretty well</td><td>|</td>
+        <td><b>有视觉障碍的</b></td><td>visually impaired</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>（什么花）盛开着的</b></td><td>a blooming with ...</td><td>|</td>
+        <td><b>充满生机的、生机勃勃的</b></td><td>full of life</td><td>|</td>
+        <td><b>装有空调的</b></td><td>air-conditioned</td><td>|</td>
+        <td><b>各种各样的</b></td><td>all kinds of</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>呼吸困难的</b></td><td>short of breath</td><td>|</td>
+        <td><b>（从什么地方，用走的方式）离开</b></td><td>step out of</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h4 style="text-align: center;">数量表达</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>每</b></td><td>each</td><td>each table</td><td>每张桌子</td><td>|</td>
+        <td><b>两</b></td><td>both</td><td>both fast food restaurant</td><td>两家餐厅</td><td>|</td>
+        <td><b>几个</b></td><td>few</td><td>few elderly people</td><td>两个老人</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>竖直一排</b></td><td>a line of</td><td>a line of steetlamps</td><td>一排路灯</td><td>|</td>
+        <td><b></b></td><td></td><td></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">补充</h3>
+
+---
+
+<h4 style="text-align: center;">行为程度补充</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <th>描述</th><th>核心词</th>
+        <th>|</th>
+        <th>描述</th><th>核心词</th>
+        <th>|</th>
+        <th>描述</th><th>核心词</th>
+        <th>|</th>
+        <th>描述</th><th>核心词</th>
+        <th>|</th>
+    </tr>
+    <tr>
+        <td>（动作）<b>轻轻地</b></td><td>gently</td><td>|</td>
+        <td>（物理现象）<b>轻轻地</b></td><td>lightly</td><td>|</td>
+        <td>（心态）<b>随意地</b></td><td>carelessly</td><td>|</td>
+        <td><b>突然地</b></td><td>suddenly</td><td>|</td>
+    </tr>
+    <tr>
+        <td>（心态）<b>轻快地</b></td><td>briskly</td><td>|</td>
+        <td>（行为）<b>悄悄地</b></td><td>silently</td><td>|</td>
+        <td>（物理现象）<b>隐约</b></td><td>faintly</td><td>|</td>
+        <td><b>柔和地</b></td><td>softly</td><td>|</td>
+    </tr>
+    <tr>
+        <td>（位置与数量）<b>差一点</b></td><td>nearly</td><td>|</td>
+        <td><b>已经</b></td><td>already</td><td>|</td>
+        <td><b>进一步</b></td><td>further</td><td>|</td>
+        <td>（进度）<b>最终</b></td><td>eventually</td><td>|</td>
+    </tr>
+    <tr>
+        <td>（结果）<b>终于</b></td><td>finally</td><td>|</td>
+        <td>（坐姿）<b>盘着腿</b></td><td>cross-legged</td><td>|</td>
+        <td><b>几乎没有</b></td><td>barely</td><td>|</td>
+        <td>（频次）<b>总是</b></td><td>always</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+
+</table>
+
+---
+
+<h4 style="text-align: center;">行为路径补充</h4>
 
 
-#### 自然现象
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|rain|雨|/|thump|撞击声/闷响|θʌmp|breeze|微风|/|
-|warmth|温暖|/|silence|寂静、安静|/|
+<table style="text-align: center;">
+    <tr>
+        <th>路径</th><th>核心词</th>
+        <th>|</th>
+        <th>路径</th><th>核心词</th>
+        <th>|</th>
+        <th>路径</th><th>核心词</th>
+        <th>|</th>
+        <th>路径</th><th>核心词</th>
+        <th>|</th>
+    </tr>
+    <tr>
+        <td>（物理）<b>穿透</b></td><td>through the</td><td>|</td>
+        <td>（行为）<b>穿过</b></td><td>across the</td><td>|</td>
+        <td><b>从</b>（什么地方执行）</td><td>from the</td><td>|</td>
+        <td><b>越过</b></td><td>over the</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>从...分离</b></td><td>off the</td><td>|</td>
+        <td><b>沿着</b></td><td>along the</td><td>|</td>
+        <td>朝<b>向</b></td><td>toward</td><td>|</td>
+        <td><b>下楼</b></td><td>dosntair</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>向外</b></td><td>outside</td><td>|</td>
+        <td><b>向里面、向内</b></td><td>inside</td><td>|</td>
+        <td><b>向前</b></td><td>ahead</td><td>|</td>
+        <td><b>到（表面）</b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>到里面</b></td><td>into the</td><td>|</td>
+        <td><b>到旁边</b></td><td>beside the</td><td>|</td>
+        <td><b>到哪里</b></td><td>at the</td><td>|</td>
+        <td><b>到上面</b></td><td>onto the</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>到（某个对象）</b></td><td>to</td><td>|</td>
+        <td><b>路过</b></td><td>pass the</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+---
 
-#### 穿着穿搭
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|clothe|衣服|/| 
+<h4 style="text-align: center;">事件时间补充</h4>
+
+#### 基本格式
+
+<table style="text-align: center;">
+    <tr>
+        <th>描述</th><th>核心词</th><th>例句</th><th>|</th>
+        <th>描述</th><th>核心词</th><th>例句</th><th>|</th>
+    </tr>
+    <tr>
+        <td><b>从什么时候开始，直到现在</b></td><td>since time.</td><td>I've lived here since 2019<td>|</td></td>
+        <td><b>截止时间</b></td><td>by time.</td><td>Submit your report by Friday<td>|</td></td>
+    </tr>
+    <tr>
+        <td><b>做了某事之后</b></td><td>after do.</td><td>We'll go back after we finish lunch</td><td>|</td></td>
+        <td><b>临近某个时间段</b></td><td>by time.</td><td>By dusk.</td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b>从什么时候到什么时候</b></td><td>from . to .</td><td>I work from 9 to 6 every day</td><td>|</td></td>
+        <td><b>多久以后</b></td><td>in time.</td><td>I'll be back in an hour</td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+    </tr>
+</table>
+
+#### 高频时间
+
+<table style="text-align: center;">
+    <tr>
+        <th>描述</th><th>核心词</th><th>例句</th><th>|</th>
+        <th>描述</th><th>核心词</th><th>例句</th><th>|</th>
+        <th>描述</th><th>核心词</th><th>例句</th><th>|</th>
+    </tr>
+    <tr>
+        <td><b>下午的时候</b></td><td>in the afternoon</td><td>I usually have it in the afternoon</td><td>|</td></td>
+        <td><b>一小会儿</b></td><td>for a bit</td><td>I'm gonna lie down for a bit</td><td>|</td></td>
+        <td><b>有空的时候</b></td><td>someday</td><td>We should grab coffee someday</td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b>每天</b></td><td>every day</td><td></td><td>|</td></td>
+        <td><b>（持续）到很晚</b></td><td>too late</td><td>I always end up staying up too late</td><td>|</td></td>
+        <td><b>一下下、一小会儿</b></td><td>real quick</td><td>I'm gonna grab a snack real quick</td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b>在此之前</b></td><td>before this</td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+    </tr>
+</table>
+
+<h4 style="text-align: center;">事件地址补充</h4>
+
+#### 基本表达
+
+<table style="text-align: center;">
+    <tr>
+        <th>路径</th><th>核心词</th>
+        <th>|</th>
+        <th>路径</th><th>核心词</th>
+        <th>|</th>
+        <th>路径</th><th>核心词</th>
+        <th>|</th>
+        <th>路径</th><th>核心词</th>
+        <th>|</th>
+    </tr>
+    <tr>
+        <td colspan="12"><b>后置</b> : do. → adv. : I like working <i><u>outside</u></i></td>
+    </tr>
+    <tr>
+        <td><b>在外面</b></td><td>outside</td><td>|</td>
+        <td><b>在地下</b></td><td>underground</td><td>|</td>
+        <td><b>在头顶上</b></td><td>overhead</td><td>|</td>
+        <td><b>这里</b></td><td>here</td><td>|</td>
+    </tr>
+    <tr>
+        <td colspan="12"><b>前置</b> : do. → position. det.: She's waiting <i><u>at the</u></i> <i><u>bus stop</u></i></td>
+    </tr>
+    <tr>
+        <td><b>在哪里</b></td><td>at the</td><td>|</td>
+        <td><b>在旁边</b></td><td>beside the</td><td>|</td>
+        <td><b>在下面</b></td><td>below the</td><td>|</td>
+        <td><b>在正下方</b></td><td>under the</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>在后面</b></td><td>behind the</td><td>|</td>
+        <td><b>在上面</b></td><td>over the</td><td>|</td>
+        <td><b>在旁边</b></td><td>by the</td><td>|</td>
+        <td><b>在附近</b></td><td>near the</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+#### 高频位置
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>我这里</b></td><td>over here</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
 
 
-#### 时间
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|afternoon|下午|/|evening|傍晚|/|dawn|黎明|dɔːn|
-|twilight|暮色/黄昏|ˈtwaɪlaɪt|tomorrow|明天|/|Saturday|周六|/|
-|morning|早上|/|
+---
 
-#### 材料学
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|stainless steel|不锈钢|/|
+<h4 style="text-align: center;">工具手段与度量单位补充</h4>
 
-#### 抽象实体对象
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|container|所有**容器**的抽象对象|/|energy|所有**能量**的抽象对象|
+<table style="text-align: center;">
+    <tr>
+        <th>实现类型</th>
+        <th>核心词</th>
+        <th>度量单位</th>
+        <th>例句</th>
+    </tr>
+    <tr>
+        <td>使用非容器工具</td>
+        <td>do. <b>with tool.</b></td>
+        <td>/</td>
+        <td>I fixed the door with a screwdriver</td>
+    </tr>
+    <tr>
+        <td>使用容器工具</td>
+        <td>do. <b>in tool.</b></td>
+        <td>/</td>
+        <td>I boil water in a kettle</td>
+    </tr>
+    <tr>
+        <td>使用语言交流或撰写</td>
+        <td>do. <b>in language.</b></td>
+        <td>/</td>
+        <td>We are talking in English</td>
+    </tr>
+    <tr>
+        <td>使用软件去实现需求</td>
+        <td>do. <b>through software.</b></td>
+        <td>/</td>
+        <td>I also ordered a coffee through delivery</td>
+    </tr>
+    <tr>
+        <td>温度单位</td>
+        <td><b>degrees</b></td>
+        <td>度</td>
+        <td>It's already almost 40 degrees</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b></b></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
-#### 颜色
-|Eng-1|Chi|IPA|Eng-2|Chi|IPA|Eng-3|Chi|IPA|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|blue|蓝色|/|deepening blue|深蓝色|/|
+---
+
+<h1 style="text-align: center;">名词集合</h1>
+
+---
+
+<h3 style="text-align: center;">家居</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>房间</b></td><td>room</td><td>|</td>
+        <td><b>客厅</b></td><td>living room</td><td>|</td>
+        <td><b>卧室</b></td><td>bed room</td><td>|</td>
+        <td><b>卫生间</b></td><td>bathroom<br>toilet</td><td>|</td>
+        <td><b>厨房</b></td><td>kitchen</td><td>|</td>
+        <td><b>电脑</b></td><td>computer<br>PC</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>笔记本电脑</b></td><td>laptop</td><td>|</td>
+        <td><b>平板电脑</b></td><td>tablet</td><td>|</td>
+        <td><b>电脑主机</b></td><td>PC case</td><td>|</td>
+        <td><b>键盘</b></td><td>keyboard</td><td>|</td>
+        <td><b>鼠标</b></td><td>mouse</td><td>|</td>
+        <td><b>显示器</b></td><td>monitor</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>显示器支架</b></td><td>monitor stand</td><td>|</td>
+        <td><b>屏幕</b></td><td>screen</td><td>|</td>
+        <td><b>音响</b></td><td>speaker</td><td>|</td>
+        <td><b>麦克风</b></td><td>microphone<br>mic</td><td>|</td>
+        <td><b>U盘</b></td><td>USB drive<br>USB thunmb</td><td>|</td>
+        <td><b>USB接口</b></td><td>USB port</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>开机键</b></td><td>power button</td><td>|</td>
+        <td><b>内存</b></td><td>RAM</td><td>|</td>
+        <td><b>散热器</b></td><td>cooler</td><td>|</td>
+        <td><b>显卡</b></td><td>graphics card</td><td>|</td>
+        <td><b>主板</b></td><td>mainboard</td><td>|</td>
+        <td><b>电源</b></td><td>power supply</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>中央处理器</b></td><td>CPU</td><td>|</td>
+        <td><b>硬盘</b></td><td>hard drive</td><td>|</td>
+        <td><b>无线鼠标</b></td><td>wireless mouse</td><td>|</td>
+        <td><b>无线键盘</b></td><td>wireless keyboard</td><td>|</td>
+        <td><b>无线音箱</b></td><td>wireless speaker</td><td>|</td>
+        <td><b>桌子</b></td><td>table</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>电脑桌</b></td><td>computer desk</td><td>|</td>
+        <td><b>笔记本支架</b></td><td>laptop stand</td><td>|</td>
+        <td><b>鼠标垫</b></td><td>mouse pad</td><td>|</td>
+        <td><b>充电器</b></td><td>charger</td><td>|</td>
+        <td><b>插座</b></td><td>socket</td><td>|</td>
+        <td><b>（单股）电线</b></td><td>wire</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>充电线</b></td><td>charging cable</td><td>|</td>
+        <td><b>电源线</b></td><td>power cable</td><td>|</td>
+        <td><b>数据线</b></td><td>data cable</td><td>|</td>
+        <td><b>枕头</b></td><td>pillow</td><td>|</td>
+        <td><b>床</b></td><td>bed</td><td>|</td>
+        <td><b>床垫</b></td><td>mattress</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>杯子</b></td><td>quilt</td><td>|</td>
+        <td><b>床头柜</b></td><td>nightstand</td><td>|</td>
+        <td><b>抽屉</b></td><td>drawer</td><td>|</td>
+        <td><b>书架</b></td><td>bookshelf</td><td>|</td>
+        <td><b>门</b></td><td>door</td><td>|</td>
+        <td><b>门把手</b></td><td>door handle</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>钥匙孔</b></td><td>keyhole</td><td>|</td>
+        <td><b>灯</b></td><td>light</td><td>|</td>
+        <td><b>开关</b></td><td>switch</td><td>|</td>
+        <td><b>空调</b></td><td>AC</td><td>|</td>
+        <td><b>衣柜</b></td><td>wardrobe</td><td>|</td>
+        <td><b>冰箱</b></td><td>fridge<br>refrigerator</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>沙发</b></td><td>sofa<br>couch</td><td>|</td>
+        <td><b>窗</b></td><td>window</td><td>|</td>
+        <td><b>窗帘</b></td><td>curtain</td><td>|</td>
+        <td><b>晾衣架</b></td><td>drying rack</td><td>|</td>
+        <td><b>撑衣杆</b></td><td>clothes pole</td><td>|</td>
+        <td><b>洗衣机</b></td><td>洗衣机</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>凳子</b></td><td>stool</td><td>|</td>
+        <td><b>衣架</b></td><td>hanger</td><td>|</td>
+        <td><b>电磁炉</b></td><td>induction cooker</td><td>|</td>
+        <td><b>碗</b></td><td>bowl</td><td>|</td>
+        <td><b>炒锅</b></td><td>wok</td><td>|</td>
+        <td><b>电吹风</b></td><td>hair dryer</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>热水壶</b></td><td>kettle</td><td>|</td>
+        <td><b>洗鼻器</b></td><td>nasal irrigator</td><td>|</td>
+        <td><b>电热水器</b></td><td>water heater</td><td>|</td>
+        <td><b>洗漱台</b></td><td>bathroom sink</td><td>|</td>
+        <td><b>镜子</b></td><td>mirror</td><td>|</td>
+        <td><b>水槽</b></td><td>sink</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>（置物）架子</b></td><td>shelf</td><td>|</td>
+        <td><b>牙刷</b></td><td>toothbrush</td><td>|</td>
+        <td><b>牙膏</b></td><td>toothpaste</td><td>|</td>
+        <td><b>杯子</b></td><td>cup</td><td>|</td>
+        <td><b>洗面奶</b></td><td>face wash</td><td>|</td>
+        <td><b>沐浴露</b></td><td>body wash</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>洗发水</b></td><td>shampoo</td><td>|</td>
+        <td><b>手动剃须刀</b></td><td>razor</td><td>|</td>
+        <td><b>电动剃须刀</b></td><td>electric shaver</td><td>|</td>
+        <td><b>剃须膏</b></td><td>shaving cream</td><td>|</td>
+        <td><b>毛巾</b></td><td>towel</td><td>|</td>
+        <td><b>花洒头</b></td><td>showerhead</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>蹲厕</b></td><td>squat toilet</td><td>|</td>
+        <td><b>管</b></td><td>pipe</td><td>|</td>
+        <td><b>窗台</b></td><td>windowsill</td><td>|</td>
+        <td><b>拖把</b></td><td>mop</td><td>|</td>
+        <td><b>盐</b></td><td>salt</td><td>|</td>
+        <td><b>白糖</b></td><td>white sugar</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>勺子</b></td><td>spoon</td><td>|</td>
+        <td><b>水管</b></td><td>water pipe</td><td>|</td>
+        <td><b>垃圾桶</b></td><td>trash can</td><td>|</td>
+        <td><b>垃圾铲、撮箕</b></td><td>dustpan</td><td>|</td>
+        <td><b>酱油</b></td><td>soy sauce</td><td>|</td>
+        <td><b>鸡精</b></td><td>chicken bouillon</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>筷子</b></td><td>chopsticks</td><td>|</td>
+        <td><b>抽纸</b></td><td>tissue</td><td>|</td>
+        <td><b>扫把</b></td><td>broom</td><td>|</td>
+        <td><b>花生油</b></td><td>peanut oil</td><td>|</td>
+        <td><b>耗油</b></td><td>oyster sauce</td><td>|</td>
+        <td><b>锅铲</b></td><td>spatula</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>叉子</b></td><td>fork</td><td>|</td>
+        <td><b>盖子</b></td><td>lid</td><td>|</td>
+        <td><b>水果刀</b></td><td>fruit knife</td><td>|</td>
+        <td><b>调味料</b></td><td>seasoning</td><td>|</td>
+        <td><b>瑜伽垫</b></td><td>yoga mat</td><td>|</td>
+        <td><b>垃圾袋</b></td><td>trash bag</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>刀</b></td><td>knife</tds><td>|</td>
+        <td><b>漏勺</b></td><td>slotted spoon</td><td>|</td>
+        <td><b>香薰</b></td><td>incense</td><td>|</td>
+        <td><b>椅子</b></td><td>chair</td><td>|</td>
+        <td><b>雨伞</b></td><td>umbrella</td><td>|</td>
+        <td><b>菜刀</b></td><td>chef's knife</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>手套</b></td><td>gloves</td><td>|</td>
+        <td><b>遥控器</b></td><td>remote</td><td>|</td>
+        <td><b>相框</b></td><td>picture frame</td><td>|</td>
+        <td><b>开瓶器</b></td><td>bottle openter</td><td>|</td>
+        <td><b>背包</b></td><td>backpack</td><td>|</td>
+        <td><b>电视</b></td><td>TV</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>书房</b></td><td>study</td><td>|</td>
+        <td><b>耳麦</b></td><td>headset</td><td>|</td>
+        <td><b>灰尘</b></td><td>dust</td><td>|</td>
+        <td><b>天花板</b></td><td>ceiling</td><td>|</td>
+        <td><b>风扇</b></td><td>fan</td><td>|</td>
+        <td><b>台阶</b></td><td>step</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>钟</b></td><td>clock</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+<h3 style="text-align: center;">非必须掌握内容</h3>
+
+<h4 style="text-align: center;">人称</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <th>人称</th><th>主格</th><th>宾格</th><th>be现在</th><th>be过去</th><th>物主</th><th>主格所属</th><th colspan='2'>宾格所属</th>
+    </tr>
+    <tr>
+        <td rowspan="9">人</td>
+    </tr>
+    <tr>
+        <td>我</td><td>I</td><td>me</td><td>am</td><td>was</td><td>myself</td><td>my</td><td>mine</td>
+    </tr>
+    <tr>
+        <td>你</td><td>you</td><td>you</td><td>are</td><td>were</td><td>yourself</td><td>your</td><td>yours</td>
+    </tr>
+    <tr>
+        <td>他</td><td>he</td><td>him</td><td rowspan="3">is</td><td rowspan="3">was</td><td>himself</td><td colspan="2">his</td>
+    </tr>
+    <tr>
+        <td>她</td><td>she</td><td>her</td><td>herself</td><td>her</td><td>hers</td>
+    </tr>
+    <tr>
+        <td>它</td><td>it</td><td>it</td><td>itself</td><td colspan="2">its</td>
+    </tr>
+    <tr>
+        <td>我们</td><td>we</td><td>us</td><td rowspan="3">are</td><td rowspan="3">were</td><td>ourselves</td><td>our</td><td>ours</td>
+    </tr>
+    <tr>
+        <td>你们</td><td>you</td><td>you</td><td>yourselves</td><td>your</td><td>yours</td>
+    </tr>
+    <tr>
+        <td>他们/她们/它们</td><td>they</td><td>them</td><td>themselves</td><td>their</td><td>theirs</td>
+    </tr>
+</table>
