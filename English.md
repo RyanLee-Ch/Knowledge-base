@@ -42,8 +42,8 @@
     </tr>
     <tr>
         <td><b>我已经来到（什么地方）了</b></td><td>I've gotten to the</td><td>|</td>
-        <td><b>我本来想（做什么）</b></td><td>I was supposed to</td><td>|</td>
-        <td><b>我一直在（忙什么事情）</b></td><td>I've been working on</td><td>|</td>
+        <td><b>我本来想（做什么）</b></td><td>I was going to do.(口语)<br>I was supposed to do.(稍正式)</td><td>|</td>
+        <td><b>我一直在忙着处理（某件事）、我一直忙于处理（某件事）</b></td><td>I've been working on noun.</td><td>|</td>
     </tr>
     <tr>
         <td><b>如果我不用（做某事）</b></td><td>If I didn't have to</td><td>|</td>
@@ -118,7 +118,7 @@
     <tr>
         <td><b>我还在（做什么）</b></td><td>I'm still do.ing</td><td>|</td>
         <td><b>我先（做什么）</b></td><td>I'll take ... first</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>我最近一直在忙着（做什么）、我一直（在做什么）</b></td><td>I've been spending time do.ing</td><td>|</td>
     </tr>
     <tr>
         <td><b></b></td><td></td><td>|</td>
@@ -154,6 +154,19 @@
     </tr>
 </table>
 
+
+---
+
+<h4 style="text-align: center;">他、她、它（第三视角）</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>她一直在（做什么）</b></td><td>She's always do.ing</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
 ---
 
 <h4 style="text-align: center;">我们</h4>
@@ -167,7 +180,7 @@
     <tr>
         <td><b>全部都是、全都是</b></td><td>It's all like that</td><td>|</td>
         <td><b>就这样吧</b></td><td>Alright then</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>我们其实并没有（怎么样）</b></td><td>We're not really adj.</td><td>|</td>
     </tr>
     <tr>
         <td><b></b></td><td></td><td>|</td>
@@ -266,7 +279,7 @@
 
 ---
 
-<h4 style="text-align: center;">陈述疑问</h4>
+<h4 style="text-align: center;">疑问表达</h4>
 
 <table style="text-align: center;">
     <tr>
@@ -277,7 +290,7 @@
     <tr>
         <td><b>（某个东西）在哪里</b></td><td>Where's the</td><td>Where's the my bag?</td><td>|</td></td>
         <td><b>谁的（什么东西）</b></td><td>Whose</td><td>Whose bag is this?</td><td>|</td></td>
-        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b>（什么）怎么样？</b></td><td>How's</td><td>How's your day been?</td><td>|</td></td>
     </tr>
     <tr>
         <td><b></b></td><td></td><td></td><td>|</td></td>
@@ -315,6 +328,9 @@
     <tr>
         <td><b>（谁）最好（做什么）</b></td><td>'d better</td><td>|</td>
         <td><b>（三方）被怎样</b></td><td>was</td><td>|</td></td>
+        <td><b>和谁在一起</b></td><td>with</td><td>|</td></td>
+        <td><b>没空、没机会（做某事）</b></td><td>didn't get a chance to do.</td><td>|</td></td>
+        <td><b></b></td><td></td><td>|</td></td>
     </tr>
 </table>
 
@@ -587,7 +603,7 @@
         <td><b>吃早餐、吃早饭</b></td><td>have breakfast</td><td>|</td>
         <td><b>吃午餐、吃午饭</b></td><td>have lunch</td><td>|</td>
         <td><b>吃晚餐、吃晚饭</b></td><td>have dinner</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>和你说、告诉你</b></td><td>tell you</td><td>|</td>
     </tr>
     <tr>
         <td><b></b></td><td></td><td>|</td>
@@ -1229,6 +1245,334 @@
 </table>
 
 ---
+
+<h3 style="text-align: center;">外部事物</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>路灯</b></td><td>streetlamp</td><td>|</td>
+        <td><b>咖啡厅</b></td><td>coffee shop</td><td>|</td>
+        <td><b>商店</b></td><td> shop</td><td>|</td>
+        <td><b>图书馆</b></td><td>library</td><td>|</td>
+        <td><b>马路</b></td><td>road</td><td>|</td>
+        <td><b>斑马线</b></td><td>crosswalk</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>街道</b></td><td>street</td><td>|</td>
+        <td><b>墙</b></td><td>wall</td><td>|</td>
+        <td><b>指路牌</b></td><td>signpost<br>road sign</td><td>|</td>
+        <td><b>大楼</b></td><td>building</td><td>|</td>
+        <td><b>很高的楼或塔</b></td><td>tower</td><td>|</td>
+        <td><b>写字楼</b></td><td>office building</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>门卫厅</b></td><td>guardhouse</td><td>|</td>
+        <td><b>护栏</b></td><td>fence</td><td>|</td>
+        <td><b>地铁站</b></td><td>subway station</td><td>|</td>
+        <td><b>公交站</b></td><td>bus stop</td><td>|</td>
+        <td><b>人行道</b></td><td>sidewalk</td><td>|</td>
+        <td><b>小区</b></td><td>residential</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>村子</b></td><td>village</td><td>|</td>
+        <td><b>公园</b></td><td>park</td><td>|</td>
+        <td><b>绿化带</b></td><td>greenbelt</td><td>|</td>
+        <td><b>麦当劳</b></td><td>McDonald's</td><td>|</td>
+        <td><b>监控摄像头</b></td><td>surveillnace camera</td><td>|</td>
+        <td><b>井盖</b></td><td>manhole cover</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>（自行车）停车蓬</b></td><td>bike shed</td><td>|</td>
+        <td><b>信号塔</b></td><td>signal tower</td><td>|</td>
+        <td><b>商场</b></td><td>shopping mall</td><td>|</td>
+        <td><b>肯德基</b></td><td>KFC</td><td>|</td>
+        <td><b>消防栓</b></td><td>fire hydrant</td><td>|</td>
+        <td><b>马路围栏、护栏</b></td><td>guardrail</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>停车场</b></td><td>parking lot</td><td>|</td>
+        <td><b>花圃</b></td><td>flower bed</td><td>|</td>
+        <td><b>快餐店</b></td><td>fast food restaurant</td><td>|</td>
+        <td><b>亭子</b></td><td>pavilion</td><td>|</td>
+        <td><b>警示牌</b></td><td>warning sign</td><td>|</td>
+        <td><b>电梯</b></td><td>elevator</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>电扶梯</b></td><td>escalator</td><td>|</td>
+        <td><b>饭店</b></td><td>restaurant</td><td>|</td>
+        <td><b>天空</b></td><td>sky</td><td>|</td>
+        <td><b>华丽的吊灯</b></td><td>chandelier</td><td>|</td>
+        <td><b>变电站</b></td><td>substation</td><td>|</td>
+        <td><b>楼梯</b></td><td>stairs</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>小吃街</b></td><td>food street</td><td>|</td>
+        <td><b>阳光</b></td><td>sunlight</td><td>|</td>
+        <td><b>黑夜</b></td><td>night</td><td>|</td>
+        <td><b>护栏</b></td><td>handrail</td><td>|</td>
+        <td><b>配电箱</b></td><td>distribution box</td><td>|</td>
+        <td><b>奶茶店</b></td><td>bubble tea shop</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>月光</b></td><td>moonlight</td><td>|</td>
+        <td><b>简约的吊灯</b></td><td>pendant light</td><td>|</td>
+        <td><b>云</b></td><td>cloud</td><td>|</td>
+        <td><b>雨</b></td><td>rain</td><td>|</td>
+        <td><b>雪</b></td><td>snow</td><td>|</td>
+        <td><b>冰雹</b></td><td>hail</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>中央空调</b></td><td>central AC</td><td>|</td>
+        <td><b>灯笼</b></td><td>lantern</td><td>|</td>
+        <td><b>灯光</b></td><td>lighting</td><td>|</td>
+        <td><b>反光</b></td><td>reflection</td><td>|</td>
+        <td><b>警察局</b></td><td>police station</td><td>|</td>
+        <td><b>警示灯</b></td><td>warning light</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>灭火器箱</b></td><td>fire extinguisher cabinet</td><td>|</td>
+        <td><b>草地</b></td><td>lawn</td><td>|</td>
+        <td><b>地标</b></td><td>landmark</td><td>|</td>
+        <td><b>充电站</b></td><td>charging station</td><td>|</td>
+        <td><b>盲道</b></td><td>tactile paving</td><td>|</td>
+        <td><b>闸门</b></td><td>gate</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>树叶、叶子</b></td><td>leaves</td><td>|</td>
+        <td><b>交通</b></td><td>traffic</td><td>|</td>
+        <td><b>车流声</b></td><td>hum of traffic</td><td>|</td>
+        <td><b>柱子</b></td><td>pole</td><td>|</td>
+        <td><b>路</b></td><td>way</td><td>|</td>
+        <td><b>牌子</b></td><td>sign</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>景色、景象、场景</b></td><td>scene</td><td>|</td>
+        <td><b>内部</b></td><td>interior</td><td>|</td>
+        <td><b>钟楼</b></td><td>clock tower</td><td>|</td>
+        <td><b>影子、阴影</b></td><td>shadow</td><td>|</td>
+        <td><b>座位</b></td><td>seat</td><td>|</td>
+        <td><b>边边</b></td><td>curb</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>花</b></td><td>flower</td><td>|</td>
+        <td><b>入口</b></td><td>entrance</td><td>|</td>
+        <td><b>安静又隐蔽的角落</b></td><td>nook</td><td>|</td>
+        <td><b>墙壁和墙壁之间的角落</b></td><td>corner</td><td>|</td>
+        <td><b>警告</b></td><td>warning</td><td>|</td>
+        <td><b>城市</b></td><td>city</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>现代建筑</b></td><td>modern surroundings</td><td>|</td>
+        <td><b>地标性建筑</b></td><td>landmark building</td><td>|</td>
+        <td><b>地方</b></td><td>place</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">食品</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>燕麦</b></td><td>oatmeal</td><td>|</td>
+        <td><b>拿铁</b></td><td>latte</td><td>|</td>
+        <td><b>中国菜</b></td><td>Chinese food</td><td>|</td>
+        <td><b>炒菜</b></td><td>stir-fry</td><td>|</td>
+        <td><b>咖啡</b></td><td>coffee</td><td>|</td>
+        <td><b>快餐</b></td><td>fast food</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>晚饭</b></td><td>dinner</td><td>|</td>
+        <td><b>方便面</b></td><td>instant noodles</td><td>|</td>
+        <td><b>炸鸡</b></td><td>fried chicken</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">电子产品</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>提示音</b></td><td>notification</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">人物关系</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>室友</b></td><td>roomate</td><td>|</td>
+        <td><b>客人</b></td><td></td>customer<td>|</td>
+        <td><b>弟弟</b></td><td>little brother</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">人物关系</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>肩膀</b></td><td>shoulder</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">生命</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>声音</b></td><td>voice</td><td>|</td>
+        <td><b>汗</b></td><td>sweat</td><td>|</td>
+        <td><b>人</b></td><td>people</td><td>|</td>
+        <td><b>雏菊</b></td><td>daisy</td><td>|</td>
+        <td><b>老年人</b></td><td>elderly people</td><td>|</td>
+        <td><b>老家伙</b></td><td>old man</td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">自然现象</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>雨</b></td><td>rain</td><td>|</td>
+        <td><b>撞击声/闷响</b></td><td>thump</td><td>|</td>
+        <td><b>微风</b></td><td>breeze</td><td>|</td>
+        <td><b>温暖</b></td><td>warmth</td><td>|</td>
+        <td><b>寂静、安静</b></td><td>silence</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">穿着穿搭</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>衣服</b></td><td>clothe</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">时间</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>下午</b></td><td>afternoon</td><td>|</td>
+        <td><b>傍晚</b></td><td>evening</td><td>|</td>
+        <td><b>黎明</b></td><td>dawn</td><td>|</td>
+        <td><b>暮色/黄昏</b></td><td>twilight</td><td>|</td>
+        <td><b>明天</b></td><td>tomorrow</td><td>|</td>
+        <td><b>周六</b></td><td>Saturday</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>早上</b></td><td>morning</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+
+---
+
+<h3 style="text-align: center;">材料学</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>不锈钢</b></td><td>stainless steel</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+
+---
+
+<h3 style="text-align: center;">抽象实体对象</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>容器</b></td><td>container</td><td>|</td>
+        <td><b>energy</b></td><td>能量</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+<h3 style="text-align: center;">颜色</h3>
+
+<table style="text-align: center;">
+    <tr>
+        <td><b>蓝色</b></td><td>blue</td><td>|</td>
+        <td><b>深蓝色</b></td><td>deepening blue</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+</table>
+
+---
+
+
 <h3 style="text-align: center;">非必须掌握内容</h3>
 
 <h4 style="text-align: center;">人称</h4>
