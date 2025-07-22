@@ -127,12 +127,12 @@
     </tr>
     <tr>
         <td><b>我想想</b></td><td>Let me see</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>我到家了，我在家了</b></td><td>I'm home</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
     <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>我只能、我必须（做什么）</b></td><td>I (just) have to</td><td>|</td>
+        <td><b>我没法停下、我不能停下（做某事）</b></td><td>I can't stop (do.ing)</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
     <tr>
@@ -302,7 +302,7 @@
     <tr>
         <td><b>一直在下雨</b></td><td>It's always raining</td><td>|</td>
         <td><b>还没结束</b></td><td>not over yet</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>那只是个（什么）</b></td><td>that was just a (noun.)</td><td>|</td>
     </tr>
     <tr>
         <td><b></b></td><td></td><td>|</td>
@@ -552,8 +552,8 @@
     <tr>
         <td><b>捕获、抓取</b></td><td>catch</td><td>|</td>
         <td><b>收到了（什么东西）</b></td><td>got</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>放松</b></td><td>relax</td><td>|</td>
+        <td><b>继续（做什么）</b></td><td>keep (do.ing)<br>continue(写作用)</td><td>|</td>
     </tr>
     <tr>
         <td><b></b></td><td></td><td>|</td>
@@ -669,7 +669,19 @@
     </tr>
     <tr>
         <td><b>洗漱</b></td><td>wash up<br>(.ed .ing)</td><td>|</td>
-        <td><b>穿鞋</b></td>put on det. shoes<td></td><td>|</td>
+        <td><b>穿鞋</b></td><td>put on det. shoes</td><td>|</td>
+        <td><b>直接回来了<br>（有前置位置）说明</b></td><td>headed straight back</td><td>|</td>
+        <td><b>直接回到（什么东西）</b></td><td>headed straight back to pst.</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>去（哪里）、回（哪里）</b></td><td>go to pst.</td><td>|</td>
+        <td><b>去到（哪里）、回到（哪里）</b></td><td>get to pst.<br>got to pst.</td><td>|</td>
+        <td><b>回到家</b></td><td>get home<br>got home</td><td>|</td>
+        <td><b>努力</b></td><td>put in effort</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
@@ -771,7 +783,7 @@
     <tr>
         <td><b>呼吸困难的</b></td><td>short of breath</td><td>|</td>
         <td><b>（从什么地方，用走的方式）离开</b></td><td>step out of</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>难的、困难的、艰难的</b></td><td>difficult(写作)<br>tough(口语)</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
     <tr>
@@ -1427,7 +1439,7 @@
         <td><b>现代建筑</b></td><td>modern surroundings</td><td>|</td>
         <td><b>地标性建筑</b></td><td>landmark building</td><td>|</td>
         <td><b>地方</b></td><td>place</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>就业市场、就业欢迎</b></td><td>job market's</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
