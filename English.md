@@ -37,7 +37,7 @@
     </tr>
     <tr>
         <td><b>我为什么不能（做某事）</b></td><td>Why can't I </td><td>|</td>
-        <td><b>我已经（做什么了）</b></td><td>I've already</td><td>|</td>
+        <td><b>我已经（做完什么事情了）</b></td><td>I've already do.ed.fns</td><td>|</td>
         <td><b>我总是没法、我总是做不到（某件事）</b></td><td>I can never</td><td>|</td>
     </tr>
     <tr>
@@ -121,6 +121,26 @@
         <td><b>我最近一直在忙着（做什么）、我一直（在做什么）</b></td><td>I've been spending time do.ing</td><td>|</td>
     </tr>
     <tr>
+        <td><b>我不在的时候发生了什么</b></td><td>What happened while I was gone</td><td>|</td>
+        <td><b>我先是、我是先（做什么），然后才（做什么）</b></td><td>I do.ed beofre do.ing</td><td>|</td>
+        <td><b>我醒了（多久）</b></td><td>I was only awake for time.</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>我想想</b></td><td>Let me see</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
@@ -144,7 +164,7 @@
     </tr>
     <tr>
         <td><b>你能不能（做什么）</b></td><td>Can you <i>do.</i></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>你呢？</b></td><td>How about you</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
     <tr>
@@ -162,6 +182,21 @@
 <table style="text-align: center;">
     <tr>
         <td><b>她一直在（做什么）</b></td><td>She's always do.ing</td><td>|</td>
+        <td><b>你那边发生了什么？</b></td><td>What happened on your side</td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>她感觉（怎么样）</b></td><td>She was <i>adj.</i></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+        <td><b></b></td><td></td><td>|</td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
@@ -216,7 +251,7 @@
     </tr>
     <tr>
         <td><b>轮到谁去（做什么）了？</b></td><td>Whose turn is it to do. ?</td><td>|</td>
-        <td><b>重要的是（某件事）</b></td><td>The important thing is</td><td>|</td>
+        <td><b>重要的是、重点是（某件事）</b></td><td>The important thing is</td><td>|</td>
         <td><b>谁不在哪</b></td><td>isn't at</td><td>|</td>
     </tr>
     <tr>
@@ -261,12 +296,12 @@
     </tr>
     <tr>
         <td><b>比如</b></td><td>just like</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>因为（某个事件）</b></td><td>because ...</td><td>|</td>
+        <td><b>因为（某个具体对象）</b></td><td>because of the</td><td>|</td>
     </tr>
     <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>一直在下雨</b></td><td>It's always raining</td><td>|</td>
+        <td><b>还没结束</b></td><td>not over yet</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
     <tr>
@@ -291,6 +326,11 @@
         <td><b>（某个东西）在哪里</b></td><td>Where's the</td><td>Where's the my bag?</td><td>|</td></td>
         <td><b>谁的（什么东西）</b></td><td>Whose</td><td>Whose bag is this?</td><td>|</td></td>
         <td><b>（什么）怎么样？</b></td><td>How's</td><td>How's your day been?</td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b>怎么样的？</b></td><td>What kind?</td><td>/</td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td></td><td>|</td></td>
     </tr>
     <tr>
         <td><b></b></td><td></td><td></td><td>|</td></td>
@@ -330,6 +370,16 @@
         <td><b>（三方）被怎样</b></td><td>was</td><td>|</td></td>
         <td><b>和谁在一起</b></td><td>with</td><td>|</td></td>
         <td><b>没空、没机会（做某事）</b></td><td>didn't get a chance to do.</td><td>|</td></td>
+        <td><b></b></td><td></td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td>|</td></td>
+    </tr>
+    <tr>
+        <td><b></b></td><td></td><td>|</td></td>
+        <td><b></b></td><td></td><td>|</td></td>
         <td><b></b></td><td></td><td>|</td></td>
     </tr>
 </table>
@@ -501,7 +551,7 @@
     </tr>
     <tr>
         <td><b>捕获、抓取</b></td><td>catch</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>收到了（什么东西）</b></td><td>got</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
@@ -572,7 +622,7 @@
     <tr>
         <td><b>找（什么东西）</b></td><td>looking for</td><td>|</td>
         <td><b>感觉有点（怎么样）</b></td><td>feeling kinda</td><td>|</td>
-        <td><b>（三方）让我去（做某事）</b></td><td>tells me to</td><td>|</td>
+        <td><b>（三方）让我去、叫我去（做某事）</b></td><td>tells me to<br>asked me to</td><td>|</td>
         <td><b>休息一会儿</b></td><td>get some rest</td><td>|</td>
     </tr>
     <tr>
@@ -606,8 +656,20 @@
         <td><b>和你说、告诉你</b></td><td>tell you</td><td>|</td>
     </tr>
     <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>在去上班的路上</b></td><td>on my way to work</td><td>|</td>
+        <td><b>多少点醒来</b></td><td>woke up at time.</td><td>|</td>
+        <td><b>重新睡觉</b></td><td>fall back asleep</td><td>|</td>
+        <td><b>做了（怎么样的）梦、做梦</b></td><td>had a ... dream(s)</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>梦到了（什么）</b></td><td>dreamed that</td><td>|</td>
+        <td><b>（谁）找我</b></td><td>called me</td><td>|</td>
+        <td><b>去（哪儿）</b></td><td>come to<br>(A让B去A那时使用)</td><td>|</td>
+        <td><b>收到（谁的）消息</b></td><td>got det. message</td><td>|</td>
+    </tr>
+    <tr>
+        <td><b>洗漱</b></td><td>wash up<br>(.ed .ing)</td><td>|</td>
+        <td><b>穿鞋</b></td>put on det. shoes<td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
@@ -732,7 +794,7 @@
     </tr>
     <tr>
         <td><b>竖直一排</b></td><td>a line of</td><td>a line of steetlamps</td><td>一排路灯</td><td>|</td>
-        <td><b></b></td><td></td><td></td><td></td><td>|</td>
+        <td><b>一堆</b></td><td>a bunch of </td><td>a bunch of weird dreams</td><td>一堆奇怪的梦</td><td>|</td>
         <td><b></b></td><td></td><td></td><td></td><td>|</td>
     </tr>
     <tr>
@@ -786,7 +848,7 @@
         <td>（频次）<b>总是</b></td><td>always</td><td>|</td>
     </tr>
     <tr>
-        <td><b></b></td><td></td><td>|</td>
+        <td>（行为）<b>随便地、随意地</b></td><td>casually</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
     </tr>
@@ -1481,7 +1543,7 @@
         <td><b>微风</b></td><td>breeze</td><td>|</td>
         <td><b>温暖</b></td><td>warmth</td><td>|</td>
         <td><b>寂静、安静</b></td><td>silence</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>雨声</b></td><td>sound of the rain</td><td>|</td>
     </tr>
 </table>
 
@@ -1515,7 +1577,7 @@
     </tr>
     <tr>
         <td><b>早上</b></td><td>morning</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>过程</b></td><td>process</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
