@@ -6,12 +6,265 @@
 
 <table style="text-align: center;">
     <tr>
+        <td colspan="6"><b>我：</b>广泛单个项目</td>
+    </tr>
+    <tr>
         <div>
-            <td><b>我会</b></td>
-            <td>我当然会（做什么）：<b>of cours I'll <i>(do.)</i></b></td>
+            <td>我当然(会做什么)：<br><b>Of cours I'll <i>(do.)</i></b></td>
             <td>|</td>
         </div>
-        <td><b></b></td><td></td><td>|</td>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <th colspan="6">我想：</th>
+    </tr>
+    <tr>
+        <div>
+            <td>我想(做什么)：<br><b>I wanna <i>(do.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我之前想(做什么)：<br><b><i>I've wanted to </i>(do.)</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我更想(做什么)：<br><b>I'd rather <i>(do.)</i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
+            <td>我只想(做什么)：<br><b><i>I just wanna (do.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我真的很想(做什么)：<br><b>I'd really wanna <i>(do.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我本来想、我之前想(做什么)：<br><b>I was going to <i>(do.)</i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
+            <td>我真的不想(做什么)：<br><b>I don't really feel like <i>(do.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我真的不想(做什么)：<br><b>I'm not really in the mood to <i>(do.)</i></b><br>[强调是由于情绪化]</td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我计划未来要做什么：<br>I'm going to <b>(do. time.)<i></i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <th colspan="6">我要：</th>
+    </tr>
+    <tr>
+        <div>
+            <td>我要(去做什么)：<br><b>I'm gonna <i>(do.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我估计要、我估计会(做什么)：<br><b>I'll probably <i>(do.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我不要(在做什么)了：<br><b>I'm done <i>(do.ing)</i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <th colspan="6">我已经：</th>
+    </tr>
+    <tr>
+        <div>
+            <td>我已经受够了(什么)：<br><b>I've had enough of <i>(noun.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我已经很久没能(做某事)了：<br><b>I haven't been able to <i>(do.)</i> for a long time</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我已经(怎么样)了：<br><b>I've already <i>(adj.)</i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
+            <td>我已经(做完某事)了：<br><b>I've already <i>do.ed.fns</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我已经到(哪)了：<br><b>I've gotten to the <i>(pst.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我现在已经在(哪)了：<br><b>I'm already at the <i>(pst.)</i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
+            <td>我已经不需要(去做什么)了：<br><b>I don't really need to <i>(do.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <th colspan="6">我一直：</th>
+    </tr>
+    <tr>
+        <div>
+            <td>我一直忙于(做什么事情)：<br><b>I've been working on <i>(noun.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我一直在、我之前一直在(做什么)：<br><b>I was <i>(do.ing)</i></b><br>[已经做完了]</td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我一直在、我之前一直在(做什么)：<br><b>I've been <i>(do.)</i></b><br>[直到现在还在做]</td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <td colspan="6"><b>我</b>怎么样</td>
+    </tr>
+    <tr>
+        <div>
+            <td>我感觉(怎么样)：<br><b>I feel like <i>(adj.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我感觉(怎么样)：<br><b>I'm feeling <i>(adj.)</i></b><br>[较书面]</td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我得了(什么病)：<br>I had a <b><i>(noun.sick)</i></b></td>
+            <td>|</td>
+        </div>
+    </tr>    
+    <tr>
+        <div>
+            <td>我有点、我感觉有点(怎么样)：<br><b>I'm kinda <i>(adj.)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+    </tr>    
+    <tr>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <td colspan="6"><b>我刚刚：</b></td>
+    </tr>
+    <tr>
+        <div>
+            <td>我刚刚(做完了什么事情)：<br><b>I just <i>(do.ed)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我刚刚(在做什么事情)：<br><b>I was just <i>(do.ing)</i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+    <tr>
+        <td colspan="6"><b>我：</b>完整高频口语</td>
+    </tr>
+    <tr>
+        <div>
+            <td>我什么都不想做：<br><b>I don't feel like doing anything</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我到家了，我在家：<br><b>I'm home</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我想想：<br><b>Let me see</b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
+            <td>在我看来：<br><b>in my apinion</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我和你说：<br><b>Let me tell you</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我不着急：<br><b>I'm not in a hurry</b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
+            <td>：<br><b></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b></b></td>
+            <td>|</td>
+        </div>
     </tr>
 </table>
 
@@ -19,21 +272,12 @@
     <tr>
         <td><b>让我来吧</b></td><td>Let me do it</td><td>|</td>
         <td><b>我之前一直在（做什么，已经做完了）</b></td><td>I was do.ing</td><td>|</td>
-        <td><b>我要（做某事）</b></td><td>I'm gonna</td><td>|</td>
     </tr>
     <tr>
         <td><b>等我一会儿</b></td><td>wait for me</td><td>|</td>
-        <td><b>我感觉（怎么样）</b></td><td>I'm feeling<br>I feel like(口语)</td><td>|</td>
-        <td><b>我估计要（做什么）</b></td><td>I'll probably</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>我一直在（做什么，直到现在）</b></td><td>I've been do.</td><td>|</td>
-        <td><b>我已经受够了（做某事）</b></td><td>I've had enough of</td><td>|</td>
-        <td><b>我不着急</b></td><td>I'm not in a hurry</td><td>|</td>
     </tr>
     <tr>
         <td><b>我发现</b></td><td>I realized that</td><td>|</td>
-        <td><b>我更想、我更喜欢（做某事）</b></td><td>I'd rather</td><td>|</td>
         <td><b>我是不是应该（做某事）</b></td><td>Should I</td><td>|</td>
     </tr>
     <tr>
@@ -42,19 +286,8 @@
         <td><b>我也有（什么东西）</b></td><td>I've also had</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我不要（做什么）了</b></td><td>I'm done do.ing</td><td>|</td>
-        <td><b>我什么都不想做</b></td><td>I don't feel like doing anything</td><td>|</td>
-        <td><b>我真的很不想（做某事）</b></td><td>I don't really feel like do.ing</td><td>|</td>
-    </tr>
-    <tr>
         <td><b>我为什么不能（做某事）</b></td><td>Why can't I </td><td>|</td>
-        <td><b>我已经（做完什么事情了）</b></td><td>I've already do.ed.fns</td><td>|</td>
         <td><b>我总是没法、我总是做不到（某件事）</b></td><td>I can never</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>我已经来到（什么地方）了</b></td><td>I've gotten to the</td><td>|</td>
-        <td><b>我本来想（做什么）</b></td><td>I was going to do.(口语)<br>I was supposed to do.(稍正式)</td><td>|</td>
-        <td><b>我一直在忙着处理（某件事）、我一直忙于处理（某件事）</b></td><td>I've been working on noun.</td><td>|</td>
     </tr>
     <tr>
         <td><b>如果我不用（做某事）</b></td><td>If I didn't have to</td><td>|</td>
@@ -62,44 +295,35 @@
         <td><b>我就只是说说</b></td><td>I'm just saying</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我一直在（做什么，已经做完了）</b></td><td>I was</td><td>|</td>
         <td><b>（搞得）我最后(总是)（做什么、怎么样）</b></td><td>I (always) end up</td><td>|</td>
         <td><b>我之前没有、我一直没有（做什么事情）</b></td><td>I didn't</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我有点（怎么样）</b></td><td>I'm kinda</td><td>|</td>
-        <td><b>我只想（做什么）</b></td><td>I just wanna do.</td><td>|</td>
         <td><b>导致我（做什么）</b></td><td>It caused me to</td><td>|</td>
     </tr>
     <tr>
         <td><b>我有（完全属于自己的什么东西）</b></td><td>I have</td><td>|</td>
         <td><b>我有（被赋予的什么东西）</b></td><td>I get</td><td>|</td>
-        <td><b>我真的很想（做某事）</b></td><td>I'd really wanna</td><td>|</td>
     </tr>
     <tr>
         <td><b>也不知道是不是我</b></td><td>Not sure if I</td><td>|</td>
-        <td><b>我一直没能（做某事）</b></td><td>I haven't been able to<br>I haven't been (do.ing 不那么无力)</td><td>|</td>
-        <td><b>我刚刚（做完了什么事情）</b></td><td>I just (do.ed)</td><td>|</td>
+        <td><b>我一直没能（做某事）</b></td><td>I haven't been able to<br>I haven't (been) (do.ing 不那么无力)</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我不是很想（做某事）</b></td><td>I'm not really in the mood to</td><td>|</td>
         <td><b>我去过（什么地方）</b></td><td>I got to the ... time.</td><td>|</td>
         <td><b>我没法接受<br>我受不了<br>我喝不了、我吃不了（什么东西）</b></td><td>I can't handle</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我和你说</b></td><td>let me tell you</td><td>|</td>
         <td><b>我准备要（做某事）</b></td><td>I'm ready to</td><td>|</td>
         <td><b>我不喜欢（做某事）</b></td><td>I don't like do.ing</td><td>|</td>
     </tr>
     <tr>
         <td><b>我还没（做某事）</b></td><td>I still haven't</td><td>|</td>
-        <td><b>我已经（怎么样）了的</b></td><td>I've already <i>(adj.)</i></td><td>|</td>
         <td><b>我突然想起来（某件事）</b></td><td>I just forgot</td><td>|</td>
     </tr>
     <tr>
         <td><b>无论我做什么</b></td><td>No matter what I do</td><td>|</td>
         <td><b>没人能说我、没人能批评我</b></td><td>Nobody's gonna say anything to me</td><td>|</td>
-        <td><b>我已经在（什么地方）了</b></td><td>I'm already at the pst.</td><td>|</td>
     </tr>
     <tr>
         <td><b>今天真的太他妈（怎么样）了</b></td><td>It's way too fucking</td><td>|</td>
@@ -107,7 +331,6 @@
         <td><b>我可能要迟到了</b></td><td>I'm probably gonna be late</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我刚刚看了看（什么东西）</b></td><td>I just checked</td><td>|</td>
         <td><b>我还没、我还不（怎么样）</b></td><td>I'm still not</td><td>|</td>
         <td><b>我不仅（做什），还（做什）</b></td><td>I've not only do., but I've also do.</td><td>|</td>
     </tr>
@@ -117,8 +340,6 @@
         <td><b>我只想要（做什么）</b></td><td>I'd rather just</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我（什么时候）想要（做什么）</b></td><td>I'm going to ... time.</td><td>|</td>
-        <td><b>我得了、我生了（什么病）</b></td><td>I had a</td><td>|</td>
         <td><b>我大部分的（什么东西）</b></td><td>most of my</td><td>|</td>
     </tr>
     <tr>
@@ -137,8 +358,6 @@
         <td><b>我醒了（多久）</b></td><td>I was only awake for time.</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我想想</b></td><td>Let me see</td><td>|</td>
-        <td><b>我到家了，我在家了</b></td><td>I'm home</td><td>|</td>
         <td><b>我从事（什么工作）<br>我是做（什么的）<br>我是（什么职业）</b></td><td>I'm in (job.)</td><td>|</td>
     </tr>
     <tr>
@@ -157,13 +376,9 @@
         <td><b>我想要（做什么）</b></td><td>I wanna <i>(do. 现在)</i><br>I've wanted to <i>(do. 之前)</i></td><td>|</td>
     </tr>
     <tr>
-        <td><b>在我看来</b></td><td>in my apinion</td><td>|</td>
-        <td><b>我已经不需要（做什么）了</b></td><td>I don't really need to <i>(do.)</i></td><td>|</td>
         <td><b>我之前想（做某事）</b></td><td>I wanted to (do.)</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我刚刚在（做什么事情）</b></td><td>I was just <i>(do.ing)</i></td><td>|</td>
-        <td><b>我已经很久没能（做某事）了</b></td><td>I haven't been ablt to <i>(do.)</i> for a long time</td><td>|</td>
         <td><b>我终于能（做某事）了</b></td><td>I can finally <i>(do.)</i></td><td>|</td>
     </tr>
     <tr>
@@ -885,7 +1100,7 @@
         <td><b>经典的</b></td><td>classic</td><td>|</td>
     </tr>
     <tr>
-        <td><b></b></td><td></td><td>|</td>
+        <td><b>海外的</b></td><td>overseas</td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
         <td><b></b></td><td></td><td>|</td>
