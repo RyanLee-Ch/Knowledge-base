@@ -6,7 +6,7 @@
 
 <table style="text-align: center;">
     <tr>
-        <td colspan="6"><b>我：</b>广泛单个项目</td>
+        <th colspan="6">我：(广泛单个项目)</th>
     </tr>
     <tr>
         <div>
@@ -161,7 +161,7 @@
         </div>
     </tr>
     <tr>
-        <td colspan="6"><b>我</b>怎么样</td>
+        <th colspan="6">我怎么样</th>
     </tr>
     <tr>
         <div>
@@ -206,7 +206,7 @@
         </div>
     </tr>
     <tr>
-        <td colspan="6"><b>我刚刚：</b></td>
+        <th colspan="6">我刚刚</th>
     </tr>
     <tr>
         <div>
@@ -222,7 +222,7 @@
             <td>|</td>
         </div>
     <tr>
-        <td colspan="6"><b>我：</b>完整高频口语</td>
+        <th colspan="6">我：(完整高频口语)</th>
     </tr>
     <tr>
         <div>
