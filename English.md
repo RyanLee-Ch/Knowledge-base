@@ -161,6 +161,20 @@
         </div>
     </tr>
     <tr>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b><i></i></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
         <th colspan="6">我怎么样</th>
     </tr>
     <tr>
@@ -254,6 +268,34 @@
     </tr>
     <tr>
         <div>
+            <td>让我来吧：<br><b>Let me do it</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>等我一会儿：<br><b>wait for me</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>无论我做什么：<br><b>No matter What I do</b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
+            <td>没人能说我<br>没人能批评我：<br><b>Nobody's gonna say anything to me</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>我不在的时候发生了什么？：<br><b>What happened while I was gone?</b></td>
+            <td>|</td>
+        </div>
+        <div>
+            <td>：<br><b></b></td>
+            <td>|</td>
+        </div>
+    </tr>
+    <tr>
+        <div>
             <td>：<br><b></b></td>
             <td>|</td>
         </div>
@@ -271,7 +313,6 @@
 <table style="text-align: center;">
     <tr>
         <td><b>让我来吧</b></td><td>Let me do it</td><td>|</td>
-        <td><b>我之前一直在（做什么，已经做完了）</b></td><td>I was do.ing</td><td>|</td>
     </tr>
     <tr>
         <td><b>等我一会儿</b></td><td>wait for me</td><td>|</td>
@@ -322,10 +363,6 @@
         <td><b>我突然想起来（某件事）</b></td><td>I just forgot</td><td>|</td>
     </tr>
     <tr>
-        <td><b>无论我做什么</b></td><td>No matter what I do</td><td>|</td>
-        <td><b>没人能说我、没人能批评我</b></td><td>Nobody's gonna say anything to me</td><td>|</td>
-    </tr>
-    <tr>
         <td><b>今天真的太他妈（怎么样）了</b></td><td>It's way too fucking</td><td>|</td>
         <td><b>至少我没感觉到、至少我不觉得</b></td><td>At least I don't feel</td><td>|</td>
         <td><b>我可能要迟到了</b></td><td>I'm probably gonna be late</td><td>|</td>
@@ -353,7 +390,6 @@
         <td><b>我最近一直在忙着（做什么）、我一直（在做什么）</b></td><td>I've been spending time do.ing</td><td>|</td>
     </tr>
     <tr>
-        <td><b>我不在的时候发生了什么</b></td><td>What happened while I was gone</td><td>|</td>
         <td><b>我先是、我是先（做什么），然后才（做什么）</b></td><td>I do.ed beofre do.ing</td><td>|</td>
         <td><b>我醒了（多久）</b></td><td>I was only awake for time.</td><td>|</td>
     </tr>
