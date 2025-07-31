@@ -2,6 +2,76 @@
 
 ---
 
+<h4 style="text-align: center;">基本表达格式</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <td colspan="4"><b>完成时态</b></td>
+    </tr>
+    <tr>
+        <td>应用范围</td>
+        <td colspan="3">做完了某事、近几天发生了什么、近况</td>
+    </tr>
+    <tr>
+        <td>基本格式</td>
+        <td colspan="2">基本格式：<b>have</b> + <b>verb</b>.pp</td>
+        <td>举例：I <b>have finished</b> my work : 我做完作业了</td>
+    </tr>
+    <tr>
+        <td>否定格式</td>
+        <td colspan="2">基本格式：<b>haven't been</b> | <b>hasn't been</b> + <b>verb</b></td>
+        <td>举例：She <b>hasn't been </b>feeling well lately : 他最近感觉不舒服</td>
+    </tr>
+    <tr>
+    <tr>
+        <td>技巧总结</td>
+        <td colspan="3">
+            1. have 或 has 不翻译，仅做声明时态；<br>
+            2. 否定式对整句否定，如 "hasn't been feeling well" 不对 "feeling" 否定，而是对 "feeling well" 否定 
+        </td>
+    </tr>
+</table>
+
+<table style="text-align: center;">
+    <tr>
+        <th colspan="4">现在进行时态</th>
+    </tr>
+    <tr>
+        <td>应用范围</td>
+        <td colspan="3">现在在做什么</td>
+    </tr>
+    <tr>
+        <td>使用格式</td>
+        <td colspan="2">基本格式：<b>be</b> + <b>verb</b>.ing</td>
+        <td>举例：I<b>'m using</b> the bathroom : 我在上厕所</td>
+    </tr>
+    <tr>
+    <tr>
+        <td>技巧总结</td>
+        <td colspan="3">
+            把 "be" 理解为"在"；
+        </td>
+    </tr>
+</table>
+<table style="text-align: center;">
+    <tr>
+        <td colspan="4"><b>一般过去时态</b> : <i>之前做了什么</i></td>
+    </tr>
+    <tr>
+        <td>使用格式</td>
+        <td colspan="2">基本格式：<b>verb</b>.pt + [time.]</td>
+        <td>举例：I <b>stayed up</b> last night : 我昨晚熬夜了</td>
+    </tr>
+    <tr>
+    <tr>
+        <td>技巧总结</td>
+        <td colspan="3">
+            1.在 "verb.pt" 后面接上 "了" 更好理解，如 "stayed up" 为 "熬夜了"；
+        </td>
+    </tr>
+</table>
+
+
 <h4 style="text-align: center;">高频口语格式</h4>
 
 <table style="text-align: center;">
@@ -68,22 +138,16 @@
         <td>最后只能(做什么)了：<br><i>(Who.)</i><b> end up </b><i>(do.)</i></td>
     </tr>
     <tr>
-        <td colspan="2">我有(某个东西)：<br>
-            <i>(Who.)</i><b> get </b><i>(noun.)</i> [被赋予的拥有]<br>
-            <i>(Who.)</i><b> have | has </b><i>(noun.)</i> [属于自己的]
-        </td>
         <td colspan="2">我刚刚(做了什么)：<br>
-            <i>(Who.)</i><b>'ve | 's just </b><i>(do.ed.fns)</i> [刚刚做完]<br>
+            <i>(Who.'ve | 's)</i><b> just </b><i>(do.ed.fns)</i> [刚刚做完]<br>
             <i>(Who.)</i><b> just </b><i>(do.ed)</i> [刚刚做了]<br>
             <i>(Who. be.ed)</i><b> just </b><i>(do.ing)</i> [之前一直在]
         </td>
     </tr>
     <tr>
         <td colspan="2">终于能、终于要(做什么)：<br>
-            <i>(Who.)</i><b> can finally </b><i>(do.)</i> [做]<br>
             <i>(Who. be.)</i><b> finally </b><i>(do.ing)</i> [做完]<br>
         </td>
-        <td>希望你能(怎么样)<br><i>(Who.)</i><b> hope you can be </b><i>(adj.)</i></td>
         <td>感觉不、不觉得(怎么样)<br><i>(Who.)</i><b> don't feel </b><i>(adj.)</i></td>
     </tr>
     <tr>
@@ -91,6 +155,57 @@
         <td><br><i></i><b></b><i></i></td>
         <td><br><i></i><b></b><i></i></td>
         <td><br><i></i><b></b><i></i></td>
+    </tr>
+    <tr>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+    </tr>
+</table>
+
+<h4 style="text-align: center;">高频行为与口语性副词</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <td>终于能：<br><i></i><b>can finally</b><i></i></td>
+        <td>刚刚：<br><i></i><b>just</b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+    </tr>
+    <tr>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+    </tr>
+</table>
+
+<h4 style="text-align: center;">高频行为动词</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <td>有：<br>
+            1.<b>get</b> | <b>have</b> | <b>3.has</b><br>
+            1.被赋予 | 3.三单
+        </td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+    </tr>
+    <tr>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+        <td><br><i></i><b></b><i></i></td>
+    </tr>
+</table>
+
+<h4 style="text-align: center;">高频描述形容词</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <td colspan="4">辅助性：<b> be </b><i>(adj.)</i> ：变得(怎样)</td>
     </tr>
     <tr>
         <td><br><i></i><b></b><i></i></td>
