@@ -55,7 +55,11 @@
 </table>
 <table style="text-align: center;">
     <tr>
-        <td colspan="4"><b>一般过去时态</b> : <i>之前做了什么</i></td>
+        <td colspan="4"><b>一般过去时态</b></td>
+    </tr>
+    <tr>
+        <td>应用范围</td>
+        <td colspan="3">之前做了什么</td>
     </tr>
     <tr>
         <td>使用格式</td>
