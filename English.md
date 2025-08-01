@@ -2,15 +2,16 @@
 
 ---
 
-<h4 style="text-align: center;">基本表达格式</h4>
+<h4 style="text-align: center;">基本 行为 表达格式</h4>
 
 <table style="text-align: center;">
     <tr>
         <td colspan="4"><b>完成时态</b></td>
     </tr>
     <tr>
-        <td>应用范围</td>
-        <td colspan="3">做完了某事、近几天发生了什么、近况</td>
+        <td>应用范围</td><td colspan="3">
+            做完了某事、近几天发生了什么、近况
+        </td>
     </tr>
     <tr>
         <td>基本格式</td>
@@ -37,18 +38,16 @@
         <th colspan="4">现在进行时态</th>
     </tr>
     <tr>
-        <td>应用范围</td>
-        <td colspan="3">现在在做什么</td>
+        <td>应用范围</td><td colspan="3">现在在做什么</td>
     </tr>
     <tr>
-        <td>使用格式</td>
+        <td>基本格式</td>
         <td colspan="2">基本格式：<b>be</b> + <b>verb</b>.ing</td>
         <td>举例：I<b>'m using</b> the bathroom : 我在上厕所</td>
     </tr>
     <tr>
     <tr>
-        <td>技巧总结</td>
-        <td colspan="3">
+        <td>技巧总结</td><td colspan="3">
             把 "be" 理解为"在"；
         </td>
     </tr>
@@ -58,23 +57,78 @@
         <td colspan="4"><b>一般过去时态</b></td>
     </tr>
     <tr>
-        <td>应用范围</td>
-        <td colspan="3">之前做了什么</td>
+        <td>应用范围</td><td colspan="3">之前做了什么</td>
     </tr>
     <tr>
-        <td>使用格式</td>
+        <td>基本格式</td>
         <td colspan="2">基本格式：<b>verb</b>.pt + [time.]</td>
         <td>举例：I <b>stayed up</b> last night : 我昨晚熬夜了</td>
     </tr>
     <tr>
     <tr>
-        <td>技巧总结</td>
-        <td colspan="3">
+        <td>技巧总结</td><td colspan="3">
             1.在 "verb.pt" 后面接上 "了" 更好理解，如 "stayed up" 为 "熬夜了"；
         </td>
     </tr>
 </table>
 
+<h4 style="text-align: center;">基本 状态 表达格式</h4>
+
+<table style="text-align: center;">
+    <tr>
+        <th colspan="4">形容词</th>
+    </tr>
+    <tr>
+        <td>应用范围</td><td colspan="3">感觉怎么样</td>
+    </tr>
+    <tr>
+        <td>基本格式</td>
+        <td colspan="2">基本格式：<b>be</b> + <b>adj.</b></td>
+        <td>举例：I <b>'m sleepy</b> : 我好困</td>
+    </tr>
+    <tr>
+    <tr>
+        <td>技巧总结</td><td colspan="3">
+            1.用于修饰名词、表达自身状态<br>
+            2.可以被副词修饰（提升或降低）程度，如 super sleepy
+        </td>
+    </tr>
+</table>
+<table style="text-align: center;">
+    <tr>
+        <th colspan="4">副词</th>
+    </tr>
+    <tr>
+        <td>应用范围</td><td colspan="3">
+            口语或助动词、动作程度或状态、提升或降低形容词等级
+        </td>
+    </tr>
+    <tr>
+        <td>修助动词格式</td>
+        <td colspan="2">基本格式：<b>aux</b> + <b>adv.</b></td>
+        <td colspan="2">举例：They <b>will probably </b>come : 他们可能会来</td>
+    </td>
+    <tr>
+        <td>修动词格式</td>
+        <td colspan="2">前置格式：<b>adv.</b> + <b>verb.</b><br>后置格式：<b>verb.</b> + <b>adv.</b></td>
+        <td>举例：<br>I <b>always </b> eat breakst : 我早餐吃得很快<br>She sings <b>beautifully</b> : 她唱得很好</td>
+    </tr>
+    <tr>
+        <td>修形容词格式</td>
+        <td colspan="2">基本格式：<b>adv.</b> + <b>adj.</b></td>
+        <td colspan="2">举例：It's <b>too hot </b>today : 今天太热了 </td>
+    <tr>
+    <tr>
+        <td>双副词格式</td>
+        <td colspan="2">基本格式：<b>adv.</b> + <b>adv.</b> + <b>adj.</b></td>
+        <td colspan="2">举例：I'm <b>just kind tired </b> : 我就是感觉有点累 </td>
+    </td>
+    <tr>
+        <td>技巧总结</td><td colspan="3">
+            1.修饰助动词时，先翻译"副词"，再是助动词
+        </td>
+    </tr>
+</table>
 
 <h4 style="text-align: center;">高频口语格式</h4>
 
