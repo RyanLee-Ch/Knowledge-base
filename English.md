@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td>基本格式</td>
-        <td colspan="2">基本格式：<b>have</b> + <b>verb</b>.pp</td>
+        <td colspan="2">基本格式：<b>have</b> + <b>verb</b>.ed.fns</td>
         <td>举例：I <b>have finished</b> my work : 我做完作业了</td>
     </tr>
     <tr>
@@ -32,7 +32,29 @@
         </td>
     </tr>
 </table>
-
+<table style="text-align: center;">
+    <tr>
+        <td colspan="4"><b>过去时态</b></td>
+    </tr>
+    <tr>
+        <td>应用范围</td><td colspan="3">之前做了什么、已经完成了某件事</td>
+    </tr>
+    <tr>
+        <td>基本格式</td>
+        <td colspan="2">基本格式：<b>verb</b>.ed + [time.]</td>
+        <td>举例：I <b>stayed up</b> last night : 我昨晚熬夜了</td>
+    </tr>
+    <tr>
+        <td>完成格式</td>
+        <td colspan="2">基本格式：<b>had</b> + <b>verb</b>.ed.fns</td>
+        <td>举例：I <b>had finished</b> dinner before she arrived : 她到之前我就已经吃完了</td>
+    </tr>
+    <tr>
+        <td>技巧总结</td><td colspan="3">
+            1.在 "verb.pt" 后面接上 "了" 更好理解，如 "stayed up" 为 "熬夜了"；
+        </td>
+    </tr>
+</table>
 <table style="text-align: center;">
     <tr>
         <th colspan="4">现在进行时态</th>
@@ -51,23 +73,38 @@
             把 "be" 理解为"在"；
         </td>
     </tr>
-</table>
-<table style="text-align: center;">
+</table><table style="text-align: center;">
     <tr>
-        <td colspan="4"><b>一般过去时态</b></td>
+        <th colspan="4">将来时态</th>
     </tr>
     <tr>
-        <td>应用范围</td><td colspan="3">之前做了什么</td>
+        <td>应用范围</td><td colspan="3">之后（必须）要做什么</td>
     </tr>
     <tr>
         <td>基本格式</td>
-        <td colspan="2">基本格式：<b>verb</b>.pt + [time.]</td>
-        <td>举例：I <b>stayed up</b> last night : 我昨晚熬夜了</td>
+        <td colspan="2">基本格式：<b>be</b> + <b>going to</b> + <b>verb</b></td>
+        <td>举例：I<b>'m going to sleep</b> early tonight : 我今晚要早点睡</td>
     </tr>
     <tr>
-    <tr>
         <td>技巧总结</td><td colspan="3">
-            1.在 "verb.pt" 后面接上 "了" 更好理解，如 "stayed up" 为 "熬夜了"；
+            把 "be going to " 理解为"要"；
+        </td>
+    </tr>
+</table>
+<table style="text-align: center;">
+    <tr>
+        <td colspan="4"><b>组合时态</b></td>
+    </tr>
+    <tr>
+        <td>现在完成进行时态</td>
+        <td colspan="3">
+            一直在做什么 ： <b>have</b> | <b>has been verb.ing</b> => I've been learning : 我一直在学习
+        </td>
+    </tr>
+    <tr>
+        <td>否定：现在完成时态</td>
+        <td colspan="3">
+            一直都不怎么样 ： <b>haven't</b> | <b>hasn't been adj.</b> => My English hasn't been good : 我英语一直都不好
         </td>
     </tr>
 </table>
@@ -122,6 +159,11 @@
         <td>双副词格式</td>
         <td colspan="2">基本格式：<b>adv.</b> + <b>adv.</b> + <b>adj.</b></td>
         <td colspan="2">举例：I'm <b>just kind tired </b> : 我就是感觉有点累 </td>
+    </td>
+    <tr>
+        <td>口语副词格式</td>
+        <td colspan="2">基本格式：<b>adv., + sent.</b></td>
+        <td colspan="2">举例：<b>Actually</b>, I like it : 我就是感觉有点累 </td>
     </td>
     <tr>
         <td>技巧总结</td><td colspan="3">
@@ -278,7 +320,11 @@
 <table style="text-align: center;">
     <tr>
         <td>不仅，还：<br><i>(Who.'ve|s)</i><b> not only </b><i>(do.)</i> <b> but </b><i>(Who.'ve|s)</i><b> also </b><i>(do.)</i></td>
-        <td>先，然后：<br><i>(Who. do.ed)</i><b> before </b><i>(do.ing)</i></td>
+        <td>先，然后：<br>
+            <i>(Who. do.ed)</i><b> before </b><i>(do.ing)</i> [时间性] <br>
+            <i>(do.)</i> <b>frst</b>, <b>then</b> (do.) [动作或习惯性]
+            <i></i>
+        </td>
         <td><br><i></i><b></b><i></i></td>
     </tr>
     <tr>
