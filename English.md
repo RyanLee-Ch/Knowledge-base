@@ -174,6 +174,23 @@
 
 <h4 style="text-align: center;">高频口语用词</h4>
 
+##### 高频助动：.
+
+<table style="text-align: center;">
+    <tr>
+        <td>必须<br><b>have to, has to</b></td>
+        <td>不<br><b>don't</b></td>
+        <td>能<br><b>can</b></td>
+        <td>不能<br><b>can't</b></td>
+        <td>从未、从来没有<br><b>have never、has never</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
 ##### 高频副词：adv.
 
 <table style="text-align: center;">
@@ -191,22 +208,22 @@
     </tr>
     <tr>
         <td>仍然、还<br><b>still</b></td>
-        <td>Probably、可能<br><b>probably</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>估计、可能<br><b>probably</b></td>
+        <td>再<br><b>again</b></td>
+        <td>还没<br><b>still haven't</b></td>
+        <td>好<br><b>well</b></td>
+        <td>有点<br><b>kinda</b> = kind of</td>
+        <td>当然、肯定<br><b>sure、definitely</b>↑</td>
+        <td>真的、非常<br><b>really</b></td>
+        <td>难<br><b>hard</b></td>
+        <td>之前<br><b>before</b></td>
     </tr>
     <tr>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>任何时间<br><b>anytime</b></td>
+        <td>任何地点<br><b>anywhere</b></td>
+        <td>随时随地<br><b>anytime, anywhere</b></td>
+        <td>也许<br><b>maybe</b></td>
+        <td>晚<br><b>late</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -238,6 +255,18 @@
         <td>打电话请病假<br><b>call in sick</b></td>
         <td>回家<br><b>go home</b></td>
         <td>下毛毛雨<br><b>drizzle</b></td>
+        <td>弄坏、搞砸<br><b>mess up</b></td>
+        <td>决定<br><b>decide</b></td>
+        <td>住<br><b>live</b></td>
+    </tr>
+    <tr>
+        <td>接触<br><b>come across</b></td>
+        <td>意思是<br><b>mean</b></td>
+        <td>变得<br><b>be</b></td>
+        <td>看了看<br><b>check</b></td>
+        <td>进去<br><b>get in</b></td>
+        <td>熬夜<br><b>stay up</b></td>
+        <td>感觉<br><b>feel</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -264,6 +293,18 @@
         <td>新的<br><b>new</b></td>
         <td>已经下班了的<br><b>off work</b></td>
         <td>高的<br><b>high</b></td>
+        <td>mdbd、烂透了的<br><b>shitty</b></td>
+        <td>不舒服的<br><b>uncomfortable</b></td>
+        <td>真正的<br><b>real</b></td>
+        <td>远程的<br><b>remote</b></td>
+        <td>离线的<br><b>offline</b></td>
+        <td>开心的<br><b>happy</b></td>
+    </tr>
+    <tr>
+        <td>太多的<br><b>too much</b></td>
+        <td>没有<br><b>no</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -271,6 +312,39 @@
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
+</table>
+
+##### 高频连词：.
+
+<table style="text-align: center;">
+    <tr>
+        <td>作为<br><b>as</b></td>
+        <td>然后<br><b>and, then</b>↑</td>
+        <td>但是<br><b>but</b></td>
+        <td>如果<br><b>if</b></td>
+        <td>因为<br><b>because</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
+##### 高频介词：.
+
+<table style="text-align: center;">
+    <tr>
+        <td>在后面<br><b>behind</b></td>
+        <td>对于我而言<br><b>for me</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
     </tr>
 </table>
 
@@ -281,11 +355,35 @@
 <table style="text-align: center;">
     <tr>
         <td>聊天窗口<br><b>chat window</b></td>
-        <td>东西<br><b>thing</b></td>
+        <td>东西、事情<br><b>stuff、thing</b>(可数)</td>
         <td>时间<br><b>time</b></td>
         <td>点钟<br><b>o'clock</b></td>
         <td>天气<br><b>weahter</b></td>
         <td>工作<br><b>work</b></td>
+        <td>网络<br><b>internet</b></td>
+        <td>第一次<br><b>first time</b></td>
+        <td>人<br><b>people</b></td>
+        <td>机会<br><b>chance</b></td>
+    </tr>
+    <tr>
+        <td>心<br><b>heart</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -295,7 +393,7 @@
 
 
 
-##### 高频工学名词：
+##### 高频专业名词：
 
 <table style="text-align: center;">
     <tr>
@@ -303,6 +401,64 @@
         <td>机器<br><b>machine</b></td>
         <td>单片机<br><b>microcontroller</b></td>
         <td>温度、气温<br><b>temprature</b></td>
+        <td>墙（国内的）<br><b>Great Firewall</b></td>
+        <td>防火墙<br><b>firewall</b></td>
+        <td>任务<br><b>task</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
+##### 高频专业动词：verb.
+
+<table style="text-align: center;">
+    <tr>
+        <td>访问<br><b>access</b></td>
+        <td>竞争<br><b>compete</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
+##### 高频专业形容词：
+
+<table style="text-align: center;">
+    <tr>
+        <td>技术的<br><b>technical</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
