@@ -82,7 +82,7 @@
     </tr>
     <tr>
         <td>基本格式</td>
-        <td colspan="2">基本格式：<b>be</b> + <b>going to</b> + <b>verb</b></td>
+        <td colspan="2">基本格式：<b>be</b> + <b>going to</b> + <b>verb</b><br>口语替代：gonna</td>
         <td>举例：I<b>'m going to sleep</b> early tonight : 我今晚要早点睡</td>
     </tr>
     <tr>
@@ -171,6 +171,160 @@
         </td>
     </tr>
 </table>
+
+<h4 style="text-align: center;">高频口语用词</h4>
+
+##### 高频副词：adv.
+
+<table style="text-align: center;">
+    <tr>
+        <td>最近<br><b>lately</b></td>
+        <td>刚<br><b>just</b></td>
+        <td>太<br><b>too</b></td>
+        <td>上次<br><b>last time</b></td>
+        <td>所以、因此<br><b>so</b></td>
+        <td>在此之前<br><b>Before this</b></td>
+        <td>从不、从没、从未<br><b>never</b></td>
+        <td>多<br><b>much</b></td>
+        <td>一会儿<br><b>for a bit</b></td>
+        <td>不停地<br><b>nonstop</b></td>
+    </tr>
+    <tr>
+        <td>仍然、还<br><b>still</b></td>
+        <td>Probably、可能<br><b>probably</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
+##### 高频动词：verb.
+
+<table style="text-align: center;">
+    <tr>
+        <td>想做某事<br><b>wanna = want to</b></td>
+        <td>忘记<br><b>forget</b></td>
+        <td>讨论<br><b>talk about</b></td>
+        <td>最后变成、只能<br><b>end up</b></td>
+        <td>开始<br><b>start</b></td>
+        <td>使用<br><b>use</b></td>
+        <td>睡觉<br><b>sleep</b></td>
+        <td>去哪<br><b>go to</b></td>
+        <td>交谈<br><b>talk</b></td>
+        <td>聊天<br><b>chat</b></td>
+    </tr>
+    <tr>
+        <td>下班<br><b>get off work</b></td>
+        <td>外面<br><b>outside</b></td>
+        <td>工作<br><b>work</b></td>
+        <td>考虑<br><b>think about</b></td>
+        <td>打电话请病假<br><b>call in sick</b></td>
+        <td>回家<br><b>go home</b></td>
+        <td>下毛毛雨<br><b>drizzle</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
+##### 高频形容词：adj.
+
+<table style="text-align: center;">
+    <tr>
+        <td>忙的<br><b>busy</b></td>
+        <td>新的<br><b>new</b></td>
+        <td>已经下班了的<br><b>off work</b></td>
+        <td>高的<br><b>high</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    </tr>
+</table>
+
+<h4 style="text-align: center;">高频口语用名词</h4>
+
+##### 高频聊天名词：
+
+<table style="text-align: center;">
+    <tr>
+        <td>聊天窗口<br><b>chat window</b></td>
+        <td>东西<br><b>thing</b></td>
+        <td>时间<br><b>time</b></td>
+        <td>点钟<br><b>o'clock</b></td>
+        <td>天气<br><b>weahter</b></td>
+        <td>工作<br><b>work</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
+
+
+##### 高频工学名词：
+
+<table style="text-align: center;">
+    <tr>
+        <td>编程、程序<br><b>program</b></td>
+        <td>机器<br><b>machine</b></td>
+        <td>单片机<br><b>microcontroller</b></td>
+        <td>温度、气温<br><b>temprature</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
+
 
 <h4 style="text-align: center;">高频口语格式</h4>
 
