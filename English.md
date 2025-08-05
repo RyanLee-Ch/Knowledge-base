@@ -174,15 +174,56 @@
 
 <h4 style="text-align: center;">高频口语用词</h4>
 
-##### 高频助动：.
+##### 高频疑问代词：.
+
+<table style="text-align: center;">
+    <tr>
+        <td>哪个<br><b>Which</b></td>
+        <td>什么<br><b>What</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+</table>
+
+##### 高频助动：aux.
 
 <table style="text-align: center;">
     <tr>
         <td>必须<br><b>have to, has to</b></td>
-        <td>不<br><b>don't</b></td>
+        <td>不、没<br><b>don't</b></td>
         <td>能<br><b>can</b></td>
         <td>不能<br><b>can't</b></td>
         <td>从未、从来没有<br><b>have never、has never</b></td>
+        <td>会<br><b>will</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -196,12 +237,12 @@
 <table style="text-align: center;">
     <tr>
         <td>最近<br><b>lately</b></td>
-        <td>刚<br><b>just</b></td>
-        <td>太<br><b>too</b></td>
+        <td>刚、就是<br><b>just</b></td>
+        <td>太、也<br><b>too</b></td>
         <td>上次<br><b>last time</b></td>
         <td>所以、因此<br><b>so</b></td>
         <td>在此之前<br><b>Before this</b></td>
-        <td>从不、从没、从未<br><b>never</b></td>
+        <td>从不、从没<br><b>never</b></td>
         <td>多<br><b>much</b></td>
         <td>一会儿<br><b>for a bit</b></td>
         <td>不停地<br><b>nonstop</b></td>
@@ -224,6 +265,42 @@
         <td>随时随地<br><b>anytime, anywhere</b></td>
         <td>也许<br><b>maybe</b></td>
         <td>晚<br><b>late</b></td>
+        <td>外面<br><b>outside</b></td>
+        <td>(程度提高)<br><b>hard</b></td>
+        <td>还好、幸好<br><b>good thing</b></td>
+        <td>其实<br><b>actually</b></td>
+        <td>真tm<br><b>fucking</b></td>
+    </tr>
+    <tr>
+        <td>当然、肯定<br><b>Of course</b></td>
+        <td>明天<br><b>tomorrow</b></td>
+        <td>一整天<br><b>all day</b></td>
+        <td>超级<br><b>super</b></td>
+        <td>只<br><b>only</b></td>
+        <td>大概<br><b>about</b></td>
+        <td>现在<br><b>now</b></td>
+        <td>应该<br><b>should</b></td>
+        <td>完全<br><b>fully</b></td>
+        <td>说实话<br><b>honestly</b></td>
+    </tr>
+    <tr>
+        <td>足够<br><b>enough</b></td>
+        <td>进一步<br><b>further</b></td>
+        <td>已经<br><b>already</b></td>
+        <td>没有<br><b>not</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -267,6 +344,42 @@
         <td>进去<br><b>get in</b></td>
         <td>熬夜<br><b>stay up</b></td>
         <td>感觉<br><b>feel</b></td>
+        <td>下雨<br><b>rain</b></td>
+        <td>买<br><b>buy</b></td>
+        <td>带<br><b>bring</b></td>
+    </tr>
+    <tr>
+        <td>让、赚<br><b>make</b></td>
+        <td>讨厌<br><b>hate</b></td>
+        <td>希望<br><b>hope</b></td>
+        <td>请假<br><b>take a day off</b></td>
+        <td>形容<br><b>describe</b></td>
+        <td>意思是、意味着<br><b>mean</b></td>
+        <td>给<br><b>give</b></td>
+        <td>像、类似<br><b>like</b></td>
+        <td>有<br><b>have、get</b>(被赋予)</td>
+        <td>毕业<br><b>graduate</b></td>
+    </tr>
+    <tr>
+        <td>学<br><b>study</b></td>
+        <td>继续<br><b>keep</b></td>
+        <td>记得<br><b>remember</b></td>
+        <td>相信<br><b>believe</b></td>
+        <td>说<br><b>say</b></td>
+        <td>偷偷的<br><b>sneak</b></td>
+        <td>掌握<br><b>learn</b></td>
+        <td>提升<br><b>improve</b></td>
+        <td>打算<br><b>gonna</b> = going to</td>
+        <td>想<br><b>think</b></td>
+    </tr>
+    <tr>
+        <td>听说<br><b>hear</b></td>
+        <td>后悔<br><b>regret</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -301,8 +414,32 @@
         <td>开心的<br><b>happy</b></td>
     </tr>
     <tr>
-        <td>太多的<br><b>too much</b></td>
+        <td>多的<br><b>much</b></td>
         <td>没有<br><b>no</b></td>
+        <td>烦躁的<br><b>annoyed</b></td>
+        <td>好的<br><b>good</b></td>
+        <td>累的<br><b>tired</b></td>
+        <td>尴尬的、不好意思的<br><b>embarrased</b></td>
+        <td>低的、少的<br><b>low</b></td>
+        <td>无聊的<br><b>boring</b></td>
+        <td>有点<br><b>little</b></td>
+        <td>懒的<br><b>lazy</b></td>
+    </tr>
+    <tr>
+        <td>其它的<br><b>other</b></td>
+        <td>全世界的<br><b>global</b></td>
+        <td>通用的<br><b>common</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -323,6 +460,18 @@
         <td>但是<br><b>but</b></td>
         <td>如果<br><b>if</b></td>
         <td>因为<br><b>because</b></td>
+        <td>直到<br><b>until</b></td>
+        <td>是否<br><b>whether</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -337,6 +486,18 @@
     <tr>
         <td>在后面<br><b>behind</b></td>
         <td>对于我而言<br><b>for me</b></td>
+        <td>在期间<br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -348,37 +509,11 @@
     </tr>
 </table>
 
-<h4 style="text-align: center;">高频口语用名词</h4>
-
-##### 高频聊天名词：
+##### 高频组句：.
 
 <table style="text-align: center;">
     <tr>
-        <td>聊天窗口<br><b>chat window</b></td>
-        <td>东西、事情<br><b>stuff、thing</b>(可数)</td>
-        <td>时间<br><b>time</b></td>
-        <td>点钟<br><b>o'clock</b></td>
-        <td>天气<br><b>weahter</b></td>
-        <td>工作<br><b>work</b></td>
-        <td>网络<br><b>internet</b></td>
-        <td>第一次<br><b>first time</b></td>
-        <td>人<br><b>people</b></td>
-        <td>机会<br><b>chance</b></td>
-    </tr>
-    <tr>
-        <td>心<br><b>heart</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-    </tr>
-    <tr>
-        <td><br><b></b></td>
+        <td>从，到<br><b>from . until</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -391,36 +526,7 @@
     </tr>
 </table>
 
-
-
-##### 高频专业名词：
-
-<table style="text-align: center;">
-    <tr>
-        <td>编程、程序<br><b>program</b></td>
-        <td>机器<br><b>machine</b></td>
-        <td>单片机<br><b>microcontroller</b></td>
-        <td>温度、气温<br><b>temprature</b></td>
-        <td>墙（国内的）<br><b>Great Firewall</b></td>
-        <td>防火墙<br><b>firewall</b></td>
-        <td>任务<br><b>task</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-    </tr>
-    <tr>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-    </tr>
-</table>
+<h4 style="text-align: center;">高频专业用词</h4>
 
 ##### 高频专业动词：verb.
 
@@ -428,7 +534,7 @@
     <tr>
         <td>访问<br><b>access</b></td>
         <td>竞争<br><b>compete</b></td>
-        <td><br><b></b></td>
+        <td>编程<br><b>program</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -480,150 +586,91 @@
     </tr>
 </table>
 
-
-
-<h4 style="text-align: center;">高频口语格式</h4>
+##### 高频专业名词：
 
 <table style="text-align: center;">
     <tr>
-        <td colspan="2" rowspan="3">不能、不会（做什么）：<br>
-            <b> don't </b> [不做]<br>
-            <b> won't </b><i></i> [之后不]<br>
-            <b> can't </b> [不会、不能、不可以做]<br>
-            <b> wouldn't </b> [之前不会、之前没有做]<br>
-            <b> couldn't </b> [之前不能、之前没法、之前不可以]<br>
-            <b>格式：</b><i>(Who.)</i> <b>n't</b> <i>(do.)</i>
-        </td>
-        <td colspan="2">估计、可能：<br>
-            <i>(Who.)</i><b>'d probably </b><i>(do.)</i> [可能要做某事]</br>
-            <i>(Who.)</i><b> might have | has to </b><i>(do.)</i> [可能要做某事：被迫]</br>
-            <i>(Who.)</i><b> probably didn't </b><i>(do.)</i> [可能没做某事]</br>
-            <i>(Who.)</i><b> be probably gonna be </b><i>(adj.)</i> [可能会怎么样]</br>
-        </td>
+        <td>编程、程序<br><b>programming</b></td>
+        <td>机器<br><b>machine</b></td>
+        <td>单片机<br><b>microcontroller</b></td>
+        <td>温度、气温<br><b>temprature</b></td>
+        <td>墙（国内的）<br><b>Great Firewall</b></td>
+        <td>防火墙<br><b>firewall</b></td>
+        <td>任务<br><b>task</b></td>
+        <td>技能<br><b>skill</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
     </tr>
     <tr>
-        <td colspan="2" rowspan="2">不想（做什么）：<br>
-            <i>(Who.)</i><b> don't wanna </b><i>(do.)</i> [行为上不想，纯懒]<br>
-            <i>(Who.)</i><b> don't really feel like </b><i>(do.)</i> [心情不好的不想]<br>
-            <i>(Who. be.)</i><b> not really in the mood to </b><i>(do.)</i> [同上，但强调]
-        </td>
-    <tr>
-    </tr>
-    <tr>
-        <td rowspan="2">能、会、可以(做某事)：<br>
-            <i>(Who.)</i><b> can </b><i>(do.)</i> [陈述]<br>
-            <i>(Who.)</i><b> could </b><i>(do.)</i> [之前]
-        </td>
-        <td>总是没法、总是做不到(某件事)：<br><i>(Who.)</i><b> can never </b><i>(do.)</i></td>
-        <td>之前没(做)：<br><i>(Who.)</i><b> didn't </b><i>(do.)</i></td>
-        <td rowspan="2">打算、要(做什么)：<br>
-            <i>(who. be.)<b></i> going to </b><i>(do.)</i><br>
-            <i>(Who. be.)<b></i> gonna </b><i>(do.)</i> [口语]<br>
-            <i>(Who.)</i><b>'ll / will </i></b><i>(do.)</i> [临时决定]
-        </td>
-    </tr>
-    <tr>
-        <td>当然会(做什么)：<br><b>Of course</b> <i>(who.)</i><b>'ll </b><i>(do.)</i></td>
-        <td>一定会(做什么)：<br><i>(who.)</i><b> absolutely </b><i>(do.)</i></td>
-    </tr>
-    <tr>
-        <td>准备好(做什么)：<br><i>(who. be.)</i><b> ready to </b><i>(do.)</i></td>
-        <td>应该(做什么)吗?：<br><b>Should </b><i>(who.)</i> <i>(do.)</i></td>
-        <td>宁愿(做什么)：<br><i>(who.)</i><b>'d rather </b><i>(do.)</i></td>
-        <td>必须要、得要(做什么)：<br><i>(who.)</i><b> have | has to </b><i>(do.)</i><br></td>
-    </tr>
-    <tr>
-        <td>得了(什么病)：<br><i>(Who.)</i><b> had a </b><i>(sick.)</i></td>
-        <td>没法停下、不能停下(做某事)：<br><i>(Who.)</i><b> can't stop </b><i>(do.ing)</i></td>
-        <td>感觉有点、有点(怎么样)：<br><i>(Who. be.)<b></i> kinda </b><i>(adj.)</i></td>
-        <td colspan="1">感觉(怎么样)：<br>
-            <i>(Who.)</i><b> feel like(s) </b><i>(adj.)</i> [现在]<br>
-            <i>(Who. be.)</i><b> feeling </b><i>(adj.)</i> [过去直至现在]
-        </td>
-    </tr>
-    <tr>
-        <td>意识到、发现：<br><i>(Who.)</i><b> realized that </b><i></i></td>
-        <td>也(做过某事)：<br><i>(Who.)</i><b>'ve | 's also </b><i>(do.ed.fns)</i></td>
-        <td>先(做什么)：<br><i>(Who.)</i><b>'ll </b><i>(do.)</i> <b>first</b></td>
-        <td>最后只能(做什么)了：<br><i>(Who.)</i><b> end up </b><i>(do.)</i></td>
-    </tr>
-    <tr>
-        <td colspan="2">我刚刚(做了什么)：<br>
-            <i>(Who.'ve | 's)</i><b> just </b><i>(do.ed.fns)</i> [刚刚做完]<br>
-            <i>(Who.)</i><b> just </b><i>(do.ed)</i> [刚刚做了]<br>
-            <i>(Who. be.ed)</i><b> just </b><i>(do.ing)</i> [之前一直在]
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">终于能、终于要(做什么)：<br>
-            <i>(Who. be.)</i><b> finally </b><i>(do.ing)</i> [做完]<br>
-        </td>
-        <td>感觉不、不觉得(怎么样)<br><i>(Who.)</i><b> don't feel </b><i>(adj.)</i></td>
-    </tr>
-    <tr>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-    </tr>
-    <tr>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
     </tr>
 </table>
 
-<h4 style="text-align: center;">高频行为与口语性副词</h4>
+
+<h4 style="text-align: center;">高频聊天名词</h4>
 
 <table style="text-align: center;">
     <tr>
-        <td>终于能：<br><i></i><b>can finally</b><i></i></td>
-        <td>刚刚：<br><i></i><b>just</b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
+        <td>聊天窗口<br><b>chat window</b></td>
+        <td>东西、事情<br><b>stuff、thing</b>(可数)</td>
+        <td>时间<br><b>time</b></td>
+        <td>点钟<br><b>o'clock</b></td>
+        <td>天气<br><b>weahter</b></td>
+        <td>工作<br><b>work</b></td>
+        <td>网络<br><b>internet</b></td>
+        <td>第一次<br><b>first time</b></td>
+        <td>人<br><b>people</b></td>
+        <td>机会<br><b>chance</b></td>
     </tr>
     <tr>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
+        <td>心<br><b>heart</b></td>
+        <td>雨伞<br><b>umbrella</b></td>
+        <td>周六<br><b>Saturday</b></td>
+        <td>勇气<br><b>courage</b></td>
+        <td>马<br><b>horse</b></td>
+        <td>工资<br><b>salary</b></td>
+        <td>月<br><b>month</b></td>
+        <td>问题<br><b>problem</b></td>
+        <td>游戏<br><b>game</b></td>
+        <td>英语<br><b>English</b></td>
+    </tr>
+    <tr>
+        <td>专业<br><b>major</b></td>
+        <td>大学<br><b>university</b></td>
+        <td>谢谢<br><b>thank</b></td>
+        <td>新手、初学者<br><b>beginner</b></td>
+        <td>等级，水平<br><b>level</b></td>
+        <td>语言<br><b>language</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
     </tr>
 </table>
 
-<h4 style="text-align: center;">高频行为动词</h4>
-
-<table style="text-align: center;">
-    <tr>
-        <td>有：<br>
-            1.<b>get</b> | <b>have</b> | <b>3.has</b><br>
-            1.被赋予 | 3.三单
-        </td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-    </tr>
-    <tr>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-    </tr>
-</table>
-
-<h4 style="text-align: center;">高频描述形容词</h4>
-
-<table style="text-align: center;">
-    <tr>
-        <td colspan="4">辅助性：<b> be </b><i>(adj.)</i> ：变得(怎样)</td>
-    </tr>
-    <tr>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-        <td><br><i></i><b></b><i></i></td>
-    </tr>
-</table>
+---
+---
 
 <h4 style="text-align: center;">组句</h4>
 
@@ -644,514 +691,7 @@
     </tr>
 </table>
 
-<h4 style="text-align: center;">我（第一视角）</h4>
 
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">我：(广泛单个项目)</th>
-    </tr>
-    <tr>
-        <td>我到了<br><b>I'm here<i></i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td>我是不是应该(做某事)<br><b>Whether I should <i>(do.)</i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td>我大部分的(什么东西)<br><b>most of my <i>(noun.)</i></b></td><td>|</td>
-        <td>我醒了(多长时间)<br><b>I was only awake for <i>(time.)</i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">我想：</th>
-    </tr>
-    <tr>
-        <td>我想(做什么)：<br><b>I wanna <i>(do.)</i></b></td><td>|</td>
-        <td>我只想(做什么)：<br><b><i>I just wanna (do.)</i></b></td><td>|</td>
-        <td>我真的很想(做什么)：<br><b>I'd really wanna <i>(do.)</i></b></td><td>|</td>
-        <td>我本来想、<br>我之前想(做什么)：<br><b>I was going to <i>(do.)</i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td>我更想(做什么)：<br><b>I'd rather <i>(do.)</i></b></td><td>|</td>
-        <td>我突然想起来(某件事)<br><b>I just forgot <i>(noun.)</i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">我要：</th>
-    </tr>
-    <tr>
-        <td>我要(去做什么)：<br><b>I'm gonna <i>(do.)</i></b></td><td>|</td>
-        <td>我估计要、<br>我估计会(做什么)：<br><b>I'll probably <i>(do.)</i></b></td><td>|</td>
-        <td>我不要(在做什么)了：<br><b>I'm done <i>(do.ing)</i></b></td><td>|</td>
-        <td>我之前想过要(做什么)：<br><b>I've wanted to <i>(do.)</i></b><br>[到现在了还想]</td><td>|</td>
-        <td>我之前想过要(做什么)：<br><b>I wanted to <i>(do.)</i></b><br>[现在不想了]</td><td>|</td>
-    </tr>
-    <tr>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">我已经：</th>
-    </tr>
-    <tr>
-        <td>我已经受够了(什么)：<br><b>I've had enough of <i>(noun.)</i></b></td><td>|</td>
-        <td>我已经很久没能(做某事)了：<br><b>I haven't been able to <i>(do.)</i> for a long time</b></td><td>|</td>
-        <td>我已经(怎么样)了：<br><b>I've already <i>(adj.)</i></b></td><td>|</td>
-        <td>我已经(做完某事)了：<br><b>I've already <i>do.ed.fns</i></b></td><td>|</td>
-        <td>我已经到(哪)了：<br><b>I've gotten to the <i>(pst.)</i></b></td><td>|</td>
-        <td>我现在已经在(哪)了：<br><b>I'm already at the <i>(pst.)</i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td>我已经不需要(去做什么)了：<br><b>I don't really need to <i>(do.)</i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">我一直：</th>
-    </tr>
-    <tr>
-        <td>我一直忙于(做什么事情)：<br><b>I've been working on <i>(noun.)</i></b></td><td>|</td>
-        <td>我一直在、<br>我之前一直在(做什么)：<br>
-            <b>I was <i>(do.ing)</i></b><br>[已经做完了]<br>
-            <b>I've been <i>do.</i></b><br>[直到现在还在做]<br>
-        </td><td>|</td>
-        <td>我一直没能(做某事)：<br><b>I haven't been able to <i>(do.)</i></b></td><td>|</td>
-        <td>我一直没能(做某事)：<br><b>I haven't <i>(do.ing)</i></b>[没那么大压力的]</td><td>|</td>
-        <td>我一直没有、<br>我之前没有(做什么)：<br><b>I didn't <i>(do.)</i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
-
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">我不</th>
-    </tr>
-    <tr>
-        <td>我不确定：<br><b>I'm not sure</b></td><td>|</td>
-        <td>我不着急：<br><b>I'm not in a hurry</b></td><td>|</td>
-        <td>我什么都不想做：<br><b>I don't feel like doing anything</b></td><td>|</td>
-        <td>我为什么不能(做某事)<br><b>Why can't I <i>(do.)</i></b></td><td>|</td>
-        <td>如果我不用(做某事)<br><b>If I didn't have to <i>(do.)</i></b></td><td>|</td>
-        <td>我受不了、<br>我不能接受(什么东西)<br><b>I can't handle <i>(noun.)</i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td>我不喜欢(做什么)<br><b>I don't like <i>(do.ing)</i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">我还</th>
-    </tr>
-    <tr>
-        <td>我还有(什么东西)<br>
-            <b>I still have <i>(noun.)</i></b>[正式]<br>
-            <b>I still got <i>(noun.)</i></b>[口语]<br>
-        </td><td>|</td>
-        <td>我还没、<br>我还不(怎么样)<br><b>I'm still not <i>(adj.)</i></b></td><td>|</td>
-        <td>我还没(做某事)<br><b>I still haven't <i>(do.ed)</i></b></td><td>|</td>
-        <td>我还在(做什么)<br><b>I'm still <i>(do.ing)</i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">被动</th>
-    </tr>
-    <tr>
-        <td>导致我(做什么)<br>It caused me to<b><i>(do.)</i></b></td><td>|</td>
-        <td>让我来吧：<br><b>Let me do it</b></td><td>|</td>
-        <td>让我、<br>叫我(去做某事)<br>
-            <b>tells me to <i>(do.)</i></b>[口述]<br>
-            <b>asked me to <i>(do.)</i></b>[要求]<br>
-            </td><td>|</td>
-        <td>无论我做什么：<br><b>No matter What I do</b></td><td>|</td>
-        <td>没人能说我<br>没人能批评我：<br><b>Nobody's gonna say anything to me</b></td><td>|</td>
-        <td>等我一会儿：<br><b>wait for me</b></td><td>|</td>
-    </tr>
-    <tr>
-        <td>不确定是我、<br>不知道是不是我(做了什么)<br><b>Not sure if I <i>(do.ed)</i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-    <tr>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
-<table style="text-align: center;">
-    <tr>
-        <th colspan="12">我：(完整高频口语)</th>
-    </tr>
-    <tr>
-        <td>我到家了，我在家：<br><b>I'm home</b></td><td>|</td>
-        <td>我想想：<br><b>Let me see</b></td><td>|</td>
-        <td>在我看来：<br><b>in my apinion</b></td><td>|</td>
-        <td>我和你说：<br><b>Let me tell you</b></td><td>|</td>
-    </tr>
-    <tr>
-        <td>我不在的时候发生了什么？：<br><b>What happened while I was gone?</b></td><td>|</td>
-        <td>我就只是说说：<br><b>I'm just saying</b></td><td>|</td>
-        <td>我一直以来都没能做到这件事<br><b>I never manage to do it</b></td><td>|</td>
-        <td>我回来了：<br><b>I'm back</b></td><td>|</td>
-    </tr>
-    <tr>
-        <td>我做过这件事<br><b>I did it<i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-        <td><br><b><i></i></b></td><td>|</td>
-    </tr>
-</table>
-
----
-
-<h4 style="text-align: center;">你（第二视角）</h4>
-
-<table style="text-align: center;">
-    <tr>
-        <td><b>换你来（做）</b></td><td>your turn</td><td>|</td>
-        <td><b>你就不能（做某事）吗</b></td><td>Can't you just...?</td><td>|</td>
-        <td><b>你有没有（做某事）</b></td><td>Don't you</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>你懂的</b></td><td>you know</td><td>|</td>
-        <td><b>你要（做什么吗）？</b></td><td>You're gonna</td><td>|</td>
-        <td><b>你不需要（做某事）</b></td><td>You don't need to</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>你能不能、<br>你能（做什么）吗？</b></td><td>Can you <i>do.</i></td><td>|</td>
-        <td><b>你呢？</b></td><td>How about you</td><td>|</td>
-        <td><b>你有（什么东西）</b></td><td>You’ve got the <i>(noun.)</i></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>你已经（在做什么了）</b></td><td>You've already <i>(do.ing)</i></td><td>|</td>
-        <td><b>你有没有想过</b></td><td>Have you ever thought about</td><td>|</td>
-        <td><b>你那边发生了什么？</b></td><td>What happened on your side</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>你觉得</b></td><td>Do you think</td><td>|</td>
-        <td><b>你还记得（什么东西）吗？</b></td><td>Do you remember the <i>(noun.)</i></td><td>|</td>
-        <td><b>你想什么时候（做某事）</b></td><td>When do you wanna <i>(do.)</i></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>如果你想的话</b></td><td>if you want</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-</table>
-
-
----
-
-<h4 style="text-align: center;">他、她、它（第三视角）</h4>
-
-<table style="text-align: center;">
-    <tr>
-        <td><b>她一直在（做什么）</b></td><td>She's always do.ing</td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>她感觉（怎么样）</b></td><td>She was <i>adj.</i></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-</table>
-
----
-
-<h4 style="text-align: center;">我们</h4>
-
-<table style="text-align: center;">
-    <tr>
-        <td><b>我们之后（在做什么）吧</b></td><td>Let's do. again time.</td><td>|</td>
-        <td><b>我们通常、我们一般</b></td><td>We usually</td><td>|</td>
-        <td><b>别担心</b></td><td>Don't worry</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>全部都是、全都是</b></td><td>It's all like that</td><td>|</td>
-        <td><b>就这样吧</b></td><td>Alright then</td><td>|</td>
-        <td><b>我们其实并没有（怎么样）</b></td><td>We're not really adj.</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>我们可以（做什么）</b></td><td>We could <i>(do.)</i></td><td>|</td>
-        <td><b>我们现在有了（什么）</b></td><td>We've got (noun.)</td><td>|</td>
-        <td><b>我们可以一起</b></td><td>We can do it together</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>我们一定会（做什么）<br>/ 我们之后一定会</b></td><td>We're absolutely going to <i>(do.)</i></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-</table>
-
----
-
-<h4 style="text-align: center;">陈述表达（第三视角）</h4>
-
-<table style="text-align: center;">
-    <tr>
-        <td><b>都准备好了</b></td><td>All set</td><td>|</td>
-        <td><b>（独立的）大概</b></td><td>It takes about</td><td>|</td>
-        <td><b>那时候</b></td><td>That when</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>不太顺利</b></td><td>It didn't go very well</td><td>|</td>
-        <td><b>虽然不是</b></td><td>It wasn't</td><td>|</td>
-        <td><b>那边就是，到那里就是（什么）</b></td><td>There's the</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>轮到谁去（做什么）了？</b></td><td>Whose turn is it to do. ?</td><td>|</td>
-        <td><b>重要的是、重点是（某件事）</b></td><td>The important thing is</td><td>|</td>
-        <td><b>谁不在哪</b></td><td>isn't at</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>这也就代表着</b></td><td>That also means</td><td>|</td>
-        <td><b>还要多久就到什么时候、距离什么时候还有多久</b></td><td>There's still <i>(time.)</i> until <i>(time.)</i></td><td>|</td>
-        <td><b>这里有（什么东西）</b></td><td>There is ... in here</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>还不错</b></td><td>not bad</td><td>|</td>
-        <td><b>现在已经差不多</b></td><td>It's already almost</td><td>|</td>
-        <td><b>只是因为（事件）</b></td><td>It's just that</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>每天都这样</b></td><td>It's like this every day</td><td>|</td>
-        <td><b>似乎</b></td><td>It feel like</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>主要是</b></td><td>Mainly just</td><td>|</td>
-        <td><b>纯粹是因为</b></td><td>It's just because</td><td>|</td>
-        <td><b>可能是因为</b></td><td>Maybe because</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>至今为止，还</b></td><td>It's been going ... so far</td><td>|</td>
-        <td><b>主要是</b></td><td>The main thing is</td><td>|</td>
-        <td><b>全都是（什么东西）</b></td><td>It's always full of</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>不着急</b></td><td>take your time</td><td>|</td>
-        <td><b>这是（什么）</b></td><td>Here's</td><td>|</td>
-        <td><b>全部都、全都（怎么样了）</b></td><td>everything's</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>确实是这样</b></td><td>It's indeed this</td><td>|</td>
-        <td><b>就是这（什么）</b></td><td>It's this</td><td>|</td>
-        <td><b>不（怎样），也不（怎样）</b></td><td>neither ... nor ...</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>一个个来把</b></td><td>One thing at a time</td><td>|</td>
-        <td><b>身边都是（什么东西）</b></td><td>surrounded by</td><td>|</td>
-        <td><b>那种什么样的什么</b></td><td>the kind of ... who ...</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>比如</b></td><td>just like</td><td>|</td>
-        <td><b>因为（某个事件）</b></td><td>because ...</td><td>|</td>
-        <td><b>因为（某个具体对象）</b></td><td>because of the</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>一直在下雨</b></td><td>It's always raining</td><td>|</td>
-        <td><b>还没结束</b></td><td>not over yet</td><td>|</td>
-        <td><b>那只是个（什么）</b></td><td>that was just a (noun.)</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>也许是（因为什么）</b></td><td>maybe it's the (noun.)</td><td>|</td>
-        <td><b>要怎么说才好</b></td><td>how to put it</td><td>|</td>
-        <td><b>快到了</b></td><td>almost there</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>再坚持一会儿<br>再熬一段时间</b></td><td>hang in there</td><td>|</td>
-        <td><b>再坚持（多久）</b></td><td>hang in there for <i>(time.)</i></td><td>|</td>
-        <td><b>以后不会有（谁的）容身之地</b></td><td>There won't be a place for <i>(who.)</i></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>这里有很多的（什么东西）</b></td><td>There's a lot of <i>(noun.)</i></td><td>|</td>
-        <td><b>还有（什么）</b></td><td>There's still <i>(noun.)</i></td><td>|</td>
-        <td><b>放心</b></td><td>Don't worry</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>今天真的太tm(怎么样)了</b></td><td>It's way too fucking <i>(adj.)</i></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-    <tr>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-        <td><b></b></td><td></td><td>|</td>
-    </tr>
-</table>
-
-
----
-
-<h4 style="text-align: center;">疑问表达</h4>
-
-<table style="text-align: center;">
-    <tr>
-        <th>疑问</th><th>表达句</th><th>例句</th><th>|</th>
-        <th>疑问</th><th>表达句</th><th>例句</th><th>|</th>
-        <th>疑问</th><th>表达句</th><th>例句</th><th>|</th>
-    </tr>
-    <tr>
-        <td><b>（某个东西）在哪里</b></td><td>Where's the</td><td>Where's the my bag?</td><td>|</td></td>
-        <td><b>谁的（什么东西）</b></td><td>Whose</td><td>Whose bag is this?</td><td>|</td></td>
-        <td><b>（什么）怎么样？</b></td><td>How's</td><td>How's your day been?</td><td>|</td></td>
-    </tr>
-    <tr>
-        <td><b>怎么样的？</b></td><td>What kind?</td><td>/</td><td>|</td></td>
-        <td><b>要不？、怎么样？</b></td><td>How about</td><td>/</td><td>|</td></td>
-        <td><b></b></td><td></td><td></td><td>|</td></td>
-    </tr>
-    <tr>
-        <td><b></b></td><td></td><td></td><td>|</td></td>
-        <td><b></b></td><td></td><td></td><td>|</td></td>
-        <td><b></b></td><td></td><td></td><td>|</td></td>
-    </tr>
-</table>
-
----
-
-<h4 style="text-align: center;">高频口语用词</h4>
-
-<table style="text-align: center;">
-    <tr>
-        <td><b>就</b></td><td>just</td><td>|</td>
-        <td><b>而</b></td><td>while</td><td>|</td>
-        <td><b>当</b></td><td>As</td><td>|</td>
-        <td><b>然后</b></td><td>then</td><td>|</td>
-        <td><b>又是</b></td><td>another</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>说实话、讲真的</b></td><td>Honestly</td><td>|</td>
-        <td><b>连</b></td><td>that even</td><td>|</td>
-        <td><b>也许、可能</b></td><td>maybe</td><td>|</td>
-        <td><b>实际上、确实</b></td><td>actually</td><td>|</td>
-        <td><b>除了</b></td><td>except for</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>除非</b></td><td>unless</td><td>|</td>
-        <td><b>却又</b></td><td>yet</td><td>|</td>
-        <td><b>为了（谁）</b></td><td>for</td><td>|</td>
-        <td><b>（把什么东西）给（谁）</b></td><td>for</td><td>|</td>
-        <td><b>（我）能</b></td><td>can</td><td>|</td>
-    </tr>
-    <tr>
-        <td><b>（谁）最好（做什么）</b></td><td>'d better</td><td>|</td>
-        <td><b>（三方）被怎样</b></td><td>was</td><td>|</td></td>
-        <td><b>和谁在一起</b></td><td>with</td><td>|</td></td>
-        <td><b>没空、没机会（做某事）</b></td><td>didn't get a chance to do.</td><td>|</td></td>
-        <td><b>特别是</b></td><td>especially</td><td>|</td></td>
-    </tr>
-    <tr>
-        <td><b>叫做、叫作（什么）</b></td><td>called "<i>(name.)</i>"</td><td>|</td></td>
-        <td><b>比如呢？例如？</b></td><td>Like what?(口语)<br>example?</td><td>|</td></td>
-        <td><b>不</b></td><td>don't<br>didn't</td><td>|</td></td>
-    </tr>
-    <tr>
-        <td><b>至少</b></td><td>at least</td><td>|</td></td>
-        <td><b></b></td><td></td><td>|</td></td>
-        <td><b></b></td><td></td><td>|</td></td>
-    </tr>
-</table>
-
----
 
 <h1 style="text-align: center;">核心语法</h1>
 
