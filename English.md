@@ -2,135 +2,80 @@
 
 ---
 
-<h4 style="text-align: center;">基本 行为 表达格式</h4>
+<h4 style="text-align: center;">基本表达结构</h4>
+
+##### 行为时态
 
 <table style="text-align: center;">
     <tr>
-        <td colspan="4"><b>完成时态</b></td>
+        <td><b>过去行为</b></td>
+        <td>做了什么</td>
+        <td><b>verb</b>.ed</td>
+        <td>I <b>stayed up</b> last night ：我昨晚熬夜了</td>
     </tr>
     <tr>
-        <td>应用范围</td><td colspan="3">
-            做完了某事、近几天发生了什么、近况
-        </td>
+        <td><b>现在行为</b></td>
+        <td>正在做什么</td>
+        <td><b>be</b> + <b>verb</b>.ing</td>
+        <td>I <b>'m using</b> the bathroom ：我在上厕所</td>
     </tr>
     <tr>
-        <td>基本格式</td>
-        <td colspan="2">基本格式：<b>have</b> + <b>verb</b>.ed.fns</td>
-        <td>举例：I <b>have finished</b> my work : 我做完作业了</td>
+        <td><b>未来行为</b></td>
+        <td>1.计划<br>2.打算</td>
+        <td><b>be</b> + <b>going to</b>(gonna) + <b>verb</b></td>
+        <td>I <b>'m gonna sleep</b> early tonight ：我打算今晚要早睡</td>
     </tr>
     <tr>
-        <td>否定格式</td>
-        <td colspan="2">基本格式：<b>haven't been</b> | <b>hasn't been</b> + <b>verb</b></td>
-        <td>举例：She <b>hasn't been </b>feeling well lately : 他最近感觉不舒服</td>
+        <td><b>持续行为</b></td>
+        <td>一直在做</td>
+        <td><b>have been</b> | <b>has been</b> + <b>verb</b>.ing</td>
+        <td>I<b>'ve been learning ：我一直在学习</b></td>
     </tr>
     <tr>
-    <tr>
-        <td>技巧总结</td>
-        <td colspan="3">
-            1. have 或 has 不翻译，仅做声明时态；<br>
-            2. 否定式对整句否定，如 "hasn't been feeling well" 不对 "feeling" 否定，而是对 "feeling well" 否定 
-        </td>
-    </tr>
-</table>
-<table style="text-align: center;">
-    <tr>
-        <td colspan="4"><b>过去时态</b></td>
+        <td><b>持续性否定行为</b></td>
+        <td>1.一直否定<br>2.近况否定</td>
+        <td><b>haven't been</b> | <b>hasn't been</b> + <b>verb</b>.</td>
+        <td>She <b>hasn't been</b> feeling well lately ：她最近一直都不舒服</td>
     </tr>
     <tr>
-        <td>应用范围</td><td colspan="3">之前做了什么、已经完成了某件事</td>
+        <td><b>行为性完成</b></td>
+        <td>1.做完某事<br>2.近况</td>
+        <td><b>have</b> + <b>verb</b>.ed.fns</td>
+        <td>I <b>have finished</b> my work ：我做完作业了</td>
     </tr>
     <tr>
-        <td>基本格式</td>
-        <td colspan="2">基本格式：<b>verb</b>.ed + [time.]</td>
-        <td>举例：I <b>stayed up</b> last night : 我昨晚熬夜了</td>
+        <td><b>过去的行为性完成</b></td>
+        <td>之前已经做完</td>
+        <td><b>had</b> + <b>verb</b>.ed.fns</td>
+        <td>I <b>had finished</b> dinner ：我已经吃完晚饭了</td>
     </tr>
     <tr>
-        <td>完成格式</td>
-        <td colspan="2">基本格式：<b>had</b> + <b>verb</b>.ed.fns</td>
-        <td>举例：I <b>had finished</b> dinner before she arrived : 她到之前我就已经吃完了</td>
-    </tr>
-    <tr>
-        <td>技巧总结</td><td colspan="3">
-            1.在 "verb.pt" 后面接上 "了" 更好理解，如 "stayed up" 为 "熬夜了"；
-        </td>
-    </tr>
-</table>
-<table style="text-align: center;">
-    <tr>
-        <th colspan="4">现在进行时态</th>
-    </tr>
-    <tr>
-        <td>应用范围</td><td colspan="3">现在在做什么</td>
-    </tr>
-    <tr>
-        <td>基本格式</td>
-        <td colspan="2">基本格式：<b>be</b> + <b>verb</b>.ing</td>
-        <td>举例：I<b>'m using</b> the bathroom : 我在上厕所</td>
-    </tr>
-    <tr>
-    <tr>
-        <td>技巧总结</td><td colspan="3">
-            把 "be" 理解为"在"；
-        </td>
-    </tr>
-</table><table style="text-align: center;">
-    <tr>
-        <th colspan="4">将来时态</th>
-    </tr>
-    <tr>
-        <td>应用范围</td><td colspan="3">之后（必须）要做什么</td>
-    </tr>
-    <tr>
-        <td>基本格式</td>
-        <td colspan="2">基本格式：<b>be</b> + <b>going to</b> + <b>verb</b><br>口语替代：gonna</td>
-        <td>举例：I<b>'m going to sleep</b> early tonight : 我今晚要早点睡</td>
-    </tr>
-    <tr>
-        <td>技巧总结</td><td colspan="3">
-            把 "be going to " 理解为"要"；
-        </td>
-    </tr>
-</table>
-<table style="text-align: center;">
-    <tr>
-        <td colspan="4"><b>组合时态</b></td>
-    </tr>
-    <tr>
-        <td>现在完成进行时态</td>
-        <td colspan="3">
-            一直在做什么 ： <b>have</b> | <b>has been verb.ing</b> => I've been learning : 我一直在学习
-        </td>
-    </tr>
-    <tr>
-        <td>否定：现在完成时态</td>
-        <td colspan="3">
-            一直都不怎么样 ： <b>haven't</b> | <b>hasn't been adj.</b> => My English hasn't been good : 我英语一直都不好
-        </td>
+        <td><b></b></td>
+        <td></td>
+        <td><b></b></td>
+        <td><b></b></td>
     </tr>
 </table>
 
-<h4 style="text-align: center;">基本 状态 表达格式</h4>
+##### 表达补充
 
 <table style="text-align: center;">
     <tr>
-        <th colspan="4">形容词</th>
+        <td><b>状态表达</b></td>
+        <td>形容词_adj.</td>
+        <td><b>be</b> + <b>adj.</b></td>
+        <td>I<b>'m sleepy</b> ：我好困</td>
     </tr>
     <tr>
-        <td>应用范围</td><td colspan="3">感觉怎么样</td>
+        <td><b>状态程度</b> 提升/降低</td>
+        <td>副词_adv.</td>
+        <td><b>adv.</b> + <b>adj.</b></td>
+        <td>It's <b>too hot</b> today ：今天太热了</td>
     </tr>
-    <tr>
-        <td>基本格式</td>
-        <td colspan="2">基本格式：<b>be</b> + <b>adj.</b></td>
-        <td>举例：I <b>'m sleepy</b> : 我好困</td>
-    </tr>
-    <tr>
-    <tr>
-        <td>技巧总结</td><td colspan="3">
-            1.用于修饰名词、表达自身状态<br>
-            2.可以被副词修饰（提升或降低）程度，如 super sleepy
-        </td>
-    </tr>
+
 </table>
+
+
 <table style="text-align: center;">
     <tr>
         <th colspan="4">副词</th>
@@ -150,11 +95,6 @@
         <td colspan="2">前置格式：<b>adv.</b> + <b>verb.</b><br>后置格式：<b>verb.</b> + <b>adv.</b></td>
         <td>举例：<br>I <b>always </b> eat breakst : 我早餐吃得很快<br>She sings <b>beautifully</b> : 她唱得很好</td>
     </tr>
-    <tr>
-        <td>修形容词格式</td>
-        <td colspan="2">基本格式：<b>adv.</b> + <b>adj.</b></td>
-        <td colspan="2">举例：It's <b>too hot </b>today : 今天太热了 </td>
-    <tr>
     <tr>
         <td>双副词格式</td>
         <td colspan="2">基本格式：<b>adv.</b> + <b>adv.</b> + <b>adj.</b></td>
