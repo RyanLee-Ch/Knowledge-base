@@ -228,7 +228,7 @@
         <td>进一步<br><b>further</b></td>
         <td>已经<br><b>already</b></td>
         <td>没有<br><b>not</b></td>
-        <td><br><b></b></td>
+        <td>更<br><b>more</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -315,12 +315,12 @@
     <tr>
         <td>听说<br><b>hear</b></td>
         <td>后悔<br><b>regret</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>读<br><b>read</b></td>
+        <td>知道<br><b>know</b></td>
+        <td>关注、注重<br><b>focus</b></td>
+        <td>做<br><b>do</b></td>
+        <td>会<br><b>would</b></td>
+        <td>按<br><b>press</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
@@ -369,8 +369,8 @@
         <td>其它的<br><b>other</b></td>
         <td>全世界的<br><b>global</b></td>
         <td>通用的<br><b>common</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>超棒的<br><b>amazing</b></td>
+        <td>不开心的<br><b>unhappy</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -454,7 +454,7 @@
 <table style="text-align: center;">
     <tr>
         <td>从，到<br><b>from . until</b></td>
-        <td><br><b></b></td>
+        <td>不仅，还<br><b>wouldn't just . would</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -475,7 +475,7 @@
         <td>访问<br><b>access</b></td>
         <td>竞争<br><b>compete</b></td>
         <td>编程<br><b>program</b></td>
-        <td><br><b></b></td>
+        <td>发送<br><b>send</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -538,6 +538,18 @@
         <td>防火墙<br><b>firewall</b></td>
         <td>任务<br><b>task</b></td>
         <td>技能<br><b>skill</b></td>
+        <td>宇宙、太空<br><b>space</b></td>
+        <td>人性<br><b>human nature</b></td>
+    </tr>
+    <tr>
+        <td>按钮<br><b>button</b></td>
+        <td>坐标<br><b>coordinate</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
@@ -590,6 +602,18 @@
         <td>新手、初学者<br><b>beginner</b></td>
         <td>等级，水平<br><b>level</b></td>
         <td>语言<br><b>language</b></td>
+        <td>与什么有关的<br><b>anything</b></td>
+        <td>书本<br><b>book</b></td>
+        <td>名词<br><b>name</b></td>
+        <td>经历<br><b>experience</b></td>
+    </tr>
+    <tr>
+        <td>地球<br><b>Earth</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
