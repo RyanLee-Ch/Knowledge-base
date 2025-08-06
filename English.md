@@ -49,12 +49,12 @@
         <td><b>had</b> + <b>verb</b>.ed.fns</td>
         <td>I <b>had finished</b> dinner ：我已经吃完晚饭了</td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td><b></b></td>
         <td></td>
         <td><b></b></td>
         <td><b></b></td>
-    </tr>
+    </tr> -->
 </table>
 
 ##### 表达补充
@@ -62,65 +62,47 @@
 <table style="text-align: center;">
     <tr>
         <td><b>状态表达</b></td>
-        <td>形容词_adj.</td>
         <td><b>be</b> + <b>adj.</b></td>
         <td>I<b>'m sleepy</b> ：我好困</td>
     </tr>
     <tr>
-        <td><b>状态程度</b> 提升/降低</td>
-        <td>副词_adv.</td>
+        <td><b>状态程度</b> 提升 / 降低</td>
         <td><b>adv.</b> + <b>adj.</b></td>
         <td>It's <b>too hot</b> today ：今天太热了</td>
     </tr>
-
+    <tr>
+        <td><b>动作程度</b> 提升 / 降低</td>
+        <td><b>adv.</b> + <b>verb.动作程度</b></td>
+        <td>She <b>sings beautifully</b></td>
+    </tr>
+    <tr>
+        <td><b>习惯性口语表达</b></td>
+        <td><b>adv.</b><b></b></td>
+        <td><b>Actually, </b>I like it</td>
+    </tr>
+    <tr>
+        <td><b>双副词口语性表达</b></td>
+        <td><b>adv.</b> + <b>adv.</b></td>
+        <td>I'm <b>just kinda</b> tired</td>
+    </tr>
+    <!-- <tr>
+        <td><b></b></td>
+        <td><b></b><b></b></td>
+        <td><b></b></td>
+    </tr> -->
 </table>
 
 
-<table style="text-align: center;">
-    <tr>
-        <th colspan="4">副词</th>
-    </tr>
-    <tr>
-        <td>应用范围</td><td colspan="3">
-            口语或助动词、动作程度或状态、提升或降低形容词等级
-        </td>
-    </tr>
-    <tr>
-        <td>修助动词格式</td>
-        <td colspan="2">基本格式：<b>aux</b> + <b>adv.</b></td>
-        <td colspan="2">举例：They <b>will probably </b>come : 他们可能会来</td>
-    </td>
-    <tr>
-        <td>修动词格式</td>
-        <td colspan="2">前置格式：<b>adv.</b> + <b>verb.</b><br>后置格式：<b>verb.</b> + <b>adv.</b></td>
-        <td>举例：<br>I <b>always </b> eat breakst : 我早餐吃得很快<br>She sings <b>beautifully</b> : 她唱得很好</td>
-    </tr>
-    <tr>
-        <td>双副词格式</td>
-        <td colspan="2">基本格式：<b>adv.</b> + <b>adv.</b> + <b>adj.</b></td>
-        <td colspan="2">举例：I'm <b>just kind tired </b> : 我就是感觉有点累 </td>
-    </td>
-    <tr>
-        <td>口语副词格式</td>
-        <td colspan="2">基本格式：<b>adv., + sent.</b></td>
-        <td colspan="2">举例：<b>Actually</b>, I like it : 我就是感觉有点累 </td>
-    </td>
-    <tr>
-        <td>技巧总结</td><td colspan="3">
-            1.修饰助动词时，先翻译"副词"，再是助动词
-        </td>
-    </tr>
-</table>
 
 <h4 style="text-align: center;">高频口语用词</h4>
 
-##### 高频疑问代词：.
+##### 高频代词：.
 
 <table style="text-align: center;">
     <tr>
         <td>哪个<br><b>Which</b></td>
         <td>什么<br><b>What</b></td>
-        <td><br><b></b></td>
+        <td>一切<br><b>Everything</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -229,11 +211,11 @@
         <td>已经<br><b>already</b></td>
         <td>没有<br><b>not</b></td>
         <td>更<br><b>more</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>起来<br><b>up</b></td>
+        <td>甚至<br><b>even</b></td>
+        <td>尤其是、特别是<br><b>Especially</b></td>
+        <td>平时<br><b>usually</b></td>
+        <td>总是<br><b>always</b></td>
     </tr>
     <tr>
         <td><br><b></b></td>
@@ -289,7 +271,7 @@
         <td>带<br><b>bring</b></td>
     </tr>
     <tr>
-        <td>让、赚<br><b>make</b></td>
+        <td>(强迫)让、赚<br><b>make</b></td>
         <td>讨厌<br><b>hate</b></td>
         <td>希望<br><b>hope</b></td>
         <td>请假<br><b>take a day off</b></td>
@@ -321,6 +303,18 @@
         <td>做<br><b>do</b></td>
         <td>会<br><b>would</b></td>
         <td>按<br><b>press</b></td>
+        <td>爱<br><b>love</b></td>
+        <td>看到<br><b>see</b></td>
+    </tr>
+    <tr>
+        <td>醒<br><b>wake</b></td>
+        <td>显示<br><b>display</b></td>
+        <td>让<br><b>let</b></td>
+        <td>告诉<br><b>tell</b></td>
+        <td>上班<br><b>go to work</b></td>
+        <td>坐<br><b>sit</b></td>
+        <td>感叹<br><b>marvel</b></td>
+        <td>变化<br><b>change</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
@@ -371,9 +365,9 @@
         <td>通用的<br><b>common</b></td>
         <td>超棒的<br><b>amazing</b></td>
         <td>不开心的<br><b>unhappy</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>未来的<br><b>future</b></td>
+        <td>方便的<br><b>convenient</b></td>
+        <td>舒服的<br><b>comfortable</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
@@ -402,7 +396,7 @@
         <td>因为<br><b>because</b></td>
         <td>直到<br><b>until</b></td>
         <td>是否<br><b>whether</b></td>
-        <td><br><b></b></td>
+        <td>当<br><b>When</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
@@ -426,9 +420,9 @@
     <tr>
         <td>在后面<br><b>behind</b></td>
         <td>对于我而言<br><b>for me</b></td>
-        <td>在期间<br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>在期间<br><b>during</b></td>
+        <td>在之后<br><b>after</b></td>
+        <td>关于<br><b>about</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -502,8 +496,8 @@
 <table style="text-align: center;">
     <tr>
         <td>技术的<br><b>technical</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>自动化的<br><b>automated</b></td>
+        <td>无人驾驶的<br><b>driverless </b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -544,7 +538,7 @@
     <tr>
         <td>按钮<br><b>button</b></td>
         <td>坐标<br><b>coordinate</b></td>
-        <td><br><b></b></td>
+        <td>全息影响<br><b>hologram</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -609,13 +603,13 @@
     </tr>
     <tr>
         <td>地球<br><b>Earth</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>派系<br><b>faction</b></td>
+        <td>城市<br><b>city</b></td>
+        <td>窗口<br><b>window</b></td>
+        <td>无人巴士<br><b>no driver bus</b></td>
+        <td>公交车<br><b>bus</b></td>
+        <td>技术<br><b>technology</b> = tech</td>
+        <td>便民车、穿梭车<br><b>shuttle</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
