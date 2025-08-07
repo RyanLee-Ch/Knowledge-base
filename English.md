@@ -103,7 +103,7 @@
         <td>哪个<br><b>Which</b></td>
         <td>什么<br><b>What</b></td>
         <td>一切<br><b>Everything</b></td>
-        <td><br><b></b></td>
+        <td>怎样<br><b>how</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -209,13 +209,25 @@
         <td>足够<br><b>enough</b></td>
         <td>进一步<br><b>further</b></td>
         <td>已经<br><b>already</b></td>
-        <td>没有<br><b>not</b></td>
+        <td>没有、并不<br><b>not</b></td>
         <td>更<br><b>more</b></td>
         <td>起来<br><b>up</b></td>
         <td>甚至<br><b>even</b></td>
         <td>尤其是、特别是<br><b>Especially</b></td>
         <td>平时<br><b>usually</b></td>
         <td>总是<br><b>always</b></td>
+    </tr>
+    <tr>
+        <td>不久之前<br><b>not long ago</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
     </tr>
     <tr>
         <td><br><b></b></td>
@@ -315,6 +327,18 @@
         <td>坐<br><b>sit</b></td>
         <td>感叹<br><b>marvel</b></td>
         <td>变化<br><b>change</b></td>
+        <td>制造<br><b>create</b></td>
+        <td>判断<br><b>decide</b></td>
+    </tr>
+    <tr>
+        <td>帮助<br><b>help</b></td>
+        <td>抓<br><b>grab</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
@@ -368,8 +392,8 @@
         <td>未来的<br><b>future</b></td>
         <td>方便的<br><b>convenient</b></td>
         <td>舒服的<br><b>comfortable</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>对的<br><b>right</b></td>
+        <td>困难的<br><b>hard</b></td>
     </tr>
     <tr>
         <td><br><b></b></td>
@@ -396,7 +420,7 @@
         <td>因为<br><b>because</b></td>
         <td>直到<br><b>until</b></td>
         <td>是否<br><b>whether</b></td>
-        <td>当<br><b>When</b></td>
+        <td>当、什么时候<br><b>When</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
@@ -423,7 +447,7 @@
         <td>在期间<br><b>during</b></td>
         <td>在之后<br><b>after</b></td>
         <td>关于<br><b>about</b></td>
-        <td><br><b></b></td>
+        <td>通过<br><b>via</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -498,8 +522,8 @@
         <td>技术的<br><b>technical</b></td>
         <td>自动化的<br><b>automated</b></td>
         <td>无人驾驶的<br><b>driverless </b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>机械的<br><b>mechanical</b></td>
+        <td>稳定的<br><b>stable</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -538,9 +562,9 @@
     <tr>
         <td>按钮<br><b>button</b></td>
         <td>坐标<br><b>coordinate</b></td>
-        <td>全息影响<br><b>hologram</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>全息影像<br><b>hologram</b></td>
+        <td>装甲、战甲<br><b>armor</b></td>
+        <td>信号<br><b>signal</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -585,7 +609,7 @@
         <td>马<br><b>horse</b></td>
         <td>工资<br><b>salary</b></td>
         <td>月<br><b>month</b></td>
-        <td>问题<br><b>problem</b></td>
+        <td>问题<br><b>problem<br>question</b></td>
         <td>游戏<br><b>game</b></td>
         <td>英语<br><b>English</b></td>
     </tr>
@@ -610,6 +634,18 @@
         <td>公交车<br><b>bus</b></td>
         <td>技术<br><b>technology</b> = tech</td>
         <td>便民车、穿梭车<br><b>shuttle</b></td>
+        <td>主意、想法<br><b>idea</b></td>
+        <td>手<br><b>hand</b></td>
+    </tr>
+    <tr>
+        <td>钢铁侠<br><b>Iron Man</b></td>
+        <td>梦想<br><b>dream</b></td>
+        <td>肌肉<br><b>muscle</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
