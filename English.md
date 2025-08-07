@@ -104,7 +104,7 @@
         <td>什么<br><b>What</b></td>
         <td>一切<br><b>Everything</b></td>
         <td>怎样<br><b>how</b></td>
-        <td><br><b></b></td>
+        <td>这个<br><b>this</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -333,8 +333,8 @@
     <tr>
         <td>帮助<br><b>help</b></td>
         <td>抓<br><b>grab</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>选择<br><b>choose</b></td>
+        <td>实现<br><b>achieve</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -448,7 +448,7 @@
         <td>在之后<br><b>after</b></td>
         <td>关于<br><b>about</b></td>
         <td>通过<br><b>via</b></td>
-        <td><br><b></b></td>
+        <td>搭配<br><b>with</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -565,9 +565,9 @@
         <td>全息影像<br><b>hologram</b></td>
         <td>装甲、战甲<br><b>armor</b></td>
         <td>信号<br><b>signal</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>压力传感器<br><b>pressure sensor</b></td>
+        <td>光电编码器<br><b>optical encoder</b></td>
+        <td>功能<br><b>function</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
