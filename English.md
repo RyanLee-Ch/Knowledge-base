@@ -130,7 +130,7 @@
 <table style="text-align: center;">
     <tr>
         <td>必须<br><b>have to, has to</b></td>
-        <td>不、没<br><b>don't</b></td>
+        <td>不、没<br><b>don't<br>didn't</b></td>
         <td>能<br><b>can</b></td>
         <td>不能<br><b>can't</b></td>
         <td>从未、从来没有<br><b>have never、has never</b></td>
@@ -219,11 +219,11 @@
     </tr>
     <tr>
         <td>不久之前<br><b>not long ago</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>终于<br><b>finally</b></td>
+        <td>非常<br><b>so</b></td>
+        <td>没有<br><b>There weren't</b></td>
+        <td>这么<br><b>this</b></td>
+        <td>那时候<br><b>back then</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -335,11 +335,11 @@
         <td>抓<br><b>grab</b></td>
         <td>选择<br><b>choose</b></td>
         <td>实现<br><b>achieve</b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
-        <td><br><b></b></td>
+        <td>明白、了解了<br><b>see</b></td>
+        <td>享受<br><b>enjoy</b></td>
+        <td>希望<br><b>hope</b></td>
+        <td>意识到<br><b>realize</b></td>
+        <td>保护<br><b>protect</b></td>
         <td><br><b></b></td>
     </tr>
     <tr>
@@ -394,6 +394,18 @@
         <td>舒服的<br><b>comfortable</b></td>
         <td>对的<br><b>right</b></td>
         <td>困难的<br><b>hard</b></td>
+    </tr>
+    <tr>
+        <td>热的<br><b>hot</b></td>
+        <td>错的<br><b>wrong</b></td>
+        <td>唯一的<br><b>unique</b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
     </tr>
     <tr>
         <td><br><b></b></td>
@@ -568,7 +580,7 @@
         <td>压力传感器<br><b>pressure sensor</b></td>
         <td>光电编码器<br><b>optical encoder</b></td>
         <td>功能<br><b>function</b></td>
-        <td><br><b></b></td>
+        <td>全球变暖<br><b>global warming</b></td>
         <td><br><b></b></td>
     </tr>
     <tr>
@@ -641,6 +653,18 @@
         <td>钢铁侠<br><b>Iron Man</b></td>
         <td>梦想<br><b>dream</b></td>
         <td>肌肉<br><b>muscle</b></td>
+        <td>云<br><b>cloud</b></td>
+        <td>天空<br><b>sky</b></td>
+        <td>早上<br><b>morning</b></td>
+        <td>方法<br><b>way</b></td>
+        <td>发展<br><b>development</b></td>
+        <td>便利<br><b>convenience</b></td>
+        <td>时代<br><b>era</b></td>
+    </tr>
+    <tr>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
+        <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
@@ -649,8 +673,13 @@
         <td><br><b></b></td>
         <td><br><b></b></td>
     </tr>
+</table>
+
+<h4 style="text-align: center;">限定词</h4>
+
+<table style="text-align: center;">
     <tr>
-        <td><br><b></b></td>
+        <td>今天<br><b>this</b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
         <td><br><b></b></td>
